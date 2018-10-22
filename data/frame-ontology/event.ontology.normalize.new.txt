@@ -1,0 +1,1150 @@
+1	life	be born	person	be born	be born	be born	be born	time	place
+2	life	marry	person	marry	marry	marry	marry	time	place
+3	life	divorce	person	divorce	divorce	divorce	divorce	time	place
+4	life	injure	agent	victim	instrument	injure	injure	time	place
+5	life	die	agent	victim	instrument	die	die	time	place
+6	movement	transport	agent	artifact	vehicle	price	origin	destination	time
+7	transaction	transfer ownership	buyer	seller	beneficiary	artifact	price	time	place
+8	transaction	transfer money	giver	recipient	beneficiary	money	time	place
+9	business	start organization	agent	organization	start organization	start organization	start organization	time	place
+10	business	merge organization	organization	merge organization	merge organization	merge organization	merge organization	time	place
+11	business	declare bankruptcy	organization	declare bankruptcy	declare bankruptcy	declare bankruptcy	declare bankruptcy	time	place
+12	business	end organization	organization	end organization	end organization	end organization	end organization	time	place
+13	conflict	attack	attacker	target	instrument	attack	attack	time	place
+14	conflict	demonstrate	demonstrate	demonstrate	demonstrate	demonstrate	entity	time	place
+15	contact	meet	meet	meet	meet	entity	time	place
+16	contact	phone write	phone write	phone write	phone write	phone write	entity	time
+17	personell	start position	person	entity	position	start position	start position	time	place
+18	personell	end position	person	entity	position	end position	end position	time	place
+19	personell	nominate	person	agent	position	nominate	nominate	time	place
+20	personell	elect	person	entity	position	elect	elect	time	place
+21	justice	arrest jail	person	agent	crime	arrest jail	arrest jail	time	place
+22	justice	release parole	person	entity	crime	release parole	release parole	time	place
+23	justice	trial hearing	defendant	prosecutor	adjudicator	crime	trial hearing	time	place
+24	justice	charge indict	defendant	prosecutor	adjudicator	crime	charge indict	time	place
+25	justice	sue	plaintiff	defendant	adjudicator	sue	crime	time	place
+26	justice	convict	defendant	adjudicator	crime	convict	convict	time	place
+27	justice	sentence	defendant	adjudicator	crime	sentence	sentence	sentence	time	place
+28	justice	fine	entity	adjudicator	money	crime	fine	time	place
+29	justice	execute	person	agent	crime	execute	execute	time	place
+30	justice	extradite	agent	person	destination	origin	crime	time
+31	justice	acquit	defendant	adjudicator	crime	acquit	acquit	time	place
+32	justice	appeal	defendant	prosecutor	adjudicator	crime	appeal	time	place
+33	justice	pardon	defendant	adjudicator	crime	pardon	pardon	time	place
+34	indigenous_origin	indigenous origin	entity	origin
+35	physical_entity	physical entity	constituents	entity	formational cause	name	type	place
+36	artifact	artifact	artifact	use	creator	time of creation	name	type	material
+37	biological_entity	biological entity	organism	descriptor	origin
+38	actually_occurring_entity	actually occurring entity	instance	type
+39	containment_relation_is	containment relation is	profiled region	landmark	trajector
+40	locative_relation	locative relation	ground	figure	distance	direction	time	figures	deixis	accessibility	directness	temporal profile	region quantification	profiled region
+41	time_vector	time vector	landmark event	distance	direction	event
+42	temporal_collocation	temporal collocation	trajector entity	landmark event	event description	trajector period	landmark period	trajector event	landmark entity
+43	system	system	component entities	complex	function	descriptor	possessor	salient entity
+44	be_in_agreement_on_assessment	be in agreement on assessment	cognizers	cognizer 1	cognizer 2	question	degree	time	place	manner	explanation	depictive	opinion	topic	circumstances
+45	diversity	diversity	group	dimension	degree	time	place	manner	explanation	depictive
+46	shooting_scenario	shooting scenario	firearm	projectile	agent	distance	goal	manner	means	path	source	degree	depictive	area	place	time	purpose
+47	cause_harm	cause harm	agent	victim	result	degree	manner	means	place	time	body part	instrument	purpose	depictive	containing event	explanation	iterations	cause	subregion bodypart	circumstances	frequency	duration	explanation	particular iteration	concessive	re encoding	period of iterations
+48	apply_heat	apply heat	cook	heating instrument	place	food	time	means	purpose	duration	medium	co participant	temperature setting	degree	manner	container	beneficiary
+49	cache	cache	cache	resource	use	possessor	descriptor
+50	reading_perception	reading perception	reader	text	degree	sought phenomenon	manner	means	purpose	time	place	circumstances	context
+51	verification	verification	inspector	unconfirmed content	manner	means	degree	purpose	medium	instrument	condition	descriptor	viewpoint	time	place	explanation
+52	scrutinizing_for	scrutinizing for	cognizer	ground	phenomenon	manner	means	degree	purpose	instrument
+53	research	research	researcher	field	question	topic	time	means	population	manner	purpose	duration of state	place	type
+54	judicial_body	judicial body	judicial body	domain	task	rank	seat	jurisdiction	source of authority	judges	place
+55	government_institution	government institution	institution	members	purpose	period of existence	name	place	descriptor	domain
+56	improvised_explosive_device	improvised explosive device	bomb	use	type	material	wielder	part	name	time of creation	creator	descriptor	target	location
+57	agree_or_refuse_to_act	agree or refuse to act	speaker	interlocutor	medium	proposed action	manner	depictive	means	internal cause	place	time	purpose	particular iteration	role	co timed event	frequency	explanation	event description
+58	post_receiving	post receiving	recipient	donor	theme	manner	time
+59	intentional_traversing	intentional traversing	self mover	source	path	goal	manner	distance	means	speed	cotheme	depictive	place	path shape	direction	time	purpose	means of motion	duration	explanation	containing event	frequency	re encoding	new situation	circumstances	endpoints	co participant
+60	indicating	indicating	communicator	unresolved referent	medium	amount of information	depictive	manner	means	time	duration	frequency	explanation	place	purpose
+61	rising_to_a_challenge	rising to a challenge	protagonist	activity	degree	circumstances	explanation	relevant feature	means	time	place	manner
+62	reshaping	reshaping	deformer	instrument	manner	means	patient	place	purpose	time	result	resistant surface	locus	cause	iterations	explanation	degree	subregion	goal	containing event	circumstances	imposed purpose	configuration
+63	fining	fining	speaker	instrument	means	place	purpose	time	payer	manner	reason	result	fine	rate	unit	event	degree
+64	corporal_punishment	corporal punishment	agent	instrument	means	place	purpose	time	evaluee	manner	reason	result	body part	depictive	degree	severity
+65	execution	execution	executioner	instrument	means	place	purpose	execution	time	degree	depictive	executed	manner	explanation	result
+66	revenge	revenge	avenger	degree	depictive	offender	instrument	manner	punishment	place	purpose	injury	result	time	injured party	duration
+67	emergency_fire	emergency fire	fire	fuel	manner	name	place	time
+68	appellations	appellations	name	title	context	type
+69	dispersal	dispersal	agent	individuals	source	goal area	cause	manner	time	means	result	path	place	explanation	distance	speed
+70	burying	burying	agent	theme	source	path	goal	manner	degree	depictive	means	result	duration	place	explanation	time	area	cotheme	distance	speed	cause	purpose	beneficiary
+71	setting_out	setting out	self mover	source	path	intended goal	manner	means	speed	cotheme	depictive	place	path shape	direction	time	purpose	vehicle	duration of final state	result	explanation	reciprocation	containing event	frequency	re encoding	new situation	circumstances	coordinated event	distance
+72	locale_by_event	locale by event	locale	constituent parts	relative location	defining event	descriptor	name
+73	membership	membership	member	group	standing	manner	time	place
+74	measurable_attributes	measurable attributes	entity	attribute	value	degree	time	circumstances
+75	addiction	addiction	addict	addictant	degree	compeller
+76	sharpness	sharpness	entity	attribute	degree	time	circumstances	sharpness
+77	obviousness	obviousness	phenomenon	attribute	degree	time	circumstances	perceiver	evidence	group	location of protagonist	particular iteration	direction
+78	prominence	prominence	entity	attribute	degree	time	circumstances	place
+79	margin_of_resolution	margin of resolution	outcome	margin	degree	circumstances	value
+80	exertive_force	exertive force	entity	force	degree	time	circumstances	magnitude	action
+81	abundance	abundance	collection	quantity	degree	time	circumstances	measure	place
+82	social_behavior_evaluation	social behavior evaluation	behavior	individual	judge	degree
+83	familiarity	familiarity	entity	cognizer	degree	role	depictive	context
+84	position_on_a_scale	position on a scale	item	variable	value	degree	domain
+85	correctness	correctness	information	degree	domain	parameter	frequency	circumstances	source	re encoding	manner	time	medium	viewpoint	result	communicative act	topic
+86	similarity	similarity	entities	entity 1	entity 2	dimension	degree	time	place	manner	explanation	depictive	circumstances	differentiating fact
+87	being_at_risk	being at risk	asset	degree	harmful event	dangerous entity	place	time	explanation	situation	domain	depictive	frequency	duration
+88	capability	capability	entity	event	degree	circumstances	explanation	relevant feature	status	role	time	frequency
+89	difficulty	difficulty	activity	degree	circumstances	experiencer	parameter	standard	time
+90	color	color	entity	color	type	comparand	color qualifier	descriptor	cause	degree	subregion	attribute
+91	wealthiness	wealthiness	person	institution	degree	type of possession
+92	likelihood	likelihood	hypothetical event	explanation	degree	place	time	circumstances
+93	desirability	desirability	evaluee	degree	circumstances	parameter	comparison set	affected party	depictive
+94	body_description_part	body description part	individual	figure	degree
+95	body_description_holistic	body description holistic	degree	individual	figure
+96	intoxication	intoxication	cognizer	intoxicant	degree	evaluation	duration	manner	time
+97	suitability	suitability	evaluee	degree	purpose	user
+98	being_active	being active	duration	activity	place	purpose	time	manner	agent	salient entity	role	degree	event description	frequency	depictive	circumstances	explanation	iterations
+99	artificiality	artificiality	entity	reference category	degree
+100	certainty	certainty	cognizer	topic	content	degree	manner	expressor	concessive	explanation
+101	medical_conditions	medical conditions	patient	body part	cause	symptom	name	ailment	degree	place
+102	inclination	inclination	entity	behavior	degree	basis	containing event
+103	being_dry	being dry	item	degree	subregion
+104	biological_urge	biological urge	degree	experiencer	time	place	expressor	duration	explanation	state	parameter
+105	compatibility	compatibility	item 1	item 2	items	degree	parameter
+106	chemical-sense_description	chemical sense description	perceptual source	degree	sensory attribute
+107	usefulness	usefulness	entity	purpose	degree	domain	time
+108	frequency	frequency	event	degree	interval	time span	rate	salient entity	attribute	time	group
+109	fullness	fullness	container	contents	degree	time	frequency	duration
+110	taking_time	taking time	activity	attribute	time length	degree	time	circumstances	agent	duration
+111	completeness	completeness	degree	whole	time
+112	risky_situation	risky situation	situation	asset	degree	place	time	domain	dangerous entity	frequency	circumstances
+113	being_wet	being wet	item	liquid	degree	explanation	subregion
+114	being_rotted	being rotted	patient	degree
+115	obscurity	obscurity	entity	degree	time	circumstances	explanation	explanation	duration	place
+116	lively_place	lively place	location	degree	time	circumstances	place	activity	individuals	duration	manner	explanation
+117	luck	luck	state of affairs	protagonist	descriptor	role	time	degree	place
+118	color_qualities	color qualities	color	degree	described entity
+119	personal_success	personal success	person	time	degree	endeavor	explanation	field
+120	level_of_light	level of light	location	source	degree	descriptor
+121	judgment_of_intensity	judgment of intensity	entity	attribute	degree	time	circumstances	place
+122	gradable_artistic_quality	gradable artistic quality	entity	attribute	degree	time	circumstances	place
+123	chemical_potency	chemical potency	chemical entity	degree	time	circumstances	place
+124	being_strong	being strong	entity	degree	manner	means	place	time	purpose	force	circumstances	depictive
+125	system_complexity	system complexity	system	degree	dimension
+126	releasing_from_custody	releasing from custody	authorities	suspect	manner	means	explanation	purpose	place	time	holding location
+127	drop_in_on	drop in on	visitor	normal location	path	host	manner	means	mode of transportation	time	purpose	host location	containing event	frequency	duration	place	particular iteration	explanation
+128	fame	fame	entity	degree	time	circumstances	explanation	reason	duration	place	role	means
+129	emotions_by_stimulus	emotions by stimulus	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	event	parameter	manner	time
+130	part_whole	part whole	part	whole	part prop	orientation	system	name
+131	preserving	preserving	agent	medium	patient	instrument	means	manner	place	time	purpose	result	duration	depictive	degree
+132	subversion	subversion	cause	counter actor	agent	activity	state of affairs	degree	purpose	place	time	manner	frequency	iterations	means
+133	commerce_goods-transfer	commerce goods transfer	buyer	goods	means	money	rate	seller	unit	time	place	explanation	manner	purpose	exchangers
+134	commerce_money-transfer	commerce money transfer	buyer	goods	means	money	rate	seller	unit	place	time	explanation	manner	purpose	exchangers
+135	preferred_alternative_scenario	preferred alternative scenario	profiled possibility	opposite possibility	positive consequence	undesirable consequence
+136	fragmentation_scenario	fragmentation scenario	whole	parts	part 1	part 2	criterion	depictive	manner	degree	result	time	place	resistant surface	means
+137	activity_done_state	activity done state	agent	activity	time	place
+138	business_closure	business closure	entity	explanation	time	place	circumstances	manner	containing event	depictive
+139	event_instance	event instance	instance	event	instance prop	iteration count
+140	exemplar	exemplar	instance	type	domain	instance prop
+141	finish_competition	finish competition	competitor	opponent	competitors	score	margin	rank	prize	competition	means	manner	time	place	venue	particular iteration
+142	filling	filling	agent	theme	source	path	goal	degree	depictive	manner	means	result	explanation	time	place	purpose	instrument	subregion	cause
+143	procreative_sex	procreative sex	participants	participant 1	participant 2	duration	manner	means	place	time	domain	purpose
+144	judgment_direct_address	judgment direct address	communicator	addressee	topic	reason	medium	degree	depictive	grounds	manner	means	place	time	role	expressor
+145	bragging	bragging	speaker	addressee	topic	manner	means	medium	depictive	time	place	explanation	message	role	expressor	occasion	particular iteration	internal cause	degree
+146	post_giving	post giving	donor	theme	manner	recipient	time
+147	patrolling	patrolling	patrol	ground	unwanted entity	means	purpose	manner	degree	location of protagonist	desired state of affairs	time	circumstances	instrument	particular iteration	descriptor	members	duration	co participant	vehicle	possessor
+148	work	work	agent	goal	outcome	means	degree	time	depictive	place	manner	duration	purpose	particular iteration	circumstances	domain	salient entity	frequency	event description	descriptor
+149	attempt_suasion	attempt suasion	content	addressee	speaker	topic	medium	manner	depictive	means	degree	time	explanation	period of iterations	circumstances	group	frequency	re encoding	place	purpose	salient entity	role
+150	attempt_means	attempt means	agent	goal	outcome	means	degree	time	depictive	place	manner	duration	purpose	particular iteration	circumstances	domain	frequency
+151	inspecting	inspecting	inspector	ground	unwanted entity	means	purpose	manner	degree	location of protagonist	desired state of affairs	time	circumstances	instrument	particular iteration
+152	scouring	scouring	searcher	ground	sought entity	manner	duration	degree	instrument	means	purpose	time
+153	enforcing	enforcing	rule	duration	time	place	circumstances	explanation	focal participant	agent	manner	means	purpose	degree	medium	outcome
+154	active_substance	active substance	effect	substance	descriptor	type	name
+155	pre_giving	pre giving	donor	theme	manner	recipient	time
+156	visitor_and_host	visitor and host	visitor	host	purpose	normal location	host location
+157	surviving	surviving	survivor	dangerous situation	place	time	means	degree	depictive
+158	hit_or_miss	hit or miss	agent	target	outcome	means	degree	time	depictive	place	manner	purpose	particular iteration	circumstances	instrument	target location	iterations	deviation
+159	endeavor_failure	endeavor failure	endeavor	explanation	time	place	circumstances	manner	containing event	depictive	degree	means
+160	communication_noise	communication noise	speaker	addressee	message	topic	medium	depictive	manner	internal cause	degree	means	voice	place	explanation	back	time
+161	reassuring	reassuring	speaker	experiencer	content	situation	medium	amount of reassurance	depictive	manner	means	time
+162	gesture	gesture	communicator	addressee	message	manner	means	body part	time	place	indicated entity	instrument
+163	communication_manner	communication manner	speaker	addressee	message	topic	medium	manner	depictive	degree	result	back	duration	time	place	means
+164	communication_response	communication response	speaker	addressee	message	topic	medium	trigger	manner	depictive	means	internal cause	place	time	purpose	duration
+165	summarizing	summarizing	communicator	addressee	state of affairs	medium	summary	time	place	manner	means	purpose	duration	containing event	circumstances
+166	mass_motion	mass motion	mass theme	degree	area	time	speed	source	path	goal	duration	distance	mode of transportation	manner	place	direction	purpose
+167	motion_directional	motion directional	area	depictive	distance	duration	goal	manner	path	speed	time	carrier	theme	source	result	place	degree	point of contact	path shape	means	direction	explanation	purpose	circumstances
+168	self_motion	self motion	self mover	source	path	goal	manner	distance	area	time	cotheme	speed	depictive	means	result	internal cause	duration	purpose	place	explanation	external cause	direction	coordinated event	path shape	concessive
+169	motion_noise	motion noise	cause	theme	source	path	goal	area	distance	speed	depictive	manner	means	result	degree	place	duration	time
+170	fluidic_motion	fluidic motion	area	distance	duration	goal	path	source	speed	fluid	time	configuration	manner	explanation	depictive	result	place
+171	cause_fluidic_motion	cause fluidic motion	agent	cause	fluid	source	goal	path	area	manner	time	explanation	result	place	instrument	means	purpose	distance
+172	shoot_projectiles	shoot projectiles	firearm	projectile	agent	distance	goal	manner	means	path	source	degree	depictive	area	place	time	purpose
+173	passing	passing	agent	theme	source	path	recipient	distance	area	depictive	means	manner	instrument	place	time	result	initial state	explanation
+174	ontogeny	ontogeny	entity	organism	prior state	post state	time	degree	domain	manner	place	rate	duration
+175	reveal_secret	reveal secret	speaker	addressee	information	topic	manner	completeness	means	internal cause	medium	depictive	time	place	re encoding	location of protagonist	containing event	source material	event description	period of iterations	frequency	descriptor
+176	complaining	complaining	complainer	addressee	complaint	topic	manner	frequency	means	internal cause	medium	depictive	time	place	particular iteration	degree	occasion	explanation	result
+177	recording	recording	agent	phenomenon	manner	means	time	purpose	instrument	attribute	value	entity	medium	language	place	degree	frequency	duration	period of iterations
+178	telling	telling	speaker	addressee	message	topic	manner	means	medium	time	place	viewpoint	descriptor	iterations
+179	predicting	predicting	speaker	eventuality	evidence	time	place	manner	time of eventuality	accuracy	descriptor	medium	topic	means
+180	reading_aloud	reading aloud	addressee	speaker	text	manner	source	time	purpose	place	means
+181	prison	prison	operator	inmates	name	location	security	penal institution	part
+182	roadways	roadways	roadway	source	goal	endpoints	characteristic	name	path	use	direction	relative location	material	frequency of use	abundant entities	length	part
+183	posing_as	posing as	agent	manner	means	simulated entity	purpose	explanation	place	time
+184	giving	giving	donor	recipient	theme	place	explanation	time	purpose	means	manner	circumstances	imposed purpose	depictive	period of iterations
+185	transitive_action	transitive action	agent	patient	event	depictive	result	means	manner	time	place	cause
+186	control	control	controlling entity	dependent entity	controlling variable	dependent situation	dependent variable	controlling situation	degree	time	place	manner
+187	make_possible_to_do	make possible to do	enabled action	enablement	time	place	manner	circumstances
+188	relational_natural_features	relational natural features	constituent parts	container possessor	formational cause	focal feature	name	relative location	type	descriptor	landmark feature
+189	dominate_competitor	dominate competitor	agent	patient	situation	duration	manner	place	time	degree
+190	setting_back_burn	setting back burn	firefighter	flame	flammables	time	place	manner	means	explanation	containing event	depictive
+191	warning	warning	speaker	addressee	message	topic	manner	means	medium	time	place	viewpoint	descriptor	iterations
+192	suasion	suasion	addressee	speaker	content	text	topic	means	degree	manner	time	place
+193	change_of_consistency	change of consistency	result	initial state	patient	place	time	explanation	speed	circumstances	manner	degree	subregion
+194	rotting	rotting	patient	place	time	explanation	result	initial state	duration	speed	subregion	degree	frequency	manner	circumstances
+195	process_resume	process resume	duration	process	place	explanation	time	frequency	manner
+196	process_start	process start	event	place	explanation	time	initial subevent	depictive	manner	result	duration	frequency
+197	process_stop	process stop	process	place	explanation	time	degree	depictive	manner	result	final subevent	explanation	duration	frequency
+198	experience_bodily_harm	experience bodily harm	body part	containing event	manner	place	experiencer	time	injuring entity	severity	iterations	duration	frequency
+199	becoming	becoming	place	explanation	time	duration of final state	manner	entity	final state	final category	transitional period	explanation	initial state	circumstances	initial category	explanation	group
+200	misdeed	misdeed	wrongdoer	misdeed	severity	viewpoint	time	place	purpose	means	manner	injured party	frequency
+201	process_end	process end	process	final subevent	place	explanation	time	degree	depictive	manner	result	frequency	duration
+202	intentionally_act	intentionally act	act	agent	place	purpose	time	means	manner	domain	frequency	period of iterations	result	particular iteration	explanation	event description
+203	coming_to_believe	coming to believe	cognizer	evidence	content	topic	degree	depictive	manner	means	time	medium	place
+204	getting	getting	recipient	theme	source	place	purpose	explanation	time	means	manner	result	concessive	beneficiary
+205	eventive_affecting	eventive affecting	event	place	time	explanation	entity	manner	frequency
+206	process_pause	process pause	process	place	explanation	time	degree	depictive	manner	result	final subevent	explanation	duration	iterations
+207	waking_up	waking up	place	sleeper	time	sleep state	manner	depictive	new situation	circumstances	particular iteration	explanation	frequency
+208	ceasing_to_be	ceasing to be	entity	place	time	explanation	components	duration of final state	role	period of iterations	manner	degree
+209	go_into_shape	go into shape	place	explanation	time	duration	manner	frequency	theme	resultant configuration	containing event	circumstances	imposed purpose
+210	objective_influence	objective influence	influencing entity	dependent entity	influencing variable	dependent situation	dependent variable	influencing situation	degree	time	place	manner	circumstances	descriptor
+211	motion	motion	theme	source	path	goal	area	distance	speed	carrier	duration	time	manner	result	depictive	place	degree	direction	purpose	path shape	containing event	frequency	iterations
+212	come_together	come together	individuals	configuration	means	place	time	purpose	iterations	frequency	manner	topic	party 1	party 2	explanation	particular iteration
+213	birth_scenario	birth scenario	offspring	mother	father	parents	time	place	manner
+214	coming_to_be	coming to be	entity	place	time	explanation	components	duration of final state	role	period of iterations	manner
+215	change_position_on_a_scale	change position on a scale	attribute	item	difference	path	final value	initial value	speed	correlate	manner	degree	circumstances	result	group	time	duration	value range	initial correlate	final correlate	place	initial state	final state	period of iterations	particular iteration	containing event	explanation
+216	coincidence	coincidence	state of affairs	time	place	manner
+217	traversing	traversing	theme	source	path	goal	manner	distance	area	degree	means	speed	cotheme	depictive	place	path shape	direction	time	purpose	means of motion	duration	result	explanation	reciprocation	containing event	frequency	re encoding	new situation	circumstances	endpoints	coordinated event	period of iterations	event description	iterations
+218	emergency	emergency	undesirable event	entity	circumstances	place	domain	experiencer	time	manner	timespan	duration	frequency
+219	losing_someone	losing someone	sufferer	deceased	place	time	explanation	manner	timespan	duration	frequency
+220	store	store	supply	resource	use	possessor	descriptor
+221	organization	organization	organization	members	purpose	period of existence	name	container possessor	place	descriptor
+222	entourage	entourage	individuals	entourage	aggregate property	name	container possessor	domain	attended person
+223	convoy	convoy	vehicles	convoy	aggregate property	name	domain	possessor	cargo	source	path	goal	direction	support	place
+224	product_line	product line	brand	collection	products	descriptor	collection name	designer
+225	team	team	members	team	aggregate property	name	container possessor	domain	activity	parent organization
+226	theft	theft	perpetrator	victim	goods	source	manner	means	place	purpose	explanation	time	instrument	frequency
+227	kidnapping	kidnapping	perpetrator	victim	place	time	source	goal	degree	manner	means	purpose	explanation	event	co participant	duration	frequency
+228	smuggling	smuggling	perpetrator	goods	duration	place	explanation	time	source	path	goal	means	event	manner	purpose	frequency	constant location	distance	speed
+229	rape	rape	perpetrator	victim	degree	event	manner	means	result	duration	place	explanation	time	instrument	purpose	frequency
+230	piracy	piracy	perpetrator	vehicle	victim	degree	event	manner	means	duration	place	time	goal	source	purpose	explanation	instrument	frequency
+231	abusing	abusing	abuser	victim	type	degree	place	time	manner	means	instrument	purpose	explanation	duration	frequency	depictive	circumstances	period of iterations
+232	robbery	robbery	perpetrator	victim	goods	source	means	manner	place	time	purpose	explanation	frequency	co participant
+233	intentionally_create	intentionally create	creator	place	time	purpose	components	depictive	created entity	manner	means	instrument	role	co participant
+234	emotion_active	emotion active	experiencer	topic	degree	manner	result	means
+235	assessing	assessing	assessor	phenomenon	value	feature	evidence	manner	method	means	time	standard	purpose	place	medium	co participant	frequency	beneficiary	depictive	degree	circumstances	result	duration	explanation
+236	memorization	memorization	cognizer	pattern	time	place	manner	completeness	means	purpose
+237	run_risk	run risk	protagonist	place	severity	time	bad outcome	asset	action	frequency	purpose	explanation	iterations	circumstances	beneficiary
+238	operating_a_system	operating a system	system	operator	place	purpose	time	means	manner	duration
+239	use_firearm	use firearm	agent	firearm	means	manner	place	purpose	time	goal	path	source	area	iterations	depictive
+240	expend_resource	expend resource	resource	agent	purpose	manner	place	means	time	degree
+241	detonate_explosive	detonate explosive	agent	place	purpose	time	means	manner	explosive	outcome	containing event	frequency	period of iterations	circumstances	depictive	explanation	degree	duration	instrument	victim
+242	commerce_sell	commerce sell	buyer	goods	means	money	rate	seller	unit	place	purpose	explanation	time	manner	result	period of iterations	imposed purpose	back	relay
+243	commerce_pay	commerce pay	buyer	goods	means	money	rate	seller	unit	place	purpose	explanation	time	manner	circumstances	frequency
+244	supply	supply	supplier	recipient	theme	place	explanation	time	purpose	means	manner	circumstances	imposed purpose	period of iterations	cotheme	source
+245	surrendering_possession	surrendering possession	surrenderer	recipient	theme	place	explanation	time	purpose	means	manner	circumstances	period of iterations	event description	re encoding	viewpoint	particular iteration	depictive	containing event	frequency	result	degree
+246	submitting_documents	submitting documents	submittor	authority	documents	place	explanation	time	purpose	means	manner	imposed purpose	depictive	beneficiary
+247	lending	lending	borrower	duration	lender	theme	purpose	time	manner	place
+248	speed_description	speed description	entity	attribute	speed	degree	time	circumstances	explanation
+249	age	age	entity	attribute	age	degree	time	circumstances	expressor	descriptor	duration
+250	temperature	temperature	entity	attribute	temperature	degree	time	circumstances	subregion
+251	unemployment_rate	unemployment rate	individuals	employment	value	degree	time	group	place
+252	location_of_light	location of light	degree	depictive	manner	figure	ground	result	cause of shine	light	duration	place	time
+253	sound_level	sound level	entity	attribute	volume	degree	circumstances	time	place	explanation
+254	rate_description	rate description	event	rate	degree	agent
+255	duration_description	duration description	eventuality	period	degree
+256	size	size	entity	degree	standard	subregion
+257	arraignment	arraignment	defendant	place	time	judge	charges	duration	manner
+258	activity	activity	activity	duration	place	time	agent	manner
+259	precipitation	precipitation	precipitation	rate	quantity	place	duration	time	explanation	manner	temperature	frequency
+260	shopping	shopping	shopper	ground	goods	manner	means	outcome	place	time	purpose	degree	depictive	co participant
+261	tasting	tasting	agent	food	means	instrument	purpose	time	place	manner
+262	cotheme	cotheme	theme	cotheme	source	path	goal	manner	distance	area	depictive	event	means	result	mode of transportation	speed	road	duration	time	purpose	following distance	handle	place	explanation	direction
+263	travel	travel	area	co participant	distance	duration	goal	manner	means	path	traveler	source	speed	mode of transportation	time	explanation	baggage	frequency	purpose	iterations	period of iterations	travel means	depictive	result	place	direction	descriptor
+264	fleeing	fleeing	self mover	source	path	goal	manner	distance	time	cotheme	speed	depictive	means	result	internal cause	duration	purpose	place	explanation	external cause	direction	means of motion
+265	vocalizations	vocalizations	sound source	location of sound source	place	internal cause	manner	degree	explanation	path	frequency
+266	temporary_stay	temporary stay	guest	location	duration	co participant	time	host	purpose	means	manner	frequency	iterations	descriptor	place	explanation	containing event
+267	nuclear_process	nuclear process	element	final element	initial element	time	manner	degree	circumstances	cause	frequency	period of iterations	place
+268	temporary_transfer_scenario	temporary transfer scenario	theme	lender	borrower	duration
+269	activity_pause	activity pause	activity	agent	manner	means	place	time	purpose	depictive	completeness	duration	legal basis	explanation	event description
+270	imprisonment	imprisonment	prisoner	prison	authorities	offense	place	time	purpose	means	manner	explanation	duration	conviction	iterations
+271	verdict	verdict	judge	finding	defendant	charges	case	time	place	legal basis	circumstances	manner	purpose	means	explanation
+272	partiality	partiality	decision maker	side 1	sides	side 2	domain	degree	manifestation of bias	dispute	judge	explanation	time	expressor	manner
+273	strictness	strictness	agent	controlled entity	controlling act	issue	medium	degree	area	judge	expressor	manner
+274	hospitality	hospitality	host	guest	behavior	degree	topic	expressor	manner	judge
+275	stinginess	stinginess	resource controller	resource	recipient	degree	behavior	judge	expressor	manner
+276	proximity_image_schema	proximity image schema	near profiled region	ground	degree	distant profiled region
+277	collocation_image_schema	collocation image schema	profiled region	ground
+278	bounded_region	bounded region	interior	ground	surface	boundary	exterior
+279	alignment_image_schema	alignment image schema	alignment match	ground	alignment mismatch
+280	contact_image_schema	contact image schema	profiled region	ground
+281	activity_start	activity start	place	purpose	time	depictive	manner	means	activity	agent	co timed event	circumstances	containing event	event description	explanation	particular iteration	new situation	viewpoint	concessive
+282	come_into_effect	come into effect	binding principle	manner	place	time	depictive	duration	result	initial subevent	frequency	explanation
+283	being_incarcerated	being incarcerated	prisoner	prison	authorities	crime	place	time	manner	explanation	duration
+284	social_connection	social connection	individuals	individual 1	individual 2	connection	type	degree
+285	guest_and_host	guest and host	host	guest	degree	depictive	manner	means	duration	host location	time	descriptor
+286	emptying	emptying	agent	theme	source	path	goal	degree	depictive	manner	means	result	instrument	cause	place	time	containing event	explanation	circumstances	purpose
+287	process_initial_state	process initial state	process	time	duration
+288	process_stopped_state	process stopped state	process	time	duration
+289	change_of_state_initial_state	change of state initial state	entity	state
+290	change_of_state_endstate	change of state endstate	entity	state
+291	dead_or_alive	dead or alive	explanation	degree	protagonist	figure	time
+292	bearing_arms	bearing arms	degree	weapon	protagonist	place	time
+293	state_of_entity	state of entity	entity	evaluation	state	parameter
+294	being_located	being located	theme	place	dependent state	time	location	cotheme	depictive
+295	being_in_operation	being in operation	device	time	place	duration
+296	attention	attention	perceiver	ground	figure	degree	circumstances	manner	expressor
+297	existence	existence	entity	time	duration	inherent purpose	state	explanation	place	circumstances	viewpoint	concessive	depictive
+298	posture	posture	agent	location	degree	depictive	manner	dependent state	time	purpose	duration	point of contact
+299	being_attached	being attached	connector	handle	item	items	goal	dependent state	manner
+300	process_completed_state	process completed state	place	process	time
+301	process_uncompleted_state	process uncompleted state	place	process	time
+302	thriving	thriving	entity	circumstances	time	place	frequency	role	particular iteration	duration	explanation	desirability
+303	dying	dying	protagonist	place	explanation	time	duration	manner	frequency
+304	transportation_status	transportation status	rider	vehicle
+305	chaos	chaos	entity	state	degree	place	duration	time	descriptor
+306	emotions	emotions	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	event	parameter	manner
+307	calendric_unit	calendric unit	relative time	name	whole	count	unit	salient event
+308	victim_operated_ied	victim operated ied	bomb	use	type	material	bomber	part	name	time of creation	creator	descriptor	victim
+309	distant_operated_ied	distant operated ied	bomb	use	type	material	detonator	part	name	time of creation	creator	descriptor	target
+310	transfer	transfer	recipient	theme	donor	place	explanation	time	transferors	means	manner	purpose
+311	lose_possession	lose possession	place	explanation	time	donor	theme	purpose	recipient
+312	causation	causation	cause	affected	effect	place	time	actor	circumstances	manner	explanation	means	frequency	concessive
+313	historic_event	historic event	event	place	time	explanation	entity	manner	domain	degree
+314	aging	aging	entity	time	circumstances	manner	place	result
+315	response	response	response	responding entity	trigger	time	manner	place	purpose	agent	dimension	role
+316	arriving	arriving	theme	source	path	goal	manner	means	mode of transportation	cotheme	time	new situation	depictive	period of iterations	circumstances	purpose	degree	event description	re encoding	frequency	place
+317	departing	departing	theme	source	path	goal	manner	means	speed	mode of transportation	cotheme	distance	time	frequency	journey	place	depictive	explanation	purpose	duration of final state	iterations	circumstances	re encoding	containing event	explanation	event description
+318	eventive_cognizer_affecting	eventive cognizer affecting	cognizer	content	event	degree	manner	time	place
+319	destiny	destiny	state of affairs	protagonist	descriptor	role	time	place	manner
+320	explosion	explosion	explosive	time	place	victim	containing event	means	manner	degree	frequency
+321	quarreling	quarreling	arguers	arguer1	arguer2	issue	frequency	depictive	duration	manner	means	medium	amount of discussion	purpose	place	time
+322	cause_proliferation_in_number	cause proliferation in number	agent	difference	attribute	initial number	final number	co variable	path	speed	set	means	purpose	time	cause	manner	place	initial state	final state
+323	bounded_entity	bounded entity	bounded area	constituent parts	relative location	name	owner	formational cause	type
+324	substance	substance	constituents	substance	type	origin	descriptor	inherent purpose
+325	food	food	descriptor	type	food	constituent parts
+326	body_mark	body mark	attachment	body mark	descriptor	possessor	cause	type	constituents
+327	intoxicants	intoxicants	intoxicant	type	descriptor	country of origin
+328	arithmetic_commutative	arithmetic commutative	terms	term1	term2
+329	arithmetic_non-commutative	arithmetic non commutative	term 1	term 2
+330	mathematical_relationship	mathematical relationship	expression 1	expression 2	type
+331	absorb_heat	absorb heat	entity	container	heat source	place	medium	manner	time	explanation	temperature	duration	circumstances	purpose	depictive	result
+332	becoming_visible	becoming visible	entity	perceiver	manner	place	time
+333	becoming_detached	becoming detached	item	source	items	manner	place	time	degree	event description
+334	becoming_attached	becoming attached	connector	handle	item	items	goal	result	manner	place	time
+335	becoming_dry	becoming dry	entity	degree	manner	place	time	circumstances	concessive	particular iteration
+336	pre_receiving	pre receiving	recipient	donor	theme	manner	time
+337	firing	firing	employee	employer	manner	place	position	purpose	task	time	explanation	means
+338	quitting	quitting	employee	employer	field	manner	place	position	purpose	time	explanation	means
+339	treating_and_mistreating	treating and mistreating	agent	manner	circumstances	affected party	explanation	time	place	means	domain	degree	standard
+340	halt	halt	purpose	place	time	depictive	manner	theme	duration	means	co timed event	explanation	period of iterations	containing event
+341	visiting_scenario_arrival	visiting scenario arrival	agent	normal location	path	goal	manner	means	mode of transportation	time	purpose	place
+342	vehicle_landing	vehicle landing	vehicle	source	path	goal	manner	means	mode of transportation	cotheme	time	new situation	depictive	period of iterations	circumstances	purpose	degree	event description	re encoding	frequency	place
+343	losing	losing	owner	possession	time	place	means	explanation
+344	accompaniment	accompaniment	participant	co participant	participants
+345	idiosyncrasy	idiosyncrasy	idiosyncrasy	entity	degree
+346	partitive	partitive	subset	group
+347	relation_between_individuals	relation between individuals	individual 1	individual 2	relation	individuals
+348	relative_time	relative time	focal occasion	landmark occasion	interval	degree	manner	explanation	focal participant
+349	trajector-landmark	trajector landmark	trajector	landmark	profiled region
+350	simultaneity	simultaneity	profiled event	landmark event	events	degree
+351	duration_relation	duration relation	eventuality	period	duration	entity	user
+352	sequence	sequence	entity 1	entity 2	entities	relation type	descriptor
+353	inherent_purpose	inherent purpose	apparatus	goal	domain	type
+354	being_in_control	being in control	controlling entity	dependent entity	dependent situation	dependent variable	degree	time	place	manner	concessive
+355	change_resistance	change resistance	agent	patient	depictive	result	means	manner	time	place	cause	attack
+356	operate_vehicle	operate vehicle	driver	vehicle	source	path	goal	manner	distance	area	depictive	event	means	result	cotheme	speed	route	circumstances	place	duration	time	degree	purpose	particular iteration	explanation	frequency
+357	authority	authority	agent	theme	domain	source	descriptor
+358	political_locales	political locales	constituent parts	container possessor	locale	name	relative location	descriptor	population
+359	shaped_part	shaped part	part	whole	part prop	orientation
+360	part_orientational	part orientational	part	part prop	whole
+361	part_edge	part edge	orientation	whole	part prop	part
+362	part_inner_outer	part inner outer	part	whole	part prop
+363	part_ordered_segments	part ordered segments	ordinality	part prop	part	whole
+364	rest	rest	part	rest	whole
+365	vehicle_subpart	vehicle subpart	part	whole	function	orientation	descriptor
+366	temporary_group	temporary group	temporary group	members	purpose	period of existence	name	container possessor	place	descriptor	parent organization
+367	people_by_age	people by age	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance
+368	people_by_origin	people by origin	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance
+369	people_by_religion	people by religion	origin	person	persistent characteristic	descriptor	age	ethnicity	religion
+370	people_by_jurisdiction	people by jurisdiction	jurisdiction	person	persistent characteristic	descriptor	age	ethnicity	authority
+371	people_by_vocation	people by vocation	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	rank	place of employment	employer	type	compensation	contract basis
+372	people_by_morality	people by morality	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	field
+373	people_along_political_spectrum	people along political spectrum	individual	place	domain	origin	descriptor	persistent characteristic	age	ethnicity	position qualifier
+374	people_by_residence	people by residence	known resident	location	indicated resident	age	descriptor	persistent characteristic	residents	ethnicity
+375	irregular_combatants	irregular combatants	origin	combatant	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	side 1	side 2	conflict	purpose	group
+376	noncombatant	noncombatant	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	conflict
+377	request_entity	request entity	customer	entity	medium	supplier	time	beneficiary	manner	means
+378	negation	negation	negated proposition	factual situation
+379	conditional_scenario	conditional scenario	profiled possibility	opposite possibility	consequence	anti consequence
+380	change_event_time	change event time	agent	cause	event	manner	means	degree	destination event	destination time	interval	landmark time	explanation	purpose	time	place
+381	change_event_duration	change event duration	agent	new duration	initial duration	time	degree	manner	explanation	event	cause	purpose	means
+382	exchange_currency	exchange currency	money owner	sum 1	source currency	sum 2	exchange service	target currency	place	time	manner	exchange rate	means	purpose	money
+383	pre_lose_possession	pre lose possession	owner	possession	manner	time
+384	post_lose_possession	post lose possession	owner	possession	manner	time
+385	pre_getting	pre getting	recipient	theme	manner	time
+386	post_getting	post getting	recipient	theme	manner	time
+387	pre_transfer	pre transfer	donor	theme	manner	recipient	time
+388	post_transfer	post transfer	donor	theme	manner	recipient	time
+389	retaining	retaining	agent	theme	duration	place	manner	time	means
+390	used_up	used up	resource	degree	explanation	excess	subregion
+391	sufficiency	sufficiency	item	scale	enabled situation	degree	circumstances
+392	evaluative_comparison	evaluative comparison	profiled item	standard item	attribute	degree	standard attribute	profiled attribute	comparison set	place	time	manner
+393	surpassing	surpassing	standard item	profiled item	attribute	extent	time	standard attribute	profiled attribute	comparison set	iterations	circumstances
+394	obligation_scenario	obligation scenario	responsible party	duty	condition	consequence	time	place	degree	purpose
+395	compliance	compliance	protagonist	act	state of affairs	norm	degree	depictive	manner	means	result	time	explanation	judge
+396	meet_specifications	meet specifications	agent	entity	event	standard	manner	means	time	degree
+397	social_event_collective	social event collective	attendees	degree	duration	manner	place	time	particular iteration
+398	social_event_individuals	social event individuals	party 1	party 2	degree	duration	manner	place	time
+399	architectural_part	architectural part	part	whole	descriptor	orientation	material	creator
+400	observable_body_parts	observable body parts	possessor	descriptor	body part	subregion	orientational location	attachment
+401	awareness	awareness	cognizer	content	evidence	topic	degree	manner	expressor	role	paradigm	time	explanation
+402	set_relation	set relation	superset	subset	manner	time	place
+403	wholes_and_parts	wholes and parts	whole	part	manner	time	place
+404	product_delivery	product delivery	deliverer	goal	goods	vehicle	depictive	manner	purchaser	purpose	explanation	time	cotheme	container	place	speed	circumstances	source	means	path
+405	activity_ready_state	activity ready state	protagonist	activity	salient entity	time	result	duration	degree
+406	grasp	grasp	cognizer	phenomenon	completeness	manner	reference point	category	time	faculty	evidence	concessive
+407	expectation	expectation	cognizer	phenomenon	degree	depictive	manner	evidence	place	time	topic	time of phenomenon
+408	make_compromise	make compromise	party 1	party 2	obligation	topic	medium	manner	parties	place	time	descriptor	purpose
+409	performers	performers	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	rank	place of employment	employer	type	compensation	contract basis
+410	medical_professionals	medical professionals	type	professional	affliction	body system	age	compensation	contract basis	employer	ethnicity	place of employment	rank	origin
+411	member_of_military	member of military	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	rank	place of employment	loyal side	type	compensation	contract basis	military organization
+412	representative	representative	origin	representative	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	rank	place of employment	represented	type	compensation	contract basis
+413	be_subset_of	be subset of	total	part	frequency	contrast set	subregion	explanation	manner	time	place
+414	part_piece	part piece	piece	piece prop	substance
+415	mining	mining	miner	resource	place	means	outcome	time
+416	people	people	origin	person	persistent characteristic	descriptor	age	ethnicity	context of acquaintance
+417	animals	animals	animal	descriptor	origin	characteristic
+418	plants	plants	plant	characteristic	descriptor	origin
+419	have_as_requirement	have as requirement	dependent	requirement	degree	explanation	time	condition	domain	required entity	required individual	place
+420	emotions_success_or_failure	emotions success or failure	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	event	parameter	manner	time	frequency
+421	emotions_of_mental_activity	emotions of mental activity	experiencer	stimulus	degree	empathy target	explanation	circumstances	parameter	manner	time	event description
+422	others_situation_as_stimulus	others situation as stimulus	experiencer	other	degree	explanation	circumstances	parameter	manner	time	situation	frequency
+423	annoyance	annoyance	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	parameter	manner	time
+424	just_found_out	just found out	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	parameter	manner	time	type	medium
+425	emotions_by_possibility	emotions by possibility	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	event	parameter	manner	time
+426	foreign_or_domestic_country	foreign or domestic country	constituent parts	container possessor	current country	name	relative location	descriptor	population	discourse salient country
+427	relational_political_locales	relational political locales	constituent parts	container possessor	locale	name	relative location	descriptor	population
+428	fire_emergency_scenario	fire emergency scenario	fire	duration	place	responder	response	time	victim
+429	sleep	sleep	sleeper	duration	time	place	degree	manner
+430	activity_ongoing	activity ongoing	duration	activity	place	purpose	time	depictive	manner	means	co timed event	agent	explanation	event description	circumstances
+431	labeling	labeling	speaker	entity	label	time	place	medium	particular iteration	explanation	duration of final state
+432	exchange	exchange	exchanger 1	place	purpose	time	means	manner	exchanger 2	exchangers	depictive	theme 1	theme 2	themes	frequency	period of iterations
+433	amalgamation	amalgamation	parts	whole	part 1	part 2	degree	manner	result	time	place	depictive	descriptor
+434	make_acquaintance	make acquaintance	time	place	individuals	context	individual 1	individual 2	intermediary	explanation	iterations	depictive	particular iteration
+435	collaboration	collaboration	partner 1	partner 2	undertaking	manner	partners	time	place	duration	degree	means
+436	commercial_transaction	commercial transaction	buyer	goods	means	money	rate	seller	unit
+437	chatting	chatting	interlocutors	interlocutor 1	interlocutor 2	duration	topic	language	means of communication	purpose	time	place	means	manner	depictive
+438	sharing	sharing	protagonists	protagonist 1	protagonist 2	entity	time	place
+439	arithmetic	arithmetic	term1	term2	terms
+440	law_enforcement_agency	law enforcement agency	agency	members	purpose	period of existence	name	place	descriptor	jurisdiction
+441	fighting_activity	fighting activity	combatants	fight	time	place	manner	degree	salient activity	issue	duration	means	instrument	purpose
+442	seeking_to_achieve	seeking to achieve	agent	sought entity	outcome	means	degree	time	depictive	place	manner	duration	purpose	state of affairs	explanation	source	circumstances	beneficiary
+443	death	death	protagonist	explanation	degree	depictive	manner	result	explanation	place	time	containing event	maleficiary
+444	renting_out	renting out	lessee	goods	means	money	rate	lessor	unit	place	purpose	explanation	time	manner	result	duration	imposed purpose	back	relay
+445	hunting_scenario	hunting scenario	hunter	food	instrument	duration	manner	means	outcome	place	time	purpose	frequency	degree	ground	particular iteration
+446	agriculture	agriculture	agriculturist	food	instrument	duration	manner	means	outcome	place	time	purpose	frequency	degree	ground	particular iteration	type	event description	circumstances
+447	aesthetics	aesthetics	entity	attribute	degree	time	circumstances	viewpoint	place
+448	desirable_event	desirable event	state of affairs	circumstances	purpose	degree
+449	social_desirability	social desirability	evaluee	degree	circumstances	comparison set	depictive
+450	popularity	popularity	evaluee	degree	judge	time	place
+451	circumscribed_existence	circumscribed existence	entity	time	place	circumstances	descriptor
+452	arson	arson	degree	depictive	offense	manner	means	purpose	duration	place	time	perpetrator	victim	frequency	explanation
+453	being_up_to_it	being up to it	entity	activity	degree	circumstances	explanation	relevant feature
+454	having_or_lacking_access	having or lacking access	theme	degree	circumstances	explanation	useful location	barrier
+455	being_operational	being operational	object	degree
+456	capacity	capacity	entity	degree	circumstances	explanation	status	theme	depictive	subregion	purpose	time
+457	gusto	gusto	person	degree
+458	physical_strength	physical strength	entity	theme	source	descriptor	degree	time
+459	forging	forging	agent	forgery	manner	means	degree	explanation	purpose	standard	instrument	place	time	fidelity	source
+460	communication	communication	communicator	addressee	message	topic	medium	amount of information	depictive	manner	means	time	duration	frequency	place	purpose	content	quote
+461	region_with_portal	region with portal	interior	ground	surface	boundary	exterior
+462	prevent_from_having	prevent from having	preventing cause	state of affairs	time	place	agent	protagonist	purpose	duration	explanation	frequency	containing event
+463	self_control	self control	agent	event	degree	place	time
+464	mental_property	mental property	protagonist	behavior	practice	degree	manner	domain	judge
+465	morality_evaluation	morality evaluation	evaluee	behavior	degree	expressor	judge
+466	social_interaction_evaluation	social interaction evaluation	evaluee	affected party	behavior	degree	topic	expressor	manner	judge
+467	disgraceful_situation	disgraceful situation	state of affairs	protagonist	degree	explanation	judge
+468	rashness	rashness	protagonist	action	time	degree	judge
+469	suspiciousness	suspiciousness	behavior	degree	social actor	judge	entity
+470	praiseworthiness	praiseworthiness	evaluee	behavior	degree	judge
+471	expertise	expertise	protagonist	skill	knowledge	degree	behavior product	focal participant	role	manner	judge	time
+472	frugality	frugality	resource controller	behavior	resource	degree	judge
+473	trendiness	trendiness	behavior	degree	time	circumstances	evaluee	judge	place
+474	attitude_description	attitude description	cognizer	attitude	state of affairs	degree	time
+475	health_response	health response	protagonist	trigger	manner	degree	body part
+476	accuracy	accuracy	agent	target	outcome	means	degree	time	place	instrument	target value	deviation	domain	circumstances	frequency
+477	volubility	volubility	speaker	company	text	topic	medium	degree	manner	judge
+478	sociability	sociability	protagonist	company	content	manner	degree	judge
+479	temporary_leave	temporary leave	person	activity	duration	location	type	depictive	frequency	explanation	purpose	time
+480	punctual_perception	punctual perception	perceiver	phenomenon	body part	location of protagonist	direction	depictive	ground	manner	degree	means	time	duration
+481	perception_active	perception active	perceiver agentive	phenomenon	body part	location of protagonist	direction	depictive	state	manner	means	time	purpose	place	duration	expected entity	ground	obscuring medium
+482	give_impression	give impression	phenomenon	characterization	appraisal	inference	perceiver passive	body part	location of protagonist	path	state	ground	degree	circumstances	frequency
+483	perception_experience	perception experience	perceiver passive	phenomenon	body part	location of protagonist	direction	depictive	state	manner	degree	means	time	duration	contrastive context	concessive	circumstances	frequency	place	ground	obscuring medium
+484	becoming_aware	becoming aware	cognizer	phenomenon	ground	state	evidence	degree	manner	means	topic	time	purpose	instrument	frequency	circumstances	explanation	particular iteration	period of iterations
+485	sensation	sensation	perceiver passive	source	percept	body part	descriptor	ground	time	degree
+486	activity_paused_state	activity paused state	agent	time	activity	duration
+487	visitor_arrival	visitor arrival	agent	normal location	path	goal	manner	means	mode of transportation	time	purpose	place
+488	visit_host_arrival	visit host arrival	visitor	normal location	path	host	manner	means	mode of transportation	time	purpose	host location	place
+489	socially_significant_history_scenario	socially significant history scenario	event	place	time	manner	domain
+490	preliminaries	preliminaries	agent	preparatory act	purpose	descriptor	degree	domain of relevance	time	place	preparatory phase
+491	military	military	force	possessor	descriptor	members	domain	goal	period of existence
+492	institutions	institutions	institution	domain	purpose	members	place
+493	relating_concepts	relating concepts	concept 1	concept 2	point of view	evidence	circumstances	concepts	degree	specification
+494	being_relevant	being relevant	phenomenon	endeavor	cognizer	degree	specification
+495	trust	trust	cognizer	topic	content	degree	manner	expressor	information source	information
+496	predicament	predicament	experiencer	situation	explanation	time	place	domain
+497	rope_manipulation	rope manipulation	agent	instrument	place	purpose	time	means	explanation	rope	knot	manner	locus
+498	trying_out	trying out	evaluator	experience	entity	manner	means	purpose	time	place
+499	precariousness	precariousness	theme	degree	falling event	dangerous entity	place	time	explanation	situation	domain	depictive	frequency	duration	manner	location	result
+500	measure_area	measure area	unit	area	count	occupant
+501	measure_by_action	measure by action	entity	event	count	particular iteration
+502	measure_duration	measure duration	count	unit	process	agent
+503	measure_linear_extent	measure linear extent	count	stuff	unit	dimension
+504	measure_mass	measure mass	count	unit	stuff
+505	measure_volume	measure volume	count	stuff	unit	size
+506	renting	renting	lessee	goods	means	money	rate	lessor	unit	place	purpose	explanation	time	manner	recipient	duration	imposed purpose
+507	locale_by_collocation	locale by collocation	profiled region	constituent parts	relative location	formational cause	container possessor	descriptor	related event	inherent purpose	entity	time
+508	visiting	visiting	agent	entity	dependent state	purpose	normal location	time	duration	manner	place	means	iterations	frequency	depictive
+509	visit_host_stay	visit host stay	visitor	host	dependent state	purpose	normal location	time	duration	manner	place	means	iterations	frequency	host location
+510	having_commercial_agreement	having commercial agreement	party 1	party 2	obligation	topic	medium	parties	place	time
+511	ingestion	ingestion	ingestor	place	time	ingestibles	instrument	manner	source	means	degree	purpose	duration
+512	be_on_alert	be on alert	protagonist	activity	time	result	duration	degree	danger	dangerous entity
+513	committing_crime	committing crime	perpetrator	crime	purpose	manner	means	explanation	time	place	instrument	frequency
+514	intentional_deception	intentional deception	deceiver	victim	topic	means	time	place
+515	deception_success	deception success	deceiver	victim	topic	means	time	place	phenomenon
+516	fear	fear	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	parameter	manner	time
+517	scarcity	scarcity	collection	quantity	degree	time	circumstances	measure	place
+518	activity_stop	activity stop	purpose	place	time	depictive	manner	result	agent	activity	duration	means	co timed event	degree	frequency	containing event	circumstances	re encoding	explanation	event description	particular iteration
+519	mental_stimulus_exp_focus	mental stimulus exp focus	experiencer	topic	stimulus	degree	empathy target	explanation	circumstances	state	parameter	manner	time	expressor	duration
+520	desiring	desiring	experiencer	event	focal participant	degree	manner	explanation	purpose of event	time of event	location of event	time	place	duration	explanation	role of focal participant
+521	documents	documents	bearer	issuer	obligation	right	status	specification	document	medium	descriptor
+522	records	records	record	data	recorder	entity	type	descriptor	material	medium	place	time of creation	title	topic	use
+523	prank	prank	prank	joker	victim	descriptor
+524	activity_finish	activity finish	depictive	manner	result	co timed event	place	time	agent	activity	means	purpose	degree	explanation	circumstances	containing event
+525	seeking	seeking	cognizer agent	ground	sought entity	manner	means	outcome	place	time	purpose	degree
+526	quantity	quantity	entity	quantity	value	descriptor
+527	weapon	weapon	weapon	use	type	material	wielder	part	name	time of creation	creator	descriptor
+528	connectors	connectors	connector	connected item	fixed location	use	material	type	name	creator	time of creation	descriptor
+529	clothing	clothing	garment	wearer	style	material	descriptor	subregion	use	body location	creator	time of creation	name
+530	accoutrements	accoutrements	wearer	style	material	accoutrement	descriptor	use	part	body location	creator	time of creation	name
+531	law	law	law	use	creator	time of creation	name	type	part	forbidden	required	jurisdiction	descriptor
+532	buildings	buildings	creator	building	function	name	material	time of creation	type	descriptor	place	relative location	possessor
+533	noise_makers	noise makers	noise maker	use	creator	time of creation	name	type	material	ground
+534	ammunition	ammunition	ammunition	use	creator	time of creation	name	type	material
+535	fastener	fastener	container	fastener	container portal	material	descriptor	creator	time of creation	name	type	use
+536	infrastructure	infrastructure	activity	place	possessor	resource	user	descriptor	infrastructure
+537	vehicle	vehicle	descriptor	vehicle	possessor	itinerary	means of propulsion	use
+538	body_decoration	body decoration	body location	decorated individual	decoration	decoration descriptor	picture	use	type
+539	text	text	author	text	beneficiary	time of creation	material	containing text	genre	use	subpart	topic	title	medium	place	descriptor
+540	money	money	money	inherent purpose	creator	time of creation	name	type	material	origin	possessor
+541	information_display	information display	display	use	creator	time of creation	name	type	material
+542	controller_object	controller object	control	use	creator	time of creation	name	type	material	controlled entity
+543	key	key	key	function	creator	time of creation	name	type	material	location	object
+544	medical_instruments	medical instruments	purpose	instrument
+545	physical_artworks	physical artworks	artifact	use	creator	time of creation	name	type	material	represented	state of represented	descriptor	place
+546	fire_break	fire break	fire break	creator	material	name	time of creation	type	use
+547	biological_classification	biological classification	rank	member	subtype	property
+548	permitting	permitting	state of affairs	principle	place	time	circumstances
+549	locale_by_use	locale by use	constituent parts	container possessor	formational cause	locale	name	relative location	use	descriptor	circumstances
+550	biological_area	biological area	constituent parts	container possessor	formational cause	locale	name	relative location	descriptor
+551	natural_features	natural features	constituent parts	container possessor	formational cause	locale	name	relative location	type	descriptor
+552	locale_by_ownership	locale by ownership	locale	relative location	owner	constituent parts	descriptor	container possessor	name	inherent purpose
+553	relational_location	relational location	profiled region	constituent parts	relative location	formational cause	container possessor	descriptor	related event	inherent purpose	ground
+554	assigned_location	assigned location	station	constituent parts	relative location	formational cause	container possessor	descriptor	related event	task	responsible party
+555	locale_by_characteristic_entity	locale by characteristic entity	locale	constituent parts	relative location	formational cause	container possessor	descriptor	related event	inherent purpose	characteristic
+556	assemble	assemble	individuals	group	party 1	party 2	manner	place	means	time	purpose
+557	encounter	encounter	group	individuals	party 1	party 2	manner	means	time	place
+558	giving_scenario	giving scenario	donor	recipient	theme	purpose	manner	imposed purpose
+559	activity_abandoned_state	activity abandoned state	agent	time	duration	activity	place
+560	ineffability	ineffability	stimulus	experiencer	degree	circumstances	parameter	comparison set	property	attribute
+561	visit_host	visit host	visitor	host	purpose	normal location	host location
+562	proportional_quantity	proportional quantity	denoted quantity	mass	individuals	q prop	reference quantity	degree
+563	scope	scope	event	attribute	salient entity
+564	gradable_attributes	gradable attributes	entity	attribute	degree	time	circumstances	value	place
+565	race_descriptor	race descriptor	person
+566	proportion	proportion	criteria	subset	group	descriptor	ratio
+567	price_per_unit	price per unit	product	price	seller	buyer	descriptor
+568	rate_quantification	rate quantification	event	rate	descriptor	entity	type	degree
+569	finish_game	finish game	game	player	manner	means	time	place	purpose	degree
+570	escaping	escaping	escapee	goal	means	manner	undesirable location	speed	vehicle	time	purpose	place	depictive	path	degree	distance	explanation
+571	quitting_a_place	quitting a place	self mover	source	path	intended goal	manner	means	speed	co participant	depictive	place	path shape	direction	time	purpose	vehicle	duration of final state	result	explanation	reciprocation	containing event	frequency	re encoding	new situation	circumstances	coordinated event	distance
+572	visiting_scenario_departing	visiting scenario departing	agent	source	path	goal	manner	means	speed	mode of transportation	distance	time	place	purpose
+573	touring	touring	tourist	attraction	depictive	ground	manner	means	time	purpose	place	duration	particular iteration	co participant
+574	silencing	silencing	agent	instrument	place	purpose	time	means	speaker	topic	explanation	result	expressor	manner	degree
+575	rewards_and_punishments	rewards and punishments	evaluee	manner	means	reason	result	place	time	agent	instrument	purpose	response action	degree	depictive
+576	cutting	cutting	agent	instrument	place	purpose	time	means	item	result	manner	pieces
+577	attaching	attaching	agent	item	result	goal	connector	items	handle	means	manner	place	purpose	time	instrument	degree	frequency	period of iterations	duration
+578	inhibit_movement	inhibit movement	theme	holding location	agent	instrument	reciprocation	place	time	purpose	means	manner	explanation	duration	cause
+579	immobilization	immobilization	agent	instrument	patient	means	purpose	time	place	anchor	degree	manner
+580	hiring	hiring	employee	employer	compensation	manner	place	time	purpose	task	position	field	instrument	means	contract basis	period of iterations
+581	cause_to_experience	cause to experience	means	agent	experiencer	manner	resulting action	time	place	instrument	purpose	degree
+582	reparation	reparation	injured party	injury	wrongdoer	benefiting action	gift	manner	place	time	purpose	degree	means
+583	replacing	replacing	means	agent	instrument	place	purpose	time	new	manner	explanation	degree	old	role
+584	arranging	arranging	agent	theme	time	configuration	manner	location	circumstances	purpose	instrument	means	degree
+585	adjusting	adjusting	agent	part	feature	imposed purpose	means	place	time	final value	instrument	purpose	manner	degree	circumstances
+586	extradition	extradition	authorities	current jurisdiction	crime jurisdiction	suspect	purpose	explanation	legal basis	time	manner	depictive	means	place
+587	hiding_objects	hiding objects	obstruction	hidden object	potential observer	degree	agent	hiding place	place	time	explanation	means	purpose	manner
+588	hit_target	hit target	target	agent	purpose	time	place	subregion	means	instrument	manner
+589	grooming	grooming	result	agent	patient	instrument	body part	subregion	medium	frequency	manner	time	place	duration	purpose	means
+590	cause_to_amalgamate	cause to amalgamate	agent	whole	parts	part 1	part 2	manner	degree	means	result	depictive	purpose	place	time
+591	closure	closure	containing object	agent	fastener	enclosed region	manipulator	container portal	degree	instrument	manner	means	place	time	result	beneficiary	circumstances	depictive
+592	gathering_up	gathering up	aggregate	agent	time	means	place	individuals	manner	instrument	purpose	frequency	containing event	goal	co participant	path	source
+593	manipulation	manipulation	agent	entity	locus	bodypart of agent	duration	manner	result	time	purpose	instrument	means	place	depictive	explanation	particular iteration
+594	releasing	releasing	captor	theme	manner	means	explanation	purpose	place	time	location of confinement	concessive	circumstances
+595	soaking	soaking	agent	theme	duration	manner	medium	container	place	time	means	purpose
+596	manipulate_into_doing	manipulate into doing	manipulator	victim	resulting action	degree	means	goods	instrument	purpose	time	place	manner
+597	taking	taking	agent	theme	source	place	time	manner	means	purpose	explanation	containing event
+598	processing_materials	processing materials	agent	alterant	material	purpose	result	duration	place	time	subregion	explanation	dimension	manner
+599	education_teaching	education teaching	teacher	student	institution	subject	level	qualification	degree	depictive	manner	means	result	time	place	duration	skill	precept	fact	material	role	course	purpose
+600	using	using	agent	place	purpose	time	means	manner	instrument	role	outcome	containing event	frequency	period of iterations	circumstances	depictive	explanation	group	degree	duration
+601	manipulate_into_shape	manipulate into shape	agent	instrument	place	purpose	time	means	explanation	theme	manner	locus	resultant configuration
+602	arrest	arrest	charges	place	time	authorities	suspect	type	offense	manner	means	purpose	source of legal authority	co participant
+603	cause_to_perceive	cause to perceive	agent	phenomenon	perceiver	means	manner	time	frequency	place	purpose	actor	entity	medium	co participant	explanation
+604	change_accessibility	change accessibility	agent	useful location	theme	degree	portal	manner	means	time	place	purpose	subregion	instrument
+605	detaching	detaching	agent	item	result	source	items	means	manner	place	purpose	time	instrument	degree
+606	cause_emotion	cause emotion	agent	experiencer	degree	instrument	frequency	means	manner	event description	particular iteration	depictive	explanation	period of iterations	time	containing event	event	type	medium	place
+607	cause_to_make_progress	cause to make progress	project	prior state	post state	time	rate	manner	duration	degree	domain	agent	place	explanation	particular iteration	purpose	means
+608	appointing	appointing	selector	official	role	degree	depictive	manner	means	result	circumstances	function	time	place	body
+609	change_operational_state	change operational state	device	time	place	agent	cause	purpose	explanation	manner	degree	means
+610	limiting	limiting	agent	cause	range of options	degree	characteristic	time	duration	manner	place	means	purpose
+611	abandonment	abandonment	agent	theme	place	time	manner	duration	explanation	depictive	degree	means	purpose	event description
+612	breaking_out_captive	breaking out captive	agent	theme	manner	means	explanation	purpose	place	time	location of confinement	concessive	circumstances
+613	separating	separating	whole	parts	part 1	part 2	agent	criterion	depictive	manner	degree	means	result	cause	recipients	time	place	instrument	purpose
+614	making_arrangements	making arrangements	agent	event	beneficiary	frequency	manner	means	place	purpose	explanation	scheduled time	time
+615	rescuing	rescuing	agent	patient	asset	harmful situation	time	manner	place	circumstances	instrument	means	purpose	explanation	degree
+616	publishing	publishing	publisher	medium	work	time	audience	author	purpose	place	manner	means
+617	short_selling	short selling	lender	assets	intermediary	market	purpose	time	place	manner	means
+618	supporting	supporting	supporter	supported	degree	duration	instrument	manner	means	place	time	purpose	explanation	event description
+619	manufacturing	manufacturing	producer	product	resource	place	time	factory	consumer	depictive	instrument	manner	means	purpose	circumstances	frequency	locus
+620	text_creation	text creation	author	components	text	depictive	instrument	place	manner	means	purpose	time	addressee	beneficiary	form	explanation	medium
+621	achieving_first	achieving first	cognizer	new idea	time	place	means	purpose	explanation	field	instrument	manner	basis	location of appearance
+622	building	building	agent	instrument	place	purpose	time	means	components	created entity	result	depictive	manner	beneficiary	duration	particular iteration	descriptor	period of iterations
+623	create_physical_artwork	create physical artwork	creator	time	representation	manner	role	depictive	location of representation	purpose	place	explanation	instrument	means	descriptor	reference
+624	knot_creation	knot creation	agent	instrument	place	purpose	time	means	knot	manner	depictive
+625	duplication	duplication	creator	original	copy	source	goal	characterization	means	manner	result	depictive	degree	purpose	time	place	explanation	instrument	duration	fidelity	iterations	frequency	co participant
+626	translating	translating	cognizer	source symbol	source representation	manner	means	time	circumstances	target symbol	target representation	content	equivalence	medium	place	purpose
+627	cooking_creation	cooking creation	cook	produced food	heating instrument	container	place	means	purpose	recipient	time	degree	manner	ingredients
+628	talking_into	talking into	speaker	content	addressee	means	goods	purpose	instrument	place
+629	activity_resume	activity resume	duration	activity	place	explanation	time	manner	agent	circumstances	depictive	result	event description
+630	time_period_of_action	time period of action	enabled action	duration	agent	whole
+631	subsisting	subsisting	entity	support	duration	degree
+632	cycle_of_life_and_death	cycle of life and death	protagonist
+633	preference	preference	experiencer	event	focal participant	degree	manner	explanation	purpose of event	time of event	location of event	time	place	duration	contrast
+634	being_born	being born	child	time	place	relatives	depictive	means
+635	evading	evading	area	path	evader	mode of transportation	means	pursuer	degree	manner	purpose	explanation	circumstances	time	depictive	speed	capture
+636	dodging	dodging	dodger	bad entity	degree	manner	place	time	purpose	explanation	means
+637	ambient_temperature	ambient temperature	place	attribute	temperature	degree	time	circumstances	weather
+638	presence	presence	entity	location	time	depictive	duration	purpose	descriptor	degree
+639	choosing	choosing	depictive	cognizer	chosen	explanation	possibilities	means	place	larger purpose	time	manner	topic	inherent purpose	contrast
+640	firing_point	firing point	firing point	relative location	descriptor	name	detonator
+641	abounding_with	abounding with	theme	location	degree	depictive	time
+642	within_distance	within distance	ground	figure	distance
+643	expected_location_of_person	expected location of person	location	person	time	duration
+644	containing	containing	container	contents	time
+645	distributed_position	distributed position	theme	location	subregion	time	deixis	region quantification	temporal profile
+646	goal	goal	landmark	profiled region	trajector	time
+647	non-gradable_proximity	non gradable proximity	ground	figure	accessibility	direction	time	distance	deixis	directness	temporal profile
+648	interior_profile_relation	interior profile relation	figure	ground	time	direction	accessibility	profiled region	directness	temporal profile	deixis	region quantification
+649	spatial_contact	spatial contact	ground	figure	accessibility	direction	time	figures	deixis	directness	temporal profile
+650	adjacency	adjacency	ground	figure	distance	direction	time	figures	deixis	accessibility	directness
+651	gradable_proximity	gradable proximity	ground	figure	accessibility	direction	time	figures	degree	deixis	directness	temporal profile	distance
+652	spatial_co-location	spatial co location	ground	figure	accessibility	direction	time	deixis	directness	temporal profile
+653	directional_locative_relation	directional locative relation	ground	figure	accessibility	direction	time	distance	deixis	directness	temporal profile
+654	location_on_path	location on path	ground	figure	distance	direction	time	figures	deixis	accessibility	directness	temporal profile	region quantification	profiled region
+655	name_conferral	name conferral	entity	name	speaker	instrument	explanation	place	purpose	time	name source	manner	means
+656	intentionally_affect	intentionally affect	means	event	agent	instrument	place	purpose	time	patient	manner	explanation	degree	event description
+657	avoiding	avoiding	agent	place	time	purpose	undesirable situation	means	manner	circumstances	degree	explanation
+658	ingest_substance	ingest substance	manner	means	place	purpose	time	delivery device	ingestor	substance	frequency	entry path	duration
+659	practice	practice	action	agent	place	purpose	time	means	manner	occasion	duration	iterations	co participant
+660	heralding	heralding	communicator	place	purpose	time	means	manner	individual	event	medium
+661	get_a_job	get a job	compensation	employee	employer	manner	place	position	purpose	task	time	means	contract basis
+662	clemency	clemency	offender	crime	executive authority	explanation	time	means	manner	purpose	place
+663	change_tool	change tool	agent	place	purpose	time	means	manner	tools	old tool	new tool	iterations
+664	resolve_problem	resolve problem	agent	problem	cause	means	time	place	degree	manner	resultant situation	outcome	containing event	circumstances	instrument	beneficiary	duration	role	frequency	medium	co participant	purpose
+665	intercepting	intercepting	interceptor	theme	place	time	depictive	manner	circumstances	purpose	means
+666	forming_relationships	forming relationships	partner 1	partner 2	partners	means	time	manner	depictive	duration of final state	place	purpose	viewpoint	frequency	circumstances	explanation	iterations
+667	change_posture	change posture	manner	protagonist	depictive	location	time	result	path	goal	source	direction	purpose	distance	point of contact	means
+668	bail_decision	bail decision	accused	judge	status	time	place	manner	means	purpose
+669	assistance	assistance	benefited party	helper	goal	focal entity	time	place	manner	means	instrument	domain	degree	duration	purpose	frequency	explanation
+670	atonement	atonement	agent	wrong	amends	degree	purpose	manner	time	place
+671	daring	daring	agent	action	purpose	explanation	time	place	manner
+672	execute_plan	execute plan	plan	duration	time	place	circumstances	explanation	focal participant	agent	manner	means	purpose	degree	medium	outcome
+673	becoming_a_member	becoming a member	new member	place	purpose	time	means	manner	frequency	group	explanation	role	depictive	reciprocation	circumstances	re encoding
+674	front_for	front for	front	illicit organization	illicit activity	time	purpose	place	means	manner
+675	examination	examination	examiner	examinee	knowledge	qualification	examination	means	purpose	place	time	manner
+676	passing_off	passing off	agent	manner	means	item	purpose	explanation	simulated entity	place	audience	time
+677	hostile_encounter	hostile encounter	side 1	side 2	sides	issue	purpose	means	manner	place	time	degree	depictive	result	duration	explanation	instrument	internal cause	particular iteration
+678	confronting_problem	confronting problem	issue	agent	place	purpose	time	means	manner	domain	frequency	period of iterations	result	particular iteration	explanation	event description
+679	legal_rulings	legal rulings	authority	finding	case	time	place	legal basis	circumstances	manner	purpose	means	explanation	re encoding	particular iteration	viewpoint	duration	defendant
+680	working_a_post	working a post	agent	place	purpose	time	means	manner	frequency	period of iterations	result	particular iteration	explanation	event description	post	salient entity
+681	military_operation	military operation	force	possessor	area	opponent	time	duration	manner	means	domain	goal	place
+682	attempting_scenario	attempting scenario	agent	goal	outcome	means	time	place	duration	manner	purpose
+683	attending	attending	agent	event	manner	means	place	time	circumstances	purpose	frequency	duration	iterations	event description
+684	exercising	exercising	agent	body part	means	manner	time	place	frequency	subtype	purpose
+685	contacting	contacting	communicator	medium	addressee	address	communication	purpose	topic	location of protagonist	place	time	intermediary	depictive	frequency	manner	means
+686	earnings_and_losses	earnings and losses	buyer	earner	earnings	goods	rate	unit	means	manner	purpose	place	time	containing event	explanation
+687	borrowing	borrowing	borrower	duration	lender	theme	purpose	time	means of transfer	place	manner
+688	tool_purpose	tool purpose	purpose	tool	type	domain
+689	sign_agreement	sign agreement	signatory	signature	depictive	instrument	place	manner	means	purpose	time	explanation	agreement	co participant	beneficiary	role
+690	cause_to_start	cause to start	cause	effect	place	means	time	medium	purpose	co timed event	manner	viewpoint	explanation	circumstances	particular iteration	new situation	containing event	concessive	depictive	event description
+691	commerce_collect	commerce collect	buyer	goods	means	money	rate	seller	unit	place	purpose	explanation	time	manner
+692	receiving	receiving	recipient	donor	theme	purpose of donor	means	time	place	mode of transfer	depictive	manner	countertransfer	path	purpose of theme	role
+693	amassing	amassing	recipient	mass theme	source	place	purpose	explanation	time	means	manner	result	duration	circumstances	role
+694	commerce_buy	commerce buy	buyer	goods	means	money	rate	seller	unit	place	purpose	explanation	time	manner	recipient	period of iterations	imposed purpose
+695	besieging	besieging	assailant	victim	manner	means	place	purpose	source	time	weapon	path	duration
+696	invading	invading	land	weapon	invader	manner	means	place	purpose	explanation	time	source	depictive	re encoding	result	containing event	explanation	particular iteration	circumstances	iterations	event description	path	frequency	type	degree	period of iterations	duration
+697	suicide_attack	suicide attack	victim	weapon	assailant	manner	means	place	purpose	time	source	depictive	re encoding	result	containing event	explanation	particular iteration	circumstances	path
+698	counterattack	counterattack	victim	weapon	assailant	manner	means	place	purpose	explanation	time	source	depictive	re encoding	result	containing event	explanation	particular iteration	circumstances	iterations	event description	path
+699	cause_change_of_phase	cause change of phase	agent	instrument	manner	means	patient	place	purpose	time	circumstances	degree	initial state	result	speed	subregion	cause	container	duration	depictive	medium	hot cold source
+700	cause_change_of_position_on_a_scale	cause change of position on a scale	agent	difference	attribute	value 1	value 2	co variable	path	speed	item	means	purpose	time	cause	manner	place
+701	cause_impact	cause impact	force	impactee	impactor	impactors	manner	place	result	speed	subregion	time	agent	instrument	means	purpose	period of iterations	cause
+702	cause_motion	cause motion	agent	theme	source	path	goal	distance	area	depictive	degree	means	manner	subregion	cause	instrument	place	time	result	handle	initial state	explanation
+703	cause_temperature_change	cause temperature change	agent	instrument	item	temperature goal	temperature change	temperature start	manner	means	place	purpose	time	result	cause	duration	subregion	container	depictive	hot cold source	circumstances	degree
+704	cause_to_be_dry	cause to be dry	agent	dryee	instrument	manner	means	place	purpose	time	cause	subregion	duration	temperature	degree
+705	cause_to_be_sharp	cause to be sharp	means	agent	instrument	place	purpose	time	patient	manner	explanation	degree	cause	result
+706	cause_to_be_wet	cause to be wet	agent	liquid	patient	manner	means	place	purpose	time	instrument	cause	degree	subregion	explanation
+707	cause_to_continue	cause to continue	agent	process	state	duration	means	cause	purpose	instrument	time	manner	place
+708	cause_to_end	cause to end	process	means	place	explanation	time	degree	depictive	manner	agent	cause	state
+709	cause_to_fragment	cause to fragment	agent	instrument	manner	means	whole patient	place	purpose	explanation	time	pieces	degree	subregion	result	resistant surface	cause
+710	cause_to_make_noise	cause to make noise	agent	sound maker	subregion	location of protagonist	depictive	manner	means	cause	explanation	purpose	time	place	frequency	iterations
+711	cause_to_move_in_place	cause to move in place	theme	place	duration	explanation	time	manner	means	degree	periodicity	fixed location	agent	instrument	purpose	angle	locus	bodypart of agent	cause	direction	result
+712	cause_to_resume	cause to resume	agent	process	hiatus	time	cause	place	means	manner	duration of final state
+713	cause_to_wake	cause to wake	place	sleeper	time	agent	instrument	means	purpose	explanation	cause	sleep state	manner	degree
+714	cure	cure	healer	patient	affliction	treatment	degree	manner	medication	reciprocation	place	purpose	time	body part	duration
+715	destroying	destroying	destroyer	degree	instrument	manner	means	place	purpose	explanation	result	subregion	time	patient	cause	explanation	role	frequency	containing event	depictive	medium
+716	damaging	damaging	agent	degree	instrument	manner	means	place	purpose	explanation	subregion	time	patient	character of end state	result	cause
+717	rejuvenation	rejuvenation	entity	agent	place	purpose	time	means	manner	domain	iterations	cause	event description	frequency	degree	instrument	role	result
+718	cause_change_of_consistency	cause change of consistency	circumstances	degree	initial state	manner	place	explanation	result	speed	subregion	time	patient	agent	instrument	means	purpose	cause	change agent	container	hot cold source
+719	corroding_caused	corroding caused	degree	duration	initial state	place	explanation	result	time	patient	speed	subregion	manner	means	purpose	cause	agent	instrument
+720	setting_fire	setting fire	kindler	flame	flammables	cause	time	place	manner	means	explanation	containing event	depictive
+721	killing	killing	killer	victim	cause	purpose	means	explanation	place	time	depictive	result	instrument	manner	degree	beneficiary	circumstances	explanation	period of iterations	frequency	containing event
+722	endangering	endangering	cause	valued entity	agent	endangering act	manner	place	time
+723	cause_expansion	cause expansion	agent	item	initial size	result size	size change	dimension	means	manner	co variable	group	rate	cause	elapsed time	time	place	explanation	purpose	instrument
+724	imposing_obligation	imposing obligation	responsible party	duty	condition	time	place	obligator	situation	principle	purpose	manner	means
+725	render_nonfunctional	render nonfunctional	agent	artifact	purpose	means	cause	time	place	manner	frequency	degree	duration	depictive
+726	cause_change_of_strength	cause change of strength	agent	patient	depictive	result	means	manner	time	place	cause	containing event	degree	frequency	circumstances
+727	cause_change	cause change	agent	initial category	final category	final value	initial value	time	degree	manner	explanation	attribute	entity	cause	purpose	means	containing event	place	duration	circumstances	role	event description	period of iterations	re encoding
+728	interrupt_process	interrupt process	cause	process	place	time	actor	circumstances	manner	explanation	means	frequency	concessive
+729	grinding	grinding	grinding cause	grinder	instrument	locus	manner	means	place	purpose	result	time	patient	duration	goal
+730	cause_to_rot	cause to rot	agent	patient	depictive	result	means	manner	time	place	cause	instrument
+731	cause_to_be_included	cause to be included	agent	existing member	new member	group	cause	particular iteration	means	time	manner	purpose	place
+732	container_focused_removing	container focused removing	agent	theme	source	path	goal	degree	depictive	manner	means	result	instrument	cause	place	time	containing event	explanation	circumstances
+733	removing	removing	agent	theme	source	path	goal	manner	means	result	degree	cause	distance	means of motion	cotheme	time	place	explanation	instrument	depictive	co timed event	circumstances	purpose	particular iteration	direction
+734	placing	placing	agent	theme	source	path	goal	manner	degree	depictive	means	result	duration	place	explanation	time	area	cotheme	distance	speed	cause	purpose	beneficiary
+735	container_focused_placing	container focused placing	agent	theme	source	path	goal	degree	depictive	manner	means	result	explanation	time	place	purpose	instrument	subregion	cause
+736	creating	creating	components	created entity	depictive	means	manner	place	time	cause	instrument	co participant	creator	purpose	imposed purpose	beneficiary	role	period of iterations	frequency	circumstances	recipient
+737	cause_bodily_experience	cause bodily experience	agent	experiencer	result	degree	manner	means	place	time	body part	instrument	purpose	depictive	containing event	explanation	iterations	cause	subregion bodypart	circumstances	frequency	duration	explanation	particular iteration	concessive	re encoding	period of iterations
+738	downing	downing	agent	patient	depictive	result	means	manner	time	place	cause	instrument
+739	erasing	erasing	agent	information	cause	document	manner	time	place	means
+740	infecting	infecting	infection	infected entity	infection cause	medium	manner	place	time	depictive	means	result
+741	proliferating_in_number	proliferating in number	attribute	set	difference	path	final number	initial number	speed	correlate	manner	degree	circumstances	group	time	duration	initial correlate	final correlate	place	initial state	final state
+742	change_of_temperature	change of temperature	item	initial temperature	final temperature	temperature change	hot cold source	cause	container	depictive	duration	time	place	subregion	manner	circumstances	result	particular iteration	temperature	degree
+743	standing_by	standing by	protagonist	salient entity	time	place	duration	manner	expected request	end point	explanation	depictive	purpose	co participant	activity
+744	connecting_architecture	connecting architecture	part	whole	descriptor	orientation	material	creator	source	connected locations	direction	goal
+745	provide_lodging	provide lodging	host	lodger	circumstances	time	place	purpose	explanation	manner	means	residence
+746	see_through	see through	cognizer	state of affairs	focal entity	means	medium	topic	degree	depictive	manner	place	time
+747	discussion	discussion	interlocutor 1	interlocutor 2	interlocutors	topic	language	amount of discussion	depictive	manner	means	duration	purpose	time	place	means of communication	period of iterations	containing event	frequency	domain
+748	duration_scenario	duration scenario	period	attribute	duration	degree	unit	count	event
+749	attempt_distant_interaction_scenario	attempt distant interaction scenario	agent	target	outcome	means	degree	time	depictive	place	manner	duration	purpose	particular iteration	circumstances	instrument	target location
+750	attempt_obtain_food_scenario	attempt obtain food scenario	seeker	food	instrument	duration	manner	means	outcome	place	time	purpose	frequency	degree	ground	particular iteration
+751	attempt_obtain_mineral_scenario	attempt obtain mineral scenario	agent	outcome	means	time	place	duration	mineral
+752	aiming	aiming	agent	targeted	outcome	means	time	depictive	place	manner	duration	purpose	particular iteration	circumstances	instrument	target location	location of protagonist	activity	containing event	explanation
+753	receiving_scenario	receiving scenario	recipient	donor	theme	purpose	means	mode of transfer
+754	visitor_departure	visitor departure	agent	source	path	goal	manner	means	speed	mode of transportation	distance	time	place	purpose
+755	visit_host_departure	visit host departure	visitor	host location	path	goal	manner	means	speed	mode of transportation	distance	time	place	purpose	host
+756	omen	omen	predictive phenomenon	future phenomenon	outcome	interested party	strength	time	explanation	circumstances	duration
+757	leaving_traces	leaving traces	evidence	entity	descriptor	location	event	time	reliability
+758	history	history	topic	domain	end time	start time	time span	duration	time
+759	change_of_leadership	change of leadership	selector	old leader	new leader	role	old order	degree	depictive	manner	means	result	circumstances	function	time	place	body
+760	memory	memory	cognizer	content	topic	degree	depictive	manner	means	result	duration	place	explanation	time	experience	circumstances
+761	operational_testing	operational testing	tester	product	unwanted characteristics	means	purpose	manner	degree	location of protagonist	desired state of affairs	time	circumstances	duration	place	function	tested property	period of iterations	result
+762	kinship	kinship	alter	ego	relatives	degree	descriptor
+763	attention_getting	attention getting	address term	interjection
+764	concessive	concessive	conceded state of affairs	topic	main assertion
+765	impression	impression	figure	audience	descriptor	degree	context	impression
+766	claim_ownership	claim ownership	claimant	property	beneficiary	role
+767	launch_process	launch process	process	place	means	time	medium	agent	purpose	co timed event	manner	viewpoint	explanation	circumstances	particular iteration	new situation	containing event	concessive	depictive	event description	beneficiary	re encoding	frequency
+768	protest	protest	protester	issue	side	degree	time	explanation	action	descriptor	particular iteration	manner	concessive	place	duration	frequency
+769	elusive_goal	elusive goal	experiencer	desired goal	time	place	manner	degree	duration
+770	categorization	categorization	cognizer	item	category	criteria	manner	means	time	circumstances	concessive	explanation
+771	removing_scenario	removing scenario	agent	theme	source	path	goal	degree	depictive	manner	means	result	instrument	cause	place	time	containing event	explanation	circumstances
+772	rank	rank	rank	item
+773	experiencer_obj	experiencer obj	experiencer	stimulus	degree	depictive	manner	means	result	circumstances	explanation	time
+774	participation	participation	participants	participant 1	participant 2	event	time	place	manner	purpose	means	degree of involvement	institution	duration
+775	public_services	public services	institution	domain	target group	service action
+776	risk_scenario	risk scenario	asset	harmful event	situation	degree	time	place
+777	ordinal_numbers	ordinal numbers	type	starting point	basis of order	item	comparison set
+778	prevarication	prevarication	speaker	addressee	topic	place	time	means	duration	purpose	degree	frequency
+779	have_associated	have associated	entity	time	duration	explanation	place	circumstances	viewpoint	concessive	depictive	topical entity	period of iterations
+780	being_in_effect	being in effect	binding principle	duration	time	place	circumstances	explanation	obligated party	degree
+781	crime_scenario	crime scenario	suspect	perpetrator	crime	charge	authorities
+782	dough_rising	dough rising	dough	duration of activity	time	speed	manner	circumstances	size change	explanation
+783	encoding	encoding	speaker	message	manner	medium	addressee	means
+784	use_vehicle	use vehicle	theme	vehicle	source	manner	path	goal	distance	duration	speed	area	road	route	time	cotheme	driver
+785	first_experience	first experience	experience	context
+786	sacrificing_for	sacrificing for	agent	asset	depictive	manner	duration	time	explanation	benefit
+787	excreting	excreting	excreta	excreter	source	path	goal	manner	means	place	time	purpose	frequency	degree
+788	namesake	namesake	entity	namesake	anchor	descriptor
+789	knot_creation_scenario	knot creation scenario	agent	instrument	place	purpose	time	means	explanation	rope	knot	manner	locus
+790	opportunity	opportunity	opportunity	agent	desirable situation
+791	evidence	evidence	support	proposition	degree	manner	means	depictive	result	domain of relevance	cognizer
+792	remembering_to_do	remembering to do	cognizer	action	time	salient entity	frequency
+793	withdraw_from_participation	withdraw from participation	participant	activity	explanation	place	time	organization	purpose	means	medium	manner
+794	fire_end_scenario	fire end scenario	place	time	fire	degree
+795	remembering_experience	remembering experience	cognizer	salient entity	experience	impression	state	vividness	context	time	manner	duration
+796	distributed_abundance	distributed abundance	theme	location	degree	time
+797	installing	installing	agent	component	location of protagonist	fixed location	manner	degree	depictive	means	duration of final state	place	explanation	time	area	co participant	purpose
+798	exclude_member	exclude member	member	group	authority	time	explanation	place	means	depictive
+799	path_traveled	path traveled	path	source	goal	endpoints	characteristic	landmark	direction	ground	length	theme
+800	hair_configuration	hair configuration	hair	possessor	subregion	configuration	hair property	location	accessory
+801	people_by_military_specialty	people by military specialty	origin	fighter	persistent characteristic	descriptor	age	ethnicity	context of acquaintance	rank	place of operation	loyal side	type	compensation	contract basis	military organization
+802	experimentation	experimentation	experimenter	control group	control group member	treatment group	treated individual	duration	place	time	phenomenon	result	descriptor	experiment	hypothesis	subjects	instrument	topic
+803	change_of_phase	change of phase	patient	result	initial state	degree	speed	manner	place	time	circumstances	subregion
+804	cardinal_numbers	cardinal numbers	number	entity	precision	multiplier
+805	violence	violence	aggressor	victim	degree	manner	means	place	time	instrument	purpose	containing event	explanation	iterations	cause	circumstances	frequency	explanation	aggressors
+806	forgoing	forgoing	forgoer	desirable	degree	manner	means	place	time	purpose	explanation	circumstances
+807	first_rank	first rank	item	limits of consideration	contrast set	attribute
+808	product_development_scenario	product development scenario	developer	entity	time	place	company	purpose	explanation
+809	direction	direction	landmark	path	domain	independent variable	distance
+810	remainder	remainder	remainder	resource	location	original owner	time	beneficiary	original context
+811	feeling	feeling	experiencer	emotion	emotional state	evaluation	explanation
+812	judgment	judgment	cognizer	evaluee	reason	role	expressor	degree	depictive	manner	means	topic	extent of acclaim	result
+813	living_conditions	living conditions	experiencer	condition	place	time	duration
+814	reliance_on_expectation	reliance on expectation	cognizer	expectation	circumstances
+815	medical_specialties	medical specialties	specialty	type	body system	affliction
+816	reasoning	reasoning	content	medium	arguer	addressee	support	manner	means	depictive	result	degree	time	place	duration	group
+817	differentiation	differentiation	cognizer	phenomenon 1	phenomenon 2	phenomena	quality	degree	depictive	manner	means	circumstances
+818	change_of_state_scenario	change of state scenario	time	entity	explanation	event	place
+819	sent_items	sent items	sender	goal	source	sent item	transport means	recipient	time	place	descriptor
+820	legality	legality	action	code	object	explanation
+821	boundary	boundary	boundary	entity	entities	relative location
+822	notability	notability	type	name	time	place
+823	extreme_value	extreme value	entity	attribute	value	period	degree	domain	descriptor	depictive	explanation
+824	being_obligatory	being obligatory	condition	consequence	duty	responsible party	time	place	purpose	explanation
+825	employment_continue	employment continue	employee	employer	compensation	duration	field	manner	place	position	task	time
+826	commonality	commonality	entities	commonality	entity 1	entity 2
+827	using_resource	using resource	agent	resource	purpose	portion	means	manner	place	time
+828	bungling	bungling	degree	depictive	manner	means	agent	patient	place	instrument	time	action	area
+829	temporal_pattern	temporal pattern	process	subevent	descriptor	pattern	type
+830	have_visitor_over	have visitor over	host	visitor	purpose
+831	performers_and_roles	performers and roles	audience	medium	performance	performer	score	script	type	role	time	place	manner	performer1	performer2	duration	event description
+832	access_scenario	access scenario	theme	useful location	barrier
+833	losing_track_of	losing track of	perceiver	theme	time	place	explanation
+834	out_of_existence	out of existence	entity	place	time	explanation	duration	role	manner	circumstances
+835	function	function	entity	activity	role	descriptor	duration	manner	means
+836	deny_permission	deny permission	authority	protagonist	action	time	place	purpose	event description	degree	explanation	circumstances
+837	resurrection	resurrection	protagonist	time	explanation	prior state	result	depictive	place
+838	causation_scenario	causation scenario	cause	effect
+839	topic	topic	topic	text	communicator	degree	manner	status	time	explanation
+840	hunting	hunting	hunter	food	instrument	duration	manner	means	outcome	place	time	purpose	frequency	degree	ground	particular iteration	co participant
+841	craft	craft	activity	practitioner	place	descriptor	culture
+842	toxic_substance	toxic substance	victim	degree	body part	explanation	toxic substance	circumstances	toxin source	type	duration
+843	dunking	dunking	agent	theme	substance	manner	time
+844	giving_birth	giving birth	mother	child	father	place	time	depictive	circumstances	egg	means	parents	result	manner
+845	sending	sending	sender	path	goal	source	theme	transport means	degree	depictive	distance	manner	recipient	purpose	explanation	time	cotheme	container	place
+846	extreme_point	extreme point	entity	marker
+847	openness	openness	theme	useful location	barrier	degree	time
+848	perception_body	perception body	experiencer	body part	explanation	degree	manner	subregion
+849	lodging_scenario	lodging scenario	host	lodger	time	place	residence
+850	political_actions	political actions	activists	institution	demands	duration	manner	means	place	type	result
+851	taking_sides	taking sides	cognizer	issue	side	degree	time	explanation	action	descriptor	particular iteration	manner	concessive	place
+852	emitting	emitting	manner	time	source emitter	emission	area	degree	depictive	distance	goal	means	path	sub source	speed	explanation	duration	carrier	form
+853	subjective_temperature	subjective temperature	experiencer	degree	body part
+854	source_path_goal	source path goal	trajector	source	path	goal	means
+855	trial	trial	charges	court	defense	jury	place	prosecution	time	defendant	judge	case	manner
+856	offering	offering	offerer	potential recipient	theme	place	explanation	time	purpose	means	manner	circumstances	imposed purpose	depictive	period of iterations
+857	carry_goods	carry goods	distributor	goods	time	place	manner	duration	frequency
+858	hindering	hindering	protagonist	hindrance	action	time	place	degree	means	explanation	manner	duration	concessive	frequency	circumstances
+859	project	project	agent	field	activity	name	goal	salient entity	manner	duration	co participant	project	time	place	descriptor
+860	sports_jargon	sports jargon	competition	agent
+861	resolve_attempt_scenario	resolve attempt scenario	agent	goal	action	time	depictive	place	role	circumstances	explanation	containing event	degree
+862	searching_scenario	searching scenario	cognizer	ground	phenomenon	manner	means	degree	purpose	instrument
+863	meet_with_response	meet with response	trigger	response	manner	place	time
+864	performing_arts	performing arts	performer	personnel	audience	performance	script	score	type	medium
+865	representing	representing	phenomenon	degree	time	means	entity	cognizer	frequency	explanation	place
+866	condition_symptom_relation	condition symptom relation	patient	medical condition	symptom	group	time	place	frequency	frequency	extent	explanation	influence
+867	source_of_getting	source of getting	theme	source	goal	descriptor
+868	reserving	reserving	client	services	organization	time	beneficiary	booker
+869	continued_state_of_affairs	continued state of affairs	state of affairs	reference occasion	circumstances
+870	estimating	estimating	cognizer	feature	value	item	evidence	time	place	estimation	question	means	manner	circumstances	explanation	result	frequency
+871	non-commutative_process	non commutative process	term 1	term 2	calculator
+872	imitating	imitating	agent	characteristic	manner	means	standard	purpose	explanation	depictive	containing event	degree	time	place	duration
+873	shapes	shapes	substance	shape	shape prop	count
+874	simple_naming	simple naming	entity	term	speaker	explanation	frequency
+875	getting_up	getting up	protagonist	bed	time	purpose	manner	new situation	circumstances	explanation	duration of final state	place
+876	giving_in	giving in	capitulator	issue	compeller	time	explanation	force	place	purpose	manner	degree	resultant action
+877	medium	medium	text	item	frequency	time
+878	delimitation_of_diversity	delimitation of diversity	item	variable	limit1	limit2	limits	degree
+879	take_place_of	take place of	new	role	function	old	time	degree	manner	textual location	explanation
+880	friendly_or_hostile	friendly or hostile	side 1	side 2	degree	time	explanation	descriptor	concessive	place	sides
+881	symmetrical_collective_reciprocality	symmetrical collective reciprocality	protagonists
+882	domain	domain	predicate	domain	explanation
+883	redirecting	redirecting	theme	original path	path	goal	time	manner	depictive	place	direction	purpose	agent	cause	means
+884	specific_individual	specific individual	type	instance
+885	subjective_influence	subjective influence	cognizer	situation	entity	action	behavior	product	time	event description	agent	place	domain	descriptor
+886	reference_text	reference text	source of information	information
+887	behind_the_scenes	behind the scenes	artist	production	type	distributor	studio	medium	time	place	nationality	purpose	performer	score	scene	manner
+888	manner	manner	comparison event	salient entity	manner	manner descriptor	foreground event	comparison activity
+889	invasion_scenario	invasion scenario	invader	attacked	degree	manner	means	place	time	purpose	instrument
+890	armor	armor	armor	danger	asset	descriptor	degree	material	subregion	type
+891	successfully_communicate_message	successfully communicate message	communicator	addressee	message	medium	depictive	manner	means	time	adequacy
+892	temporal_subregion	temporal subregion	subpart	subpart property	time period	time	degree
+893	purpose	purpose	agent	goal	means	domain	time	restrictor	attribute	value
+894	sole_instance	sole instance	item	type
+895	speak_on_topic	speak on topic	audience	speaker	topic	manner	medium	occasion	time	place	explanation
+896	sidereal_appearance	sidereal appearance	depictive	goal	manner	path	speed	time	astronomical entity	source	result	place	degree	circumstances	correlated event	frequency
+897	holding_off_on	holding off on	agent	desirable action	degree	manner	means	place	time	purpose	explanation	circumstances	salient entity	duration	end point
+898	receive_visitor_scenario	receive visitor scenario	host	visitor	purpose
+899	sentencing	sentencing	convict	court	sentence	type	term of sentence	time	offense	place	depictive
+900	renunciation	renunciation	speaker	addressee	content	manner	means	internal cause	medium	depictive	time	place	containing event
+901	leadership	leadership	leader	role	duration	depictive	manner	means	degree	time	governed	descriptor	type	domain	activity	place
+902	feigning	feigning	agent	original	copy	manner	means	degree	state of affairs	purpose	explanation	frequency	time	period of iterations	duration	depictive	circumstances	place
+903	jury_deliberation	jury deliberation	jury	duration	charges	case	time	place	possible sentence
+904	hunting_success_or_failure	hunting success or failure	hunter	food	instrument	manner	means	place	time	purpose	frequency	degree	particular iteration
+905	importance	importance	factor	degree	undertaking	explanation	interested party	field	time	frequency	place	explanation
+906	be_translation_equivalent	be translation equivalent	source symbol	source representation	time	circumstances	target symbol	target representation	content	equivalence	medium
+907	network	network	network	nodes	connections	descriptor	possessor
+908	notification_of_charges	notification of charges	arraign authority	accused	charges	place	time	containing event
+909	fall_for	fall for	victim	deception	time	place	manner	degree
+910	candidness	candidness	speaker	addressee	message	topic	medium	degree	manner
+911	dominate_situation	dominate situation	agent	situation	time	duration	place	manner	degree
+912	degree	degree	gradable attribute
+913	being_detached	being detached	item	items	source	manner
+914	putting_out_fire	putting out fire	depictive	manner	result	place	time	agent	fire	means	purpose	degree	explanation	circumstances	containing event
+915	suspicion	suspicion	authority	suspect	incident	time
+916	left_to_do	left to do	process	remainder	time	agent
+917	gizmo	gizmo	use	user	power source	gizmo	descriptor
+918	remembering_information	remembering information	cognizer	mental content	accuracy	time	topic	context
+919	opinion	opinion	cognizer	opinion	evidence	topic	constancy	manner	role	domain	time	circumstances
+920	estimated_value	estimated value	cognizer	value	item	evidence	time	place	estimation	question
+921	contrary_circumstances	contrary circumstances	event	adversity	contrary circumstances	time	place
+922	dressing	dressing	wearer	clothing	body location	manner	depictive	means	result	duration	place	explanation	time	purpose
+923	detaining	detaining	authorities	charges	place	suspect	time	holding location	duration	legal basis	purpose	dependent state
+924	triggering	triggering	cause	system	means	actor	manner	place	time	purpose
+925	commutation	commutation	offender	executive authority	explanation	time	original punishment	new punishment	manner	place	means
+926	reliance	reliance	protagonist	benefit	degree	intermediary	instrument	purpose	means	circumstances
+927	competition	competition	participant 1	participant 2	participants	competition	score	rank	prize	venue	place	manner	means	time	duration	purpose	degree	frequency
+928	asymmetric_reciprocality	asymmetric reciprocality	protagonist 1	protagonist 2
+929	awareness_situation	awareness situation	cognizer	content	expressor	topic	degree	evidence	manner	role	time
+930	fall_asleep	fall asleep	place	sleeper	time
+931	distinctiveness	distinctiveness	feature	entity	degree	duration
+932	serving_in_capacity	serving in capacity	agent	role	duration	descriptor	time	place
+933	change_of_phase_scenario	change of phase scenario	patient	result	initial state	degree	speed	manner	place	time	circumstances	subregion
+934	impact	impact	place	result	time	explanation	manner	impactor	impactee	impactors	speed	subregion	force	period of iterations	depictive
+935	commerce_scenario	commerce scenario	buyer	seller	money	goods	rate	unit	means	manner	purpose
+936	locative_scenario	locative scenario	figure	ground	figures	profiled region
+937	identicality	identicality	type	current instance	previous instance	previous context	set of instances	time
+938	criminal_investigation	criminal investigation	investigator	incident	time	duration	suspect
+939	explaining_the_facts	explaining the facts	fact	state of affairs	degree	manner	means	viewpoint	question	concessive
+940	fire_going_out	fire going out	depictive	manner	result	place	time	fire	degree	explanation	circumstances	containing event
+941	timetable	timetable	timetable	events	cognizer	period of iterations	time of implementation	purpose	descriptor
+942	become_triggered	become triggered	system	manner	place	time	frequency
+943	storing	storing	agent	theme	location	manner	depictive	duration	place	explanation	time	area	co participant	purpose	frequency
+944	religious_belief	religious belief	believer	content	degree	manner	role	element
+945	employing	employing	compensation	employee	employer	field	manner	place	position	purpose	task	time	duration	contract basis	descriptor	subgroup
+946	alliance	alliance	alliance	members	purpose	period of existence	member 1	member 2	descriptor
+947	create_representation	create representation	representation	creator	time	represented	depictive of represented	manner	role	depictive	material	purpose	place	instrument	means	iterations	reference
+948	turning_out	turning out	state of affairs	time
+949	surrounding	surrounding	figure	ground	time	direction	distance	profiled region	directness	accessibility
+950	graph_shape	graph shape	shape	data	graph	name	descriptor	location
+951	weather	weather	place	time	specification
+952	version_sequence	version sequence	item	degree
+953	fugitive	fugitive	fugitive	prison	authorities	crime	place	time	manner	explanation	duration
+954	commutative_process	commutative process	term1	term2	terms	calculator
+955	make_noise	make noise	sound source	explanation	sound	manner	location of protagonist	degree	depictive	internal cause	subregion	addressee	noisy event	path	place	circumstances	time	iterations	particular iteration
+956	sexual_reproduction_scenario	sexual reproduction scenario	parents	father	mother	offspring
+957	deserving	deserving	state of affairs	action	degree	domain	circumstances
+958	employment_scenario	employment scenario	compensation	employee	employer	position	task	field	duration
+959	expansion	expansion	item	dimension	group	initial size	result size	size change	rate	duration	time	co variable	manner	degree	path	goal
+960	emotion_heat	emotion heat	experiencer	emotion	cause	seat of emotion	degree	manner	topic	expression
+961	point_of_dispute	point of dispute	question	group	status	descriptor	domain	context	time	viewpoint
+962	disembarking	disembarking	traveller	vehicle	manner	path	duration of final state	depictive	time	cotheme	purpose	place	goal
+963	fire_stopping_scenario	fire stopping scenario	place	time	agent	fire	degree
+964	breaking_apart	breaking apart	whole	pieces	criterion	manner	time	place	means
+965	delimited_state_scenario	delimited state scenario	duration	state
+966	clothing_parts	clothing parts	clothing	subpart	material	subregion	wearer	body location	descriptor
+967	cognitive_impact	cognitive impact	phenomenon	experiencer	judgment	circumstances	manner	frequency
+968	severity_of_offense	severity of offense	offense	code
+969	unattributed_information	unattributed information	reported fact	time	duration	explanation
+970	soaking_up	soaking up	item	substance	place	time	duration	manner	degree
+971	beyond_compare	beyond compare	standard	variable	competitors	domain
+972	catastrophe	catastrophe	undesirable event	place	time	patient	degree	manner	circumstances	cause
+973	tolerating	tolerating	experiencer	content	explanation	degree	manner	parameter	topic	state	event	circumstances	time
+974	sleep_wake_cycle	sleep wake cycle	duration	place	sleeper	time
+975	terrorism	terrorism	terrorist	act	victim	organization	descriptor	manner	means	time	place	purpose	instrument
+976	heat_potential	heat potential	insulator	activity	circumstances	degree	experiencer
+977	board_vehicle	board vehicle	traveller	vehicle	source	manner	path	duration of final state	depictive	time	cotheme	purpose	place	circumstances
+978	scheduling	scheduling	agent	event	scheduled time	place	beneficiary	frequency	means	purpose	explanation	manner	time
+979	biological_mechanisms	biological mechanisms	trigger	systemic effect	place
+980	reporting	reporting	informer	wrongdoer	authorities	behavior	time	place	purpose
+981	state_continue	state continue	entity	state	time	place	explanation	duration	circumstances	depictive
+982	ratification	ratification	ratifier	proposal	time	place	purpose	explanation	manner	means
+983	moving_in_place	moving in place	theme	fixed location	periodicity	angle	time	place	direction	manner	result	explanation	depictive	purpose	path shape
+984	revolution	revolution	agent	current leadership	current order	place	time	means	degree	manner
+985	attributed_information	attributed information	proposition	speaker	text
+986	justifying	justifying	agent	explanation	act	state of affairs	judge	means	frequency	domain	time	degree
+987	responsibility	responsibility	act	agent	place	time	domain	frequency	period of iterations	result	particular iteration	explanation	event description	degree
+988	building_subparts	building subparts	building part	whole	use	type	place	descriptor
+989	emphasizing	emphasizing	consideration	degree	undertaking	explanation	agent	purpose	means	competing consideration	time	place	manner	artifact	action	frequency	depictive
+990	change_of_quantity_of_possession	change of quantity of possession	owner	possession	time	place	degree	explanation
+991	fairness_evaluation	fairness evaluation	actor	action	grounds	affected party	degree	parameter	manner
+992	operate_vehicle_scenario	operate vehicle scenario	operator	vehicle	source	path	goal	area	place	time	manner	means
+993	personal_relationship	personal relationship	partner 1	partner 2	partners	degree	depictive	manner	means	relationship	duration	source of relationship
+994	alternatives	alternatives	situation	agent	number of possibilities	salient entity	purpose
+995	facial_expression	facial expression	manner	degree	expression	possessor	internal cause	subregion	conveyed emotion	intended perceiver	external cause	duration
+996	protecting	protecting	protection	place	time	danger	asset	means	instrument	manner	event description	descriptor	degree	explanation	duration	depictive	beneficiary
+997	being_obligated	being obligated	responsible party	duty	condition	consequence	time	place	frequency
+998	capital_stock	capital stock	stock	type	shareholder	issuer	amount
+999	commitment	commitment	speaker	addressee	message	topic	medium	manner	time	place	purpose	period of iterations
+1000	going_back_on_a_commitment	going back on a commitment	protagonist	affected party	commitment	manner	time	place	explanation	event description	degree	re encoding	iterations	result
+1001	businesses	businesses	product	proprietor	descriptor	place	business	business name	service provider
+1002	commemorative	commemorative	honored entity	dedicated type	dedicated entity
+1003	increment	increment	class	added set	initial set	increment
+1004	communicate_categorization	communicate categorization	speaker	category	item	means	medium	time	place	circumstances	criteria	manner	duration
+1005	conferring_benefit	conferring benefit	benefactor	beneficiary	beneficial situation	degree	domain	subset
+1006	activity_prepare	activity prepare	agent	activity	place	time	manner	means	purpose	duration	depictive	degree	beneficiary	iterations	event description
+1007	regard	regard	cognizer	evaluee	explanation	role	depictive	manner	extent of acclaim	judgment
+1008	growing_food	growing food	grower	food	instrument	duration	manner	means	place	time	purpose	frequency	particular iteration	ground	circumstances	source
+1009	inhibit_motion_scenario	inhibit motion scenario	agent	theme	holding location	cause
+1010	degree_of_processing	degree of processing	alterant	material	degree
+1011	expressing_publicly	expressing publicly	communicator	addressee	content	manner	means	internal cause	medium	depictive	time	place	particular iteration	purpose	frequency	circumstances	explanation
+1012	negative_conditional	negative conditional	profiled possibility	anti consequence
+1013	defending	defending	defender	instrument	assailant	manner	means	place	purpose	explanation	time	location of protagonist	depictive	victim	location of assailant
+1014	typicality	typicality	degree	state of affairs	comparison set	feature
+1015	criminal_process	criminal process	court	place	time	defendant	judge	prosecution	charges	defense	jury	offense
+1016	non-commutative_statement	non commutative statement	term 1	term 2	result
+1017	emanating	emanating	area	degree	depictive	distance	duration	emission	goal	manner	path	speed	time	carrier	source	form	result
+1018	coming_up_with	coming up with	cognizer	idea	purpose	material	amount of progress	depictive	manner	means	result	location of appearance	place	time
+1019	being_in_category	being in category	cognizer	item	category	criteria	manner	means	time	circumstances
+1020	wagering	wagering	gambler	place	time	asset	frequency	purpose	explanation	iterations	circumstances	beneficiary	outcome	uncertain situation
+1021	employment_start	employment start	employee	employer	compensation	field	manner	place	position	task	time
+1022	word_relations	word relations	sign 1	sign 2	signs	circumstances
+1023	repel	repel	enemy	defender	degree	manner	means	place	time	purpose	instrument	invasion act	result
+1024	terms_of_agreement	terms of agreement	agreement	regulated entity	requirements	desired state of affairs	party	descriptor
+1025	try_defendant	try defendant	judge	court	defendant	jury	time	place	charges	governing authority	manner
+1026	body_movement	body movement	agent	body part	internal cause	external cause	addressee	source	path	goal	area	degree	depictive	manner	result	message	time	subregion	purpose	cognate event	duration	place	re encoding	coordinated event
+1027	range	range	event	participant	instrument	distance	circumstances
+1028	make_cognitive_connection	make cognitive connection	concept 1	concept 2	evidence	cognizer	concepts	frequency	time	place	circumstances
+1029	artistic_style	artistic style	artist	artwork	form	time	descriptor
+1030	breathing	breathing	agent	air	goal	manner	means	source	path	degree	depictive	place	duration	distance	instrument	time	internal cause	external cause	circumstances	purpose
+1031	hearsay	hearsay	speaker	hearer	message	topic	medium	period of iterations	time
+1032	firefighting	firefighting	fire	firefighter	time	place	manner	purpose	instrument	depictive
+1033	information	information	information	cognizer	topic	source	means of gathering
+1034	cause_to_burn	cause to burn	agent	flammables	cause	time	place	manner	means	explanation	containing event	depictive	actor
+1035	guilt_or_innocence	guilt or innocence	accused	misdeed	viewpoint	degree
+1036	spelling_and_pronouncing	spelling and pronouncing	speaker	sign	judgment	formal realization	part of form	manner	time	textual location	addressee	explanation	frequency	depictive	particular iteration	purpose
+1037	accomplishment	accomplishment	means	agent	instrument	place	time	manner	explanation	degree	goal	outcome	circumstances	duration	domain	particular iteration
+1038	ranked_expectation	ranked expectation	entity
+1039	catching_fire	catching fire	place	time	fire	fuel	manner	explanation
+1040	change_direction	change direction	theme	source	path	goal	manner	means	speed	cotheme	depictive	place	path shape	direction	time	purpose	means of motion	explanation	containing event	frequency	re encoding	new situation	circumstances	angle	result
+1041	sound_movement	sound movement	sound	location of sound source	path	place	time	sound source	manner	goal
+1042	adducing	adducing	speaker	addressee	manner	means	medium	depictive	time	place	specified entity	role	purpose	explanation	containing event	event description	frequency	circumstances
+1043	proper_reference	proper reference	entity	intended referent
+1044	cause_to_land	cause to land	vehicle	source	path	goal	manner	means	cotheme	time	new situation	depictive	period of iterations	circumstances	purpose	degree	event description	re encoding	frequency	place	operator
+1045	friction	friction	theme	static object	themes	manner	place	degree
+1046	medical_interaction_scenario	medical interaction scenario	medic	affliction	body system	medical center	patient
+1047	product_development	product development	developer	product	company	place	time	manner	use
+1048	simple_name	simple name	term	entity	speaker
+1049	rebellion	rebellion	rebel	current leadership	current order	place	time	means	degree	manner	new order	result	duration
+1050	losing_it	losing it	protagonist	action	degree	manner	affected party	explanation
+1051	exemplariness	exemplariness	entity	comparison set	domain	degree
+1052	employer_scenario	employer scenario	compensation	employee	employer	position	task	field	duration
+1053	emotion_directed	emotion directed	experiencer	topic	stimulus	degree	empathy target	expressor	explanation	circumstances	state	event	parameter	manner	frequency
+1054	getting_vehicle_underway	getting vehicle underway	driver	vehicle	source	intended goal	manner	depictive	means	result	co participant	circumstances	place	duration of final state	time	explanation
+1055	studying	studying	teacher	student	institution	subject	level	depictive	manner	time	place	duration	explanation	co participant	intended academic credit
+1056	domination	domination	agent	situation	competitor	time	place	manner	duration	degree
+1057	path_shape	path shape	source	path	goal	road	manner	distance	area	degree	means	result	speed	depictive	place	path shape	direction	time	purpose
+1058	response_scenario	response scenario	responding entity	trigger	response	agent	manner	place	purpose	time
+1059	being_necessary	being necessary	dependent	requirement	degree	time	condition	domain	place	dependent individual	required entity	descriptor	explanation
+1060	awareness_status	awareness status	cognizer	content	degree	evidence	role	time
+1061	thermodynamic_phase	thermodynamic phase	matter	phase
+1062	corroding	corroding	initial state	duration	place	explanation	result	time	patient	degree	subregion	speed
+1063	ride_vehicle	ride vehicle	theme	vehicle	source	manner	path	goal	distance	duration	speed	area	road	route	depictive	time	cotheme	purpose
+1064	medical_intervention	medical intervention	intervention	result	medical condition	patient	side effects	extent	frequency of success	medical professional
+1065	vehicle_departure_initial_stage	vehicle departure initial stage	vehicle	source	intended goal	manner	depictive	means	result	co participant	circumstances	place	duration of final state	time	explanation
+1066	become_silent	become silent	speaker	topic	place	time	expressor	manner	explanation
+1067	probability	probability	odds	position	hypothetical event
+1068	import_export_scenario	import export scenario	agent	vehicle	manner	means	goods	purpose	explanation	time	depictive	importing area	path	exporting area	descriptor
+1069	breaking_off	breaking off	subpart	whole	criterion	time	place	manner	means
+1070	expensiveness	expensiveness	goods	payer	asset	origin	degree	intended event	time	rate
+1071	colonization	colonization	colonists	homeland	new area	time	degree	purpose	descriptor	explanation
+1072	conquering	conquering	conqueror	theme	degree	manner	means	place	time	purpose	instrument	depictive	frequency
+1073	locating	locating	perceiver	sought entity	location	ground	time
+1074	repayment	repayment	loaner	debtor	money	loan	degree	time	circumstances	manner	place	means
+1075	forgiveness	forgiveness	judge	evaluee	offense
+1076	limitation	limitation	entity	degree
+1077	requirement_scenario	requirement scenario	dependent	requirement	degree	explanation	time	condition	domain	place	dependent individual	required entity	required individual
+1078	motion_scenario	motion scenario	duration	time	area	cotheme	distance	goal	path	source	speed	theme	mode of transportation
+1079	ingredients	ingredients	material	type	origin	descriptor	use	product	name
+1080	light_movement	light movement	degree	depictive	manner	result	emitter	source	beam	path	goal
+1081	have_as_translation_equivalent	have as translation equivalent	source symbol	source representation	time	circumstances	target symbol	target representation	content	equivalence	medium
+1082	substance_by_phase	substance by phase	substance	subregion
+1083	undergoing	undergoing	entity	event	time	place	explanation	purpose	manner	circumstances
+1084	willingness	willingness	cognizer	activity	explanation	place	time	purpose	degree	frequency
+1085	inclusion	inclusion	total	part	purpose	frequency	contrast set	subregion	explanation	manner	time	place
+1086	ground_up	ground up	patient	result
+1087	electricity	electricity	electricity	source	descriptor	inherent purpose
+1088	reforming_a_system	reforming a system	agent	time	degree	manner	explanation	entity	purpose	initial category	final category	means	re encoding	event description	circumstances	duration	cause	place
+1089	getting_underway	getting underway	self mover	source	path	goal	manner	means	time	depictive	duration of final state	mode of transportation	journey	direction
+1090	making_faces	making faces	agent	internal cause	body part	degree	manner	intended perceiver	time	location of protagonist	path of gaze	cognate event	depictive	external cause
+1091	being_awake	being awake	protagonist	duration	time	place	degree	manner
+1092	waver_between_options	waver between options	cognizer	explanation	options	place	time	manner	issue	option 1	option 2	duration	frequency	degree	containing event	circumstances
+1093	labor_product	labor product	agent	cause	input	output	depictive	time	place	beneficiary	presentation	descriptor
+1094	artifact_subpart	artifact subpart	component	artifact	function	material	creator	time of creation
+1095	importing	importing	importer	vehicle	manner	means	goods	purpose	explanation	time	depictive	importing area	path	exporting area	particular iteration	frequency	result	beneficiary
+1096	food_gathering	food gathering	gatherer	crop	duration	manner	means	place	time	purpose	frequency	particular iteration	source	circumstances	degree	beneficiary
+1097	planting	planting	agent	theme	instrument	duration	manner	means	outcome	place	time	purpose	frequency	degree	ground	particular iteration	depictive	co participant	explanation
+1098	questioning	questioning	speaker	addressee	message	topic	medium	manner	internal cause	time	iterations
+1099	manner_of_life	manner of life	experiencer	lifestyle	manner	time	degree	manner	place	domain	descriptor
+1100	eclipse	eclipse	obstruction	eclipsed	vantage point	degree	subregion
+1101	exporting	exporting	exporter	vehicle	manner	means	goods	purpose	explanation	time	depictive	importing area	path	exporting area	re encoding	type
+1102	taking_captive	taking captive	captive	agent	instrument	reciprocation	place	time	purpose	means	manner	explanation	cause	depictive	containing event
+1103	bond_maturation	bond maturation	financial instrument	time	issuer	holder	value	principle	interest
+1104	surrendering	surrendering	fugitive	authorities	place	time	charges	manner	explanation
+1105	court_examination	court examination	questioner	witness	topic	time	place	manner	purpose	means	duration
+1106	want_suspect	want suspect	suspect	charges	degree
+1107	rite	rite	leader	member	organization	means	manner	time	place	instrument	desired state of affairs	type	object	new status	guardian
+1108	undressing	undressing	wearer	clothing	body location	manner	means	result	degree	place	time	purpose	circumstances	explanation
+1109	meet_with	meet with	party 1	party 2	purpose	place	time	means	manner
+1110	placing_scenario	placing scenario	agent	theme	source	path	goal	degree	depictive	manner	means	result	explanation	time	place	instrument	subregion	cause
+1111	freeing_from_confinement	freeing from confinement	agent	theme	manner	means	explanation	purpose	place	time	location of confinement	concessive	circumstances
+1112	entering_of_plea	entering of plea	judge	accused	charges	plea	time	place	court
+1113	commutative_statement	commutative statement	result	term1	term2	terms
+1114	being_pregnant	being pregnant	mother	father	parents	offspring	duration
+1115	containers	containers	container	contents	material	type	relative location	construction	owner	use	part	descriptor
+1116	needing	needing	cognizer	requirement	dependent	circumstances	degree	time	place	consequences	frequency	iterations	particular iteration	explanation
+1117	economy	economy	political region	economy	domain	market type	descriptor
+1118	being_employed	being employed	compensation	employee	employer	manner	place of employment	position	purpose	task	time	field	duration	rank	type	contract basis	place	frequency	event description	circumstances	particular iteration
+1119	beat_opponent	beat opponent	winner	score	margin	rank	prize	means	manner	time	place	venue	particular iteration	explanation	period of iterations	loser	circumstances	re encoding	result	iterations	viewpoint	event description	degree	depictive	competition	frequency
+1120	pattern	pattern	entities	name	descriptor
+1121	adding_up	adding up	cognizer	numbers	result	time	place	purpose	means	manner
+1122	amounting_to	amounting to	value	attribute	time span	frequency	numbers
+1123	custom	custom	behavior	protagonist	domain	descriptor	place	society
+1124	secrecy_status	secrecy status	phenomenon	degree	time	cognizer	viewpoint
+1125	employee_scenario	employee scenario	compensation	employee	employer	position	task	field	duration
+1126	planned_trajectory	planned trajectory	theme	source	path	goal	descriptor
+1127	convey_importance	convey importance	speaker	addressee	message	medium	manner	means	time	iterations	degree	place	circumstances	frequency	period of iterations	event description	particular iteration
+1128	occupy_rank	occupy rank	rank	item	dimension	time	comparison set
+1129	deception_scenario	deception scenario	victim	deceiver	phenomenon	topic
+1130	recovery	recovery	patient	affliction	body part	manner	degree	means	company	time	place
+1131	isolated_places	isolated places	place	relative location
+1132	linguistic_meaning	linguistic meaning	form	meaning	textual location	referent	degree
+1133	communication_means	communication means	communicator	addressee	message	topic	manner	means	explanation	depictive
+1134	fields	fields	activity	practitioner	salient entity	work	type	place	time
+1135	wearing	wearing	wearer	clothing	body part	degree	manner	time	source	intended wearing location	purpose	relative location
+1136	conditional_occurrence	conditional occurrence	profiled possibility	consequence
+1137	institutionalization	institutionalization	patient	facility	authority	affliction	time	purpose	means	manner	explanation	duration of final state	place	depictive	particular iteration	frequency
+1138	win_prize	win prize	competitor	score	margin	rank	prize	means	manner	time	place	venue	particular iteration	competition	explanation	period of iterations	opponent	circumstances	re encoding	result	iterations	viewpoint	event description
+1139	reason	reason	agent	action	state of affairs
+1140	optical_image	optical image	image	source
+1141	losing_track_of_perceiver	losing track of perceiver	theme	perceiver	place	time	explanation
+1142	containment	containment	container	interior	exterior	portal	boundary
+1143	contrition	contrition	experiencer	action	degree	expressor	authenticity	emotional state	depictive	time	manner
+1144	successful_action	successful action	means	goal	instrument	place	time	explanation	circumstances	protagonist	degree	role	explanation	containing event
+1145	adopt_selection	adopt selection	agent	attribute	value	time	manner	event description	depictive	purpose	role	place	frequency	containing event	circumstances	re encoding	particular iteration	means	instrument	duration	explanation	viewpoint
+1146	mental_stimulus_stimulus_focus	mental stimulus stimulus focus	experiencer	stimulus	degree	empathy target	explanation	circumstances	parameter	manner	time	frequency
+1147	evoking	evoking	cognizer	phenomenon	degree	manner	duration	explanation	time	stimulus	feature
+1148	subordinates_and_superiors	subordinates and superiors	superior	subordinate
+1149	stage_of_progress	stage of progress	entity	time	manner	degree	domain
+1150	bringing	bringing	agent	goal	source	path	theme	constant location	area	depictive	distance	manner	speed	purpose	carrier	means	place	time	explanation	beneficiary	particular iteration	frequency	degree	co participant	duration	period of iterations

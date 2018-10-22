@@ -1,0 +1,10 @@
+Attack	attack	attacker	target	instrument	time	place
+Transport	transport	agent	artifact	vehicle	price	origin	destination	time
+Die	die	agent	victim	instrument	time	place
+Meet	meet	entity	time	place
+Arrest-Jail	arrest-jail	person	agent	crime	time	place
+Transfer-Money	transfer-money	giver	recipient	beneficiary	money	time	place
+Sentence	sentence	defendant	adjudicator	crime	sentence	time	place
+Elect	elect	person	entity	position	time	place
+Transfer-Ownership	buyer	seller	beneficiary	artifact	price	time	place
+End-Position	end-position	person	entity	position	time	place

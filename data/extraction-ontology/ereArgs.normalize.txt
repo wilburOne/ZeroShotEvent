@@ -1,0 +1,40 @@
+1	business	start organization	agent	organization	start organization	place	time
+2	business	end organization	organization	end organization	end organization	place	time
+3	business	declare bankruptcy	organization	bankruptcy	organization	place	time
+4	business	merge organization	organization	merge organization	merge organization	place	time
+5	conflict	attack	attacker	target	instrument	place	time
+6	conflict	demonstrate	demonstrate	demonstrate	entity	place	time
+7	contact	meet	meet	meet	entity	place	time
+8	contact	correspondence	correspondence	correspondence	entity	place	time
+9	contact	broadcast	broadcast	entity	audience	place	time
+10	contact	contact	contact	contact	entity	place	time
+11	manufacture	artifact	agent	artifact	instrument	place	time
+12	life	be born	be born	be born	be born	person	place	time
+13	life	marry	marry	marry	person	place	time
+14	life	divorce	divorce	divorce	person	place	time
+15	life	injure	agent	victim	instrument	place	time
+16	life	die	agent	victim	instrument	place	time
+17	transaction	transfer ownership	giver	recipient	beneficiary	thing	place	time
+18	transaction	transfer money	giver	recipient	beneficiary	money	place	time
+19	transaction	transaction	giver	recipient	beneficiary	place	time
+20	movement	transport person	agent	person	instrument	origin	destination	time
+21	movement	transport artifact	agent	artifact	instrument	origin	destination	time
+22	personnel	start position	entity	person	position	place	time
+23	personnel	end position	entity	person	position	place	time
+24	personnel	nominate	entity	person	position	place	time
+25	personnel	elect	entity	person	position	place	time
+26	justice	arrest jail	agent	person	crime	place	time
+27	justice	release parole	agent	person	crime	place	time
+28	justice	trial hearing	prosecutor	adjudicator	defendent	crime	place	time
+29	justice	sentence	adjudicator	defendent	sentence	crime	place	time
+30	justice	fine	adjudicator	entity	money	crime	place	time
+31	justice	charge indict	prosecutor	adjudicator	defendant	crime	place	time
+32	justice	sue	plaintiff	adjudicator	defendant	crime	place	time
+33	justice	extradite	agent	person	crime	origin	destination	time
+34	justice	acquit	adjudicator	defendant	crime	place	time
+35	justice	convict	adjudicator	defendant	crime	place	time
+36	justice	appeal	prosecutor	adjudicator	defendent	crime	place	time
+37	justice	execute	agent	person	crime	place	time
+38	justice	pardon	adjudicator	defendent	crime	place	time
+39	contact	communicate	communicate	communicate	entity	place	time
+40	justice	try hold hearing	prosecutor	adjudicator	defendent	crime	place	time
