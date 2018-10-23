@@ -185,7 +185,7 @@ def main(args):
 
     role_index_dev_matrix, role_vector_dev_matrix, input_arg_context_dev_matrix, input_arg_dev_matrix, \
         arg_relation_binary_dev_matrix, pos_neg_role_dev_matrix, limited_roles_dev_matrix = \
-        input_arg_matrix(arg_trigger_list_dev, arg_trigger_type_list_dev, arg_list_dev, arg_path_left_list_dev,
+        input_arg_matrix_test(arg_trigger_list_dev, arg_trigger_type_list_dev, arg_list_dev, arg_path_left_list_dev,
                          arg_path_rel_list_dev,arg_path_right_list_dev, arg_role_list_dev, word_vectors,
                          all_arg_role_list, trigger_role_2_index, vector_size, arg_context_size, relation_size,
                          rel_2_index, train_roles, trigger_role_matrix, arg_label_file)

@@ -79,7 +79,7 @@ def main(args):
             embedding_size, mention_context_size, relation_size, label_file, word_vectors, rel_index, train_type_flag)
 
     result_index_dev_matrix, result_vector_dev_matrix, input_context_dev_matrix, input_trigger_dev_matrix, \
-        relation_binary_dev_matrix, pos_neg_dev_matrix = input_matrix_1(
+        relation_binary_dev_matrix, pos_neg_dev_matrix = input_matrix_1_test(
             type_list_dev, trigger_list_dev, left_word_list_dev, relation_list_dev, right_word_list_dev, embedding_size,
             mention_context_size, relation_size, label_file, word_vectors, rel_index, train_type_flag)
 

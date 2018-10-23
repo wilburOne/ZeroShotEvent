@@ -1,0 +1,753 @@
+APW_ENG_20030322_0119##30##0.1.1.1.1 :: Start-Org :: create-1 :: create-1##:instance##create-1	prevent-1##:ARG1##create-1	prevent-1##:ARG1##criminal-organization	send-3##:purpose##prevent-1
+APW_ENG_20030619_0383##16##0 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	try-1##:location##absent-1
+AFP_ENG_20030417_0764##11##0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	and##:op2##charge-5	and##:op1##arrest-1
+fsh_29138##142##0.4.2 :: Start-Position :: start-1 :: start-1##:instance##start-1	say-1##:time##start-1	say-1##:ARG0##d	say-1##:ARG1##counselor	get-1##:ARG1##say-1	say-1##:ARG1##girl
+APW_ENG_20030527_0232##19##0.1.0.1.0.0.0 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	throw-1##:ARG1##protest-1	throw-1##:ARG0##stone-throwing
+CNN_ENG_20030425_133605_6##14##0.1 :: Start-Org :: open-1 :: open-1##:instance##open-1	prepare-1##:ARG1##open-1	prepare-1##:location##store-1
+APW_ENG_20030325_0786##19##0.2.0.0.0 :: Divorce :: break-12 :: break-12##:instance##break-12	likely##:domain##detail-1	detail-1##:ARG1##break-2
+misc_kids_pregnancy_20050120_0404##9##0.0 :: Be-Born :: birth :: birth##:instance##birth	birth##:mod##water	birth##:mod##normal	birth##:ARG0##person	person##:name##name	water##:mod##true
+alt_support_divorce_20050113_2451##39##0.1.0.0.0.1.1.0 :: Divorce :: divorce :: divorce##:instance##divorce
+BACONSREBELLION_20050218_1214##7##0.2.1 :: Start-Org :: create-1 :: create-1##:instance##create-1	build-1##:ARG1##create-1	build-1##:ARG1##center	go-1##:ARG1##build-1	build-1##:ARG0##country
+APW_ENG_20030619_0383##13##0 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	try-1##:ARG2##charge-5	charge-5##:ARG2##endanger	charge-5##:mod##criminal-organization
+CNN_IP_20030329_1600_01-3##99##0.1.2 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	demonstrate-1##:mod##peaceful
+fsh_29272##48##0.0.0 :: Injure :: hit-1 :: hit-1##:instance##hit-1	and##:op2##hit-1	and##:location##and
+CNN_IP_20030408_1600_03##59##0.2.0.1 :: Execute :: execute-1 :: execute-1##:instance##execute-1	and##:op2##execute-1	and##:op2##torture
+CNN_ENG_20030528_172957_18##9##0.2 :: Release-Parole :: release-1 :: release-1##:instance##release-1	contrast-1##:ARG2##release-1	contrast-1##:ARG1##serve-1	contrast-1##:ARG2##self
+BACONSREBELLION_20050226_1317##7##0 :: Phone-Write :: email-1 :: email-1##:instance##email-1	email-1##:ARG1##ask-2	ask-2##:ARG2##oppose-1
+CNNHL_ENG_20030604_230238_5##13##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##stockbroker	charge-5##:mod##also
+CNNHL_ENG_20030624_230338_34##18##0.3 :: Phone-Write :: call-11 :: call-11##:instance##call-11	make-2##:ARG0##mother	make-2##:time##then	make-2##:ARG2##police	make-2##:ARG0##person	make-2##:ARG1##call-1
+APW_ENG_20030527_0232##17##0.0.3.1.2.0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1
+AFP_ENG_20030417_0764##10##0.2.2 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	take-1##:purpose##demonstrate-1	demonstrate-1##:ARG1##support-1	rock##:ARG2##take-1	take-1##:ARG1##people	take-1##:ARG0##name	take-1##:ARG4##street
+AFP_ENG_20030327_0022##11##0.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##murder-1
+fsh_29195##8##0.1.0.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	recommend-1##:ARG1##appoint-1	think-1##:ARG1##recommend-1
+AFP_ENG_20030522_0878##9##0 :: Start-Position :: become-1 :: become-1##:instance##become-1	become-1##:ARG2##trip-1	trip-1##:domain##visit-1
+FLOPPINGACES_20041116_0833_027##17##0.4 :: Demonstrate :: uprise-0 :: uprise-0##:instance##uprise-0	lead-2##:ARG2##uprise-0	uprise-0##:prep-against##occupy-1	lead-2##:ARG0##person	occupy-1##:ARG1##country	lead-2##:ARG0##person	lead-2##:ARG1##criminal-organization	occupy-1##:ARG0##country	lead-2##:time##date-entity
+CNN_IP_20030329_1600_00-5##18##0.1.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	send-3##:ARG1##injure-1	and##:op1##send-3	send-3##:ARG1##man	send-3##:ARG0##we
+fsh_29272##6##0.0 :: Convict :: find-1 :: find-1##:instance##find-1	and##:op1##find-1	find-1##:ARG1##guilty-1	guilty-1##:ARG2##murder-1	and##:op2##face-1
+fsh_29171##83##0.1.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##let-1	let-1##:ARG1##see-1
+rec_arts_sf_written_robert-jordan_20050208_1350##12##0.0.0 :: Release-Parole :: get-1 :: get-1##:instance##get-1	specific##:op1##get-1
+CNN_ENG_20030513_160506_16##9##0.1.0 :: Charge-Indict :: charge :: charge##:instance##charge	against##:ARG2##charge
+APW_ENG_20030519_0548##12##0.3.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	and##:op2##sentence-1	and##:op1##except
+CNN_CF_20030303_1900_00##22##0.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##professional	professional##:ARG1##mr
+APW_ENG_20030411_0304##8##0.3.0.0.0.2.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	consider-1##:ARG1##appeal-2	consider-1##:ARG1##postpone
+CNN_CF_20030304_1900_02##9##0.3.0.0 :: End-Org :: drive-2 :: drive-2##:instance##drive-2	drive-2##:ARG0##control-1	drive-2##:ARG1##practice-1	say-1##:ARG1##control-1
+AFP_ENG_20030319_0879##12##0.2 :: Start-Position :: replace-1 :: replace-1##:instance##replace-1	say-1##:ARG1##replace-1	say-1##:ARG0##group
+fsh_29191##30##0.1 :: Phone-Write :: call-11 :: call-11##:instance##call-11	let-1##:ARG1##see-1	get-1##:ARG0##call-1	let-1##:ARG1##call-1	let-1##:ARG2##country
+fsh_29191##6##0.1.1 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	start-1##:ARG1##appoint-1	start-1##:time##already	and##:op2##start-1
+misc_legal_moderated_20050129_2225##32##0.0.0.0.0.0 :: Injure :: assault-1 :: assault-1##:instance##assault-1	and##:op1##assault-1	and##:op2##battery
+CNN_ENG_20030429_110706_7##15##0.3.1.0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	demonstrate-1##:ARG0##troop
+fsh_29192##56##0.0.1 :: Start-Position :: step-1 :: step-1##:instance##step-1	go-1##:ARG1##step-1	and##:op1##go-1	go-1##:ARG0##person	go-1##:ARG1##way	go-1##:ARG1##uh
+APW_ENG_20030527_0232##23##0.0.2 :: Injure :: injure-1 :: injure-1##:instance##injure-1	explode-1##:ARG1##injure-1	explode-1##:time##after	say-1##:ARG1##explode-1	explode-1##:ARG0##bag
+fsh_29192##8##0.1.0.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	recommend-1##:ARG1##appoint-1	think-1##:ARG1##recommend-1
+AFP_ENG_20030327_0022##6##0.0.1 :: Execute :: execute-1 :: execute-1##:instance##execute-1	delay-1##:ARG1##execute-1	include-1##:ARG2##execute-1	include-1##:ARG1##country	include-1##:ARG1##row	include-1##:ARG1##convict-1	include-1##:quant##6	say-1##:ARG1##delay-1	delay-1##:time##after	delay-1##:ARG0##country
+APW_ENG_20030419_0358##18##0.0 :: Be-Born :: birth :: birth##:instance##birth
+CNN_CF_20030304_1900_04##25##0.1 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	go-1##:ARG1##demonstrate-1	go-1##:ARG0##you
+APW_ENG_20030502_0686##18##0 :: Phone-Write :: discuss-1 :: discuss-1##:instance##discuss-1	discuss-1##:time##return-1	return-1##:ARG0##person	return-1##:ARG4##tour-1
+CNN_CF_20030304_1900_01##96##0.1 :: Fine :: pay-1 :: pay-1##:instance##pay-1	and##:op2##pay-1	and##:op2##count	and##:op1##list-1
+rec_travel_cruises_20050216_1636##49##0 :: Marry :: see-1 :: see-1##:instance##see-1	see-1##:ARG1##do-2	do-2##:mod##this
+CNNHL_ENG_20030410_193626_13##5##0.1 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	announce-1##:ARG1##protest-1	announce-1##:ARG0##faction
+CNN_ENG_20030403_060032_0##6##0.1 :: Phone-Write :: speak-1 :: speak-1##:instance##speak-1	speak-1##:mod##privacy	speak-1##:ARG2##parent	speak-1##:ARG0##army	speak-1##:ARG1##phone	speak-1##:ARG2##hospital	army##:mod##old	phone##:time##date-entity	hospital##:location##country	phone##:mod##pie
+CNN_CF_20030304_1900_01##35##0.1.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	find-1##:ARG1##injure-1	allow-1##:ARG1##injure-1	go-1##:ARG1##allow-1	allow-1##:ARG0##we	find-1##:ARG1##lung
+CNN_ENG_20030605_085831_13##36##0.1 :: Trial-Hearing :: prosecute-1 :: prosecute-1##:instance##prosecute-1	prosecute-1##:ARG1##deal-1	contrast-1##:ARG2##prosecute-1	contrast-1##:ARG1##piese	deal-1##:ARG0##person	deal-1##:ARG1##mogul
+fsh_29395##94##0.2.1 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG2##deliver-1	know-1##:ARG1##bear-2	find-1##:ARG1##know-1	know-1##:name##name
+APW_ENG_20030406_0191##28##0.2.0 :: Start-Org :: set-1 :: set-1##:instance##set-1	work-1##:ARG1##set-1	say-1##:ARG1##work-1
+fsh_29195##7##0.1.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	see-1##:ARG1##appoint-1	like-2##:ARG1##see-1
+fsh_29226##6##0.0.1 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	murder-1##:ARG1##and	find-1##:ARG1##person	guilty-1##:ARG2##murder-1	find-1##:ARG1##guilty-1	and##:op1##find-1
+CNNHL_ENG_20030415_193729_5##8##0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	convict-1##:location##absent-1	and##:op2##sentence-1
+AFP_ENG_20030323_0020##11##0.2 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	assign-1##:ARG2##rally-1	assign-1##:ARG2##officer	assign-1##:ARG0##city	include-1##:ARG2##assign-1
+XIN_ENG_20030509_0137##9##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:mod##also	charge-5##:ARG1##sister-in-law	charge-5##:ARG2##section	cover-1##:ARG0##section	section##:ARG0##person	section##:quant##62
+APW_ENG_20030610_0010##7##0.0.1.0.3.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##both	convict-1##:ARG1##receive-1	receive-1##:ARG1##bribe-1	receive-1##:ARG1##person
+CNN_ENG_20030627_130145_6##6##0.0 :: End-Org :: close-1 :: close-1##:instance##close-1	close-1##:ARG1##segrationist
+CNN_CF_20030304_1900_04##109##0.1 :: Start-Position :: put-3 :: put-3##:instance##put-3	and##:op2##put-3	and##:op1##overthrow-1
+AFP_ENG_20030401_0476##8##0.1 :: Start-Position :: become-1 :: become-1##:instance##become-1	leave-1##:ARG1##become-1	leave-1##:ARG0##person
+AFP_ENG_20030323_0020##46##0 :: Demonstrate :: gather-1 :: gather-1##:instance##gather-1	gather-1##:ARG0##person	gather-1##:location##thousands	gather-1##:location##and	gather-1##:mod##also	and##:op2##country	and##:op2##country	and##:op1##country	and##:op2##country	protester##:ARG0##person
+fsh_29601##147##0.0.3.0.0.1 :: Start-Position :: come-1 :: come-1##:instance##come-1	continue-1##:ARG1##come-1	recommend-1##:ARG1##continue-1	continue-1##:manner##just
+CNNHL_ENG_20030513_220910_11##4##0.0.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##person	oklahoma##:ARG0##person	city##:ARG0##person	bomb-1##:ARG0##person	person##:name##name
+fsh_29326##7##0.1.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##crime
+CNN_CF_20030304_1900_01##96##0.0.0 :: Sue :: claim-1 :: claim-1##:instance##claim-1	list-1##:ARG1##claim-1	list-1##:ARG1##claim-1	and##:op1##list-1
+AFP_ENG_20030625_0057##6##0.0.4 :: Start-Org :: create-1 :: create-1##:instance##create-1	take-1##:purpose##create-1	take-1##:time##stage	say-1##:ARG1##take-1	take-1##:ARG1##arm	take-1##:ARG2##group	take-1##:ARG2##deal-1
+fsh_29774##20##0.0.0 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	possible##:domain##talk-1
+CNN_IP_20030329_1600_02##30##0 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	talk-1##:ARG0##they	talk-1##:time##morning	talk-1##:ARG0##videophone	morning##:mod##this
+AFP_ENG_20030617_0846##10##0.0.1 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##country	country##:name##name
+AFP_ENG_20030323_0020##19##0.0 :: Demonstrate :: gather-1 :: gather-1##:instance##gather-1	accompany-1##:ARG1##gather-1	accompany-1##:ARG0##present
+AFP_ENG_20030401_0476##7##0 :: Start-Position :: begin-1 :: begin-1##:instance##begin-1	begin-1##:ARG1##include-1	include-1##:ARG2##job
+MARKETVIEW_20050126_0711##24##0.3.0.0.1 :: Sue :: sue-1 :: sue-1##:instance##sue-1	and##:op2##sue-1	sue-1##:ARG1##get-1	and##:op1##sell-1	and##:op2##keep-5
+APW_ENG_20030410_0906##33##0.5.0 :: Start-Position :: become-1 :: become-1##:instance##become-1	before##:op1##become-1
+fsh_29348##126##0.2.4.0.0 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	and##:op1##hurt-1
+CNN_IP_20030409_1600_04##66##0.1 :: Phone-Write :: write-1 :: write-1##:instance##write-1	hope-1##:ARG1##write-1	write-1##:ARG2##answer-1	answer-1##:ARG2##question	hope-1##:ARG1##time
+fsh_29195##6##0.1.1 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	start-1##:ARG1##appoint-1	and##:op2##start-1	start-1##:time##already
+CNN_ENG_20030528_125956_8##14##0.2.1 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG0##consider-2	sue-1##:ARG2##give-1	tell-1##:ARG1##consider-2	consider-2##:ARG0##enron	give-1##:ARG1##advice
+fsh_29191##103##0 :: Start-Position :: head-1 :: head-1##:instance##head-1	head-1##:name##name	name##:op1##"s"
+AFP_ENG_20030311_0491##15##0 :: Charge-Indict :: prosecute-1 :: prosecute-1##:instance##prosecute-1	prosecute-1##:ARG1##name	prosecute-1##:time##after	prosecute-1##:location##country	country##:name##name	name##:op1##"s"	name##:ARG0##person	after##:op1##agree-1
+rec_games_chess_politics_20041217_2111##52##0.0.6 :: Sue :: sue-1 :: sue-1##:instance##sue-1	and##:op1##sue-1	and##:op2##sue-1	and##:op1##get-1	and##:op1##force-1	and##:op3##irritating	and##:op1##irritating	and##:op1##get-1	and##:op2##imagine	and##:op2##person
+CNN_CF_20030304_1900_01##23##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG1##die-1	die-1##:ARG2##negligence	die-1##:ARG0##temporal-quantity	die-1##:time##80	die-1##:ARG0##person
+APW_ENG_20030610_0010##6##0.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##request-1	request-1##:ARG2##official	say-1##:ARG1##request-1	request-1##:ARG1##appeal-2
+CNN_ENG_20030610_085833_10##10##0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	relate-1##:ARG0##charge-5	relate-1##:ARG2##stock
+APW_ENG_20030510_0228##10##0.1.2 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	pay-1##:purpose##appeal-2	pay-1##:ARG1##fine-1	pay-1##:ARG0##paper	say-1##:ARG1##pay-1
+APW_ENG_20030619_0383##14##0.2 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	try-1##:location##absent-1	person##:ARG2##try-1	person##:ARG2##enter-1	indict##:ARG1##person	person##:ARG1##person
+misc_legal_moderated_20050129_2225##22##0.2 :: Phone-Write :: call-11 :: call-11##:instance##call-11	receive-1##:time##morning	receive-1##:ARG1##call-1	receive-1##:ARG2##supervise-1
+AFP_ENG_20030323_0020##32##0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	invade-1##:name##demonstrate-1	demonstrate-1##:location##support-1	invade-1##:location##city	invade-1##:ARG1##country	lead-2##:ARG1##invade-1	support-1##:ARG1##country
+fsh_29388##19##0.0 :: Phone-Write :: call-3 :: call-3##:instance##call-3	m##:ARG1##call-3
+CNN_IP_20030330_1600_06##18##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	cause-1##:ARG1##injure-1	cause-1##:ARG0##say-1
+CNNHL_ENG_20030609_133335_37##15##0.1.1.1 :: End-Org :: end-1 :: end-1##:instance##end-1	cross-2##:ARG2##end-1	cross-2##:ARG0##history	cross-2##:mod##silver
+APW_ENG_20030324_0768##7##0.1.0.0 :: Fine :: fine :: fine##:instance##fine	total-1##:ARG1##fine	total-1##:ARG1##person
+APW_ENG_20030424_0698##10##0.1 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:source##person	person##:name##name
+CNN_ENG_20030528_172957_18##5##0.0.2.0.0 :: Release-Parole :: sentence-1 :: sentence-1##:instance##sentence-1	serve-1##:ARG1##sentence-1	before##:op1##serve-1
+APW_ENG_20030331_0410##15##0 :: Start-Position :: transfer-1 :: transfer-1##:instance##transfer-1	transfer-1##:ARG2##country	transfer-1##:ARG2##person	transfer-1##:time##date-entity	transfer-1##:ARG0##person	date-entity##:year##2002	country##:name##name	country##:mod##club	country##:mod##country	person##:name##name	person##:name##name
+CNN_IP_20030414_1600_04##54##0.3.0.2.0 :: Phone-Write :: call-3 :: call-3##:instance##call-3	d##:ARG1##call-3
+CNN_ENG_20030610_123040_9##9##0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:ARG1##die-1	tell-1##:ARG1##die-1	die-1##:quant##3
+rec_games_chess_politics_20041217_2111##7##0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##marinello	hire##:ARG1##issue	hire##:ARG1##and	and##:op1##ethics	and##:op2##legal
+CNN_ENG_20030424_183556_7##10##0.1 :: Start-Position :: replace-1 :: replace-1##:instance##replace-1	announce-1##:ARG1##replace-1	announce-1##:ARG0##company
+CNN_CF_20030304_1900_01##69##0.0.0.3.1 :: End-Org :: close-1 :: close-1##:instance##close-1	close-1##:ARG1##possible	close-1##:ARG1##close-1	find-1##:ARG1##close-1	close-1##:ARG1##room
+CNN_ENG_20030502_080020_7##20##0.2 :: Charge-Indict :: charge :: charge##:instance##charge	charge##:quant##more-than	charge##:ARG2##activity	activity##:mod##hazing	more-than##:op1##150	activity##:mod##other
+CNNHL_ENG_20030610_133347_6##6##0.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	and##:op1##fine-1	and##:op2##order-1
+CNNHL_ENG_20030610_133347_6##6##0.1.0 :: Fine :: pay-1 :: pay-1##:instance##pay-1	order-1##:ARG2##pay-1	and##:op2##order-1	order-1##:ARG1##name
+CNN_ENG_20030607_170312_6##31##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:time##lie	charge-5##:domain##that	charge-5##:mod##justice	that##:time##then
+APW_ENG_20030510_0228##17##0.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	charge-5##:ARG2##release-1	charge-5##:ARG2##publish-1	charge-5##:ARG2##incite-1
+TTRACY_20050223_1049##10##0 :: Start-Position :: start-1 :: start-1##:instance##start-1	start-1##:time##week	week##:location##here
+APW_ENG_20030319_0545##7##0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG1##ceo	appoint-1##:ARG1##person	person##:name##name	ceo##:mod##interim	ceo##:ARG1##organization
+alt_support_divorce_20050113_2451##33##0.1.1.0.2 :: Divorce :: divorce :: divorce##:instance##divorce
+CNN_ENG_20030513_160506_16##6##0.0.1 :: Execute :: penalize-1 :: penalize-1##:instance##penalize-1	bring-1##:ARG1##penalize-1	penalize-1##:mod##die-1	bring-1##:ARG0##proceedings	possible##:domain##bring-1
+AFP_ENG_20030417_0764##6##0.1.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	and##:op2##sentence-1
+BACONSREBELLION_20050127_1017##32##0.1.1.0.2.2 :: End-Org :: close-1 :: close-1##:instance##close-1	close-1##:ARG1##plant	plant##:mod##manufacture-1	plant##:mod##more
+APW_ENG_20030331_0410##6##0.0.0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	drop##:ARG1##appeal-2	appeal-2##:ARG1##convict-1	convict-1##:mod##assault-1	drop##:ARG0##person
+BACONSREBELLION_20050205_1919##9##0.2.1.0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	merge-1##:ARG1##bill
+CNN_ENG_20030528_172957_18##12##0.1.1.1 :: Release-Parole :: release-1 :: release-1##:instance##release-1	release-1##:ARG1##come-1	enable-1##:ARG1##release-1	enable-1##:ARG1##judge-1	and##:op2##enable-1	come-1##:ARG1##evidence-1	come-1##:ARG1##light
+AFP_ENG_20030508_0357##15##0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	pend-1##:ARG0##appeal-2	pend-1##:location##government-organization	pend-1##:time##now
+CNN_CF_20030303_1900_00##29##0.0.1 :: Start-Position :: put-3 :: put-3##:instance##put-3	ok##:ARG1##put-3	ok##:name##name
+APW_ENG_20030331_0410##7##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG2##assault-1	assault-1##:ARG1##pair	assault-1##:time##night
+APW_ENG_20030416_0581##13##0.1.1.0.1 :: Release-Parole :: free-1 :: free-1##:instance##free-1	free-1##:ARG1##temporal-quantity	free-1##:ARG2##reach-1	reach-1##:ARG1##presidium
+CNNHL_ENG_20030513_220910_11##8##0.0.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##person	convict-1##:ARG1##set-5	set-5##:ARG1##bomb	person##:name##name
+XIN_ENG_20030509_0137##13##0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	release-1##:manner##charge-5	release-1##:ARG1##and	release-1##:time##already
+MARKETVIEW_20050206_2009##7##0.0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	and##:op1##merge-1	and##:op2##activity
+alt_support_divorce_20050113_2451##50##0.0.0 :: Marry :: marriage :: marriage##:instance##marriage
+CNN_ENG_20030617_105836_4##9##0 :: Charge-Indict :: prosecute-1 :: prosecute-1##:instance##prosecute-1	prosecute-1##:time##mention-1	prosecute-1##:time##see-1	see-1##:ARG1##sell-1	see-1##:ARG1##anyone
+APW_ENG_20030424_0698##16##0.0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+alt_support_divorce_20050113_2451##69##0.2.0 :: Divorce :: divorce :: divorce##:instance##divorce
+CNN_IP_20030329_1600_01-3##47##0.2 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	sponsor-1##:ARG1##rally-1	sponsor-1##:ARG0##organization	sponsor-1##:time##today	sponsor-1##:ARG0##organization
+APW_ENG_20030619_0383##13##0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	try-1##:ARG2##charge-5	try-1##:ARG1##and
+fsh_29226##77##0.2.1.1.0 :: Acquit :: walk-1 :: walk-1##:instance##walk-1	walk-1##:domain##let-1	let-1##:ARG1##walk-1	let-1##:ARG1##walk-1	go-1##:ARG1##let-1	let-1##:name##name	let-1##:ARG0##we
+AFP_ENG_20030427_0118##13##0.1 :: Execute :: die-1 :: die-1##:instance##die-1	punish-1##:ARG2##die-1	punish-1##:domain##blasphemy
+CNN_ENG_20030610_123040_9##16##0.3.1.1 :: Fine :: fine :: fine##:instance##fine
+CNN_ENG_20030630_085848_18##7##0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	report-1##:ARG1##injure-1	report-1##:ARG1##hat
+CNN_ENG_20030429_110706_7##16##0 :: Phone-Write :: join-1 :: join-1##:instance##join-1	join-1##:ARG1##phone	join-1##:ARG0##penhaul	join-1##:ARG1##life	join-1##:ARG1##more	penhaul##:mod##karl
+CNN_CF_20030304_1900_04##106##0.0 :: Start-Position :: put-3 :: put-3##:instance##put-3	contrast-1##:ARG2##put-3
+APW_ENG_20030418_0084##14##0.2.1.0 :: Appeal :: appeal-1 :: appeal-1##:instance##appeal-1	bail-2##:ARG1##appeal-1	file-1##:purpose##bail-2
+CNN_ENG_20030528_172957_18##9##0.0.1 :: Release-Parole :: sentence-1 :: sentence-1##:instance##sentence-1	serve-1##:ARG1##sentence-1	serve-1##:ARG0##serious	contrast-1##:ARG1##serve-1
+CNN_ENG_20030625_220123_3##35##0.1.3 :: Be-Born :: give-1 :: give-1##:instance##give-1	cause-1##:ARG1##give-1	cause-1##:ARG0##analyze-1
+CNN_IP_20030329_1600_00-4##30##0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	report-1##:ARG0##injure-1
+CNN_ENG_20030415_173752_0##9##0.0.0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	name##:ARG0##charge-5	name##:op1##"s"
+APW_ENG_20030610_0010##15##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##receive-1	receive-1##:purpose##secure-2	receive-1##:ARG1##country	receive-1##:ARG2##family	receive-1##:ARG1##person
+AGGRESSIVEVOICEDAILY_20041218_1004##7##0.0.1.2 :: Be-Born :: cut-2 :: cut-2##:instance##cut-2	cut-2##:ARG1##girl	girl##:mod##baby	girl##:mod##a
+CNN_ENG_20030424_070008_15##19##0.0.2.0.1.0.1.1.4 :: End-Org :: go-1 :: go-1##:instance##go-1	see-1##:ARG1##go-1	see-1##:ARG0##thing	see-1##:ARG1##plus	see-1##:ARG0##country	see-1##:time##get-1
+fsh_29192##9##0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG1##figure	appoint-1##:ARG0##you	appoint-1##:ARG1##and	appoint-1##:ARG2##president	and##:op1##cabinet	figure##:mod##nation
+fsh_29302##93##0.2.1.0.0 :: Execute :: kill-1 :: kill-1##:instance##kill-1	um##:op1##kill-1	kill-1##:location##like-2	like-2##:month##something
+CNN_ENG_20030610_130042_17##8##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:location##attack-1
+AFP_ENG_20030508_0357##7##0.0.3.0.1 :: Appeal :: appeal-1 :: appeal-1##:instance##appeal-1	apply-1##:ARG1##appeal-1	apply-1##:mod##bail-2	againt##:ARG0##apply-1
+APW_ENG_20030519_0367##17##0.4 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG0##detonate	detonate##:ARG1##bomb	detonate##:ARG1##ride	detonate##:location##near	detonate##:time##monday
+fsh_29191##27##0.2 :: Phone-Write :: call-3 :: call-3##:instance##call-3	usual##:location##call-3	usual##:location##experience	usual##:name##name	usual##:ARG1##sort
+APW_ENG_20030331_0410##23##0.0 :: Start-Position :: join-1 :: join-1##:instance##join-1	and##:op1##join-1	and##:op2##have-3
+fsh_29139##38##0.0.3.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	finish-1##:ARG1##merge-1	give-1##:time##finish-1
+fsh_29138##127##0.0 :: Start-Position :: start-1 :: start-1##:instance##start-1	and##:op1##start-1	and##:op2##have-3
+fsh_29628##119##0.0.3 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:mod##also	divorce##:ARG1##parent
+CNN_ENG_20030617_193116_10##53##0.1.0.0.1.1.0 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	after##:op1##bear-2
+CNN_ENG_20030508_170552_18##50##0.0.1 :: Injure :: torture-1 :: torture-1##:instance##torture-1	and##:op2##torture-1	and##:op2##reduce-1	and##:op1##murder-1
+alt_support_divorce_20050113_2451##27##0.0.0.1 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:mod##huge	divorce##:mod##messy
+CNNHL_ENG_20030416_193742_7##5##0.0 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	say-1##:ARG1##protest-1	protest-1##:ARG1##occupy-1	say-1##:ARG0##person	occupy-1##:ARG0##country	occupy-1##:ARG1##building
+misc_legal_moderated_20041202_1648##13##0.2 :: Release-Parole :: release-1 :: release-1##:instance##release-1	serve-1##:ARG1##release-1	release-1##:ARG2##do-2	serve-1##:ARG1##az	do-2##:time##before	serve-1##:time##day	do-2##:ARG1##and	do-2##:ARG1##probation
+AFP_ENG_20030320_0722##27##0.1.0 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	after##:op1##rally-1	rally-1##:location##close-1	close-1##:ARG2##and
+MARKETVIEW_20041213_0722##7##0 :: Merge-Org :: tie-1 :: tie-1##:instance##tie-1	tie-1##:ARG0##and	tie-1##:ARG1##knot	tie-1##:manner##finally	tie-1##:manner##so	and##:op1##oracle	and##:op2##company
+XIN_ENG_20030610_0299##7##0.2.1.0 :: Fine :: fine :: fine##:instance##fine
+APW_ENG_20030324_0768##12##0.3.0.0 :: Fine :: fine :: fine##:instance##fine
+AFP_ENG_20030327_0022##14##0.0.0.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##apart	convict-1##:ARG1##murder-1
+MARKETVIEW_20050206_2009##7##0.1.2.1.5.1.0 :: Declare-Bankruptcy :: bankrupt-1 :: bankrupt-1##:instance##bankrupt-1	company##:mod##bankrupt-1	company##:purpose##create-1
+FLOPPINGACES_20041228_0927_010##11##0.0.2 :: Injure :: slice-1 :: slice-1##:instance##slice-1	slice-1##:ARG1##piece	piece##:quant##1	piece##:name##name	piece##:ARG1##shrapnel
+CNN_ENG_20030428_173654_13##6##0.0.2.2.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##executive	executive##:quant##50
+APW_ENG_20030409_0013##46##0.2 :: Start-Org :: establish-1 :: establish-1##:instance##establish-1	establish-1##:ARG1##administrate-1	begin-1##:ARG1##establish-1	administrate-1##:mod##postwar	begin-1##:time##date-entity	begin-1##:mod##also	begin-1##:ARG1##grant-1	administrate-1##:name##name	administrate-1##:ARG0##country	begin-1##:ARG0##force
+AGGRESSIVEVOICEDAILY_20050107_2012##8##0 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##result-1	cause-1##:ARG1##bear-2	cause-1##:ARG0##favor-1
+AFP_ENG_20030508_0357##12##0.2.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	after##:op1##convict-1
+rec_travel_cruises_20050216_1636##7##0.0.0 :: Marry :: marriage :: marriage##:instance##marriage
+CNNHL_ENG_20030513_220910_11##6##0.1.1.2 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	try-1##:ARG2##charge-5	present-1##:purpose##try-1	present-1##:ARG1##thing	present-1##:ARG1##person	present-1##:location##hearing	charge-5##:mod##murder-1	charge-5##:purpose##victim
+CNN_ENG_20030428_173654_13##5##0.2.0.0 :: Charge-Indict :: charge :: charge##:instance##charge
+MARKETVIEW_20041213_0722##15##0.0.0 :: Merge-Org :: get-1 :: get-1##:instance##get-1	get-1##:ARG1##contrast-1	win-1##:ARG1##get-1	and##:op1##win-1	contrast-1##:ARG1##company
+CNN_IP_20030329_1600_01-3##62##0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	demonstrate-1##:mod##peaceful	demonstrate-1##:ARG0##this
+CNN_IP_20030414_1600_04##52##0.1 :: Phone-Write :: call-1 :: call-1##:instance##call-1	want-1##:ARG1##call-1	want-1##:ARG0##everyone
+AFP_ENG_20030427_0118##9##0 :: Charge-Indict :: accuse-1 :: accuse-1##:instance##accuse-1	accuse-1##:ARG2##tear-1	tear-1##:ARG0##person	tear-1##:location##country	tear-1##:ARG1##billboard	tear-1##:time##demonstrate-1
+fsh_29786##26##0 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	talk-1##:ARG0##i	talk-1##:ARG2##somebody	talk-1##:manner##just	talk-1##:time##before	talk-1##:ARG1##line	line##:mod##survey-1	before##:decade##temporal-quantity
+AFP_ENG_20030502_0614##8##0.1.1.2.0 :: End-Org :: dismantle-1 :: dismantle-1##:instance##dismantle-1	step##:ARG2##dismantle-1
+fsh_29302##109##0.1.0.1.0 :: Execute :: die-1 :: die-1##:instance##die-1	decide-1##:ARG1##die-1	name##:ARG1##decide-1
+CNN_IP_20030414_1600_04##28##0.1 :: Phone-Write :: call-1 :: call-1##:instance##call-1	want-1##:ARG1##call-1	want-1##:ARG0##he
+CNN_IP_20030414_1600_04##25##0.0 :: Phone-Write :: call-1 :: call-1##:instance##call-1	want-1##:ARG1##call-1	call-1##:purpose##see-1	see-1##:ARG1##deliver-1
+CNNHL_ENG_20030611_133445_24##5##0.0.0.0 :: Charge-Indict :: charge :: charge##:instance##charge	misdemeanor##:ARG0##charge
+CNN_CF_20030304_1900_04##27##0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	demonstrate-1##:name##name	demonstrate-1##:time##war	demonstrate-1##:ARG1##anybody	name##:poss##don	name##:op1##"t"
+AFP_ENG_20030519_0372##13##0.0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	come-1##:ARG0##demonstrate-1	come-1##:time##begin-1
+CNN_IP_20030406_1600_03##16##0 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	hurt-1##:manner##gravely	hurt-1##:ARG1##chief	chief##:mod##brother	chief##:mod##military	chief##:name##name
+APW_ENG_20030408_0090##8##0.0.1 :: Start-Position :: join-1 :: join-1##:instance##join-1	join-1##:ARG0##person	person##:name##name
+fsh_29395##142##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##murder-1
+CNNHL_ENG_20030411_230640_38##9##0.1.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	file-1##:ARG1##charge-5	say-1##:ARG1##file-1	file-1##:ARG2##end-2
+CNN_ENG_20030409_180633_8##6##0 :: Charge-Indict :: accuse-1 :: accuse-1##:instance##accuse-1	accuse-1##:ARG2##attempt-1	attempt-1##:ARG1##ignite-1
+CNNHL_ENG_20030513_220910_32##10##0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:duration##temporal-quantity	sue-1##:ARG1##and	and##:op1##house	and##:op1##name	temporal-quantity##:mod##recent
+APW_ENG_20030419_0358##14##0.1.0.0.0.0.1 :: Be-Born :: birth :: birth##:instance##birth
+CNN_ENG_20030625_220123_3##21##0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG1##undecided	appeal-2##:ARG0##person	undecided##:mod##still	governor##:ARG0##person	want-1##:ARG0##person	person##:name##name
+misc_legal_moderated_20050129_2225##27##0.1.0.0.0 :: Charge-Indict :: charge :: charge##:instance##charge
+AFP_ENG_20030418_0556##12##0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+AFP_ENG_20030417_0307##13##0.2.0.1.0 :: Phone-Write :: call-11 :: call-11##:instance##call-11	place-1##:ARG1##call-1	mend##:ARG0##place-1
+AFP_ENG_20030330_0211##10##0.0 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	follow-1##:ARG0##protest-1	follow-1##:ARG1##string-1
+AFP_ENG_20030508_0118##8##0.0.2 :: Start-Org :: create-1 :: create-1##:instance##create-1	build-1##:ARG1##create-1	build-1##:ARG1##business	add-1##:ARG1##build-1	build-1##:ARG0##acquire-1
+APW_ENG_20030417_0555##21##0.0 :: Start-Position :: head-1 :: head-1##:instance##head-1	say-1##:ARG1##head-1	say-1##:ARG0##official
+fsh_29171##50##0.1 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##uh	hire##:ARG1##uh
+APW_ENG_20030520_0081##15##0.2.0.2.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	contrast-1##:ARG2##injure-1	contrast-1##:ARG1##damage-1	cause-1##:ARG1##contrast-1
+AGGRESSIVEVOICEDAILY_20041218_1004##9##0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##kidnap-1	and##:op2##charge-5	result-1##:ARG1##kidnap-1	and##:op1##arrest-1
+CNN_IP_20030329_1600_01-3##46##0.1.1.1 :: Demonstrate :: take-1 :: take-1##:instance##take-1	oppose-1##:ARG1##take-1	oppose-1##:ARG0##weekend	oppose-1##:ARG1##thing
+MARKBACKER_20050217_0647##22##0.1.1 :: Start-Position :: sign-2 :: sign-2##:instance##sign-2	sign-2##:manner##use-1	free##:ARG1##sign-2	free##:domain##person	use-1##:ARG1##restraint
+CNNHL_ENG_20030624_133331_33##17##0.2 :: Phone-Write :: call-11 :: call-11##:instance##call-11	make-2##:ARG1##call-1	make-2##:time##then	make-2##:ARG2##police	make-2##:ARG0##mother
+CNN_ENG_20030407_080037_12##5##0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:ARG1##report-1	report-1##:mod##other	report-1##:quant##15
+AFP_ENG_20030304_0250##6##0.0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1	wound-1##:ARG1##blast-5	blast-5##:poss##tuesday	blast-5##:location##country	blast-5##:mod##south	and##:op2##contrast-1	and##:op2##say-1	blast-5##:mod##airport	blast-5##:name##name	and##:op1##say-1
+CNN_IP_20030402_1600_00-4##43##0.1.3.0.0 :: Start-Org :: set-1 :: set-1##:instance##set-1	control-1##:ARG1##set-1	need-1##:ARG1##control-1
+APW_ENG_20030527_0232##6##0.1.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	and##:op1##shoot-5
+rec_games_chess_politics_20041217_2111##34##0.1 :: Start-Position :: hire :: hire##:instance##hire	hire##:purpose##manage-1	manage-1##:ARG1##job
+FLOPPINGACES_20041116_0833_027##18##0.0.0 :: Demonstrate :: uprise-0 :: uprise-0##:instance##uprise-0	arrest-1##:ARG1##uprise-0	and##:op1##arrest-1	arrest-1##:ARG0##country
+CNNHL_ENG_20030312_150218_13##5##0.2 :: Execute :: execute-1 :: execute-1##:instance##execute-1	schedule-1##:ARG1##execute-1	ask-2##:ARG1##execute-1	ask-2##:ARG1##block-1	ask-2##:ARG1##organization
+CNN_ENG_20030502_080020_7##19##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##member	charge-5##:ARG2##homicide	charge-5##:ARG2##military	military##:ARG1##jenning	military##:name##name	homicide##:mod##negligent	military##:duration##temporal-quantity
+Integritas-Group-Community-Forum_20050110_0557##14##0.0 :: Start-Org :: start-1 :: start-1##:instance##start-1	and##:op2##start-1	and##:op3##and
+fsh_29774##30##0 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	talk-1##:ARG1##yes	talk-1##:ARG0##i	talk-1##:ARG2##country	country##:name##name
+AFP_ENG_20030527_0616##11##0.4 :: Phone-Write :: discuss-1 :: discuss-1##:instance##discuss-1	tell-1##:ARG1##discuss-1	tell-1##:ARG0##person	tell-1##:ARG2##person	tell-1##:ARG1##and	tell-1##:ARG2##monday
+BACONSREBELLION_20050226_1317##22##0.0.0.0.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##political-party	political-party##:mod##domestic	political-party##:name##name	political-party##:mod##cheap
+AFP_ENG_20030527_0616##7##0.0 :: Phone-Write :: discuss-1 :: discuss-1##:instance##discuss-1	say-1##:ARG1##discuss-1	say-1##:ARG0##person	say-1##:ARG1##summit	say-1##:duration##temporal-quantity	say-1##:time##before
+XIN_ENG_20030509_0137##13##0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	release-1##:manner##charge-5
+alt_support_divorce_20050113_2451##47##0.2.0.0 :: Marry :: marriage :: marriage##:instance##marriage
+APW_ENG_20030417_0555##7##0.2 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	thwart##:ARG1##protest-1	protest-1##:mod##eager-1	eager-1##:ARG1##share-1	thwart##:ARG1##robbery	thwart##:ARG0##troop
+CNN_ENG_20030526_183538_3##17##0.0.0.1 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	or##:op2##hurt-1	or##:op1##injure-1
+APW_ENG_20030510_0228##17##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##publish-1	charge-5##:ARG2##release-1	charge-5##:ARG2##incite-1	incite-1##:ARG1##discord	publish-1##:ARG1##letter
+CNN_ENG_20030514_130518_5##4##0.4 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG0##explode-1	injure-1##:ARG1##judge-1	explode-1##:ARG1##bomb	explode-1##:location##courtroom	explode-1##:time##today	explode-1##:location##country
+alt_support_divorce_20050113_2451##82##0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+CNN_IP_20030328_1600_07##67##0.1.0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op1##wound-1	and##:op2##trap
+CNNHL_ENG_20030616_230155_28##10##0.0.0.1.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	and##:op2##sentence-1
+APW_ENG_20030416_0581##6##0.0.3.0.1.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	release-1##:ARG1##client
+APW_ENG_20030331_0410##8##0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	contrast-1##:ARG2##appeal-2	contrast-1##:ARG1##sentence-1
+CNN_ENG_20030403_080032_9##6##0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	person##:ARG1##injure-1	sustain-1##:ARG0##injure-1	hear##:ARG0##person
+CNN_LE_20030504_1200_01##35##0.0 :: Phone-Write :: write-1 :: write-1##:instance##write-1	think-1##:ARG1##write-1
+CNN_ENG_20030605_193002_8##7##0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG0##ball	ball##:mod##taco
+fsh_29171##83##0.1.0.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##uh
+alt_support_divorce_20050113_2451##67##0 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:ARG1##thing	thing##:mod##dog	thing##:mod##really
+CNN_ENG_20030528_125956_8##18##0.0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	and##:op1##sue-1	and##:op2##face-1
+XIN_ENG_20030509_0137##11##0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	and##:op1##kill-1
+AGGRESSIVEVOICEDAILY_20041218_1004##11##0.0.1.0.0.0.0 :: Phone-Write :: chat-1 :: chat-1##:instance##chat-1	chat-1##:ARG1##woman
+AFP_ENG_20030427_0118##7##0.1 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	find-2##:ARG1##guilty-1	find-2##:ARG1##court
+APW_ENG_20030424_0698##10##0.2.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:duration##temporal-quantity	temporal-quantity##:quant##20
+APW_ENG_20030403_0862##18##0.0.0.0.0 :: Start-Org :: organize-1 :: organize-1##:instance##organize-1	meet-3##:ARG1##organize-1	hold-4##:ARG1##meet-3
+CNN_ENG_20030513_160506_16##8##0.2.1.1 :: Injure :: beat-1 :: beat-1##:instance##beat-1	and##:op2##beat-1	and##:op1##kill-1
+CNN_ENG_20030630_075848_7##5##0.1 :: Start-Position :: replace-1 :: replace-1##:instance##replace-1	expect-1##:ARG1##replace-1	expect-1##:ARG1##person
+CNN_ENG_20030513_160506_16##6##0.0.2 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##nichol
+CNN_ENG_20030331_193655_14##24##0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##correspondent	hire##:ARG0##word	hire##:manner##just	hire##:ARG1##arnett	correspondent##:location##baghdad	word##:source##country	arnett##:mod##peter	word##:time##late
+MARKETVIEW_20050216_2120##7##0.0.3 :: Charge-Indict :: accuse-1 :: accuse-1##:instance##accuse-1	accuse-1##:ARG2##steal-1	accuse-1##:ARG1##firm	firm##:mod##fund-1	firm##:ARG0##government-organization	firm##:mod##hedge	steal-1##:ARG1##multiple	steal-1##:ARG2##fund
+misc_kids_pregnancy_20050120_0404##35##0.0 :: Be-Born :: see-1 :: see-1##:instance##see-1	and##:op1##see-1	and##:op2##hear-1
+CNNHL_ENG_20030513_220910_11##5##0.1.1.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op2##convict-1	and##:op1##manslaughter
+CNN_IP_20030414_1600_04##49##0.0.0 :: Phone-Write :: call-1 :: call-1##:instance##call-1	mother##:ARG1##call-1
+APW_ENG_20030519_0367##55##0 :: Injure :: kill-1 :: kill-1##:instance##kill-1	kill-1##:location##blast-5
+CNNHL_ENG_20030519_124020_23##6##0.1 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	and##:op2##hurt-1	and##:op1##kill-1
+AFP_ENG_20030508_0357##7##0.0.3.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	againt##:ARG1##convict-1	againt##:ARG0##apply-1
+fsh_29395##161##0.0.0.0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	cause-1##:ARG0##charge-5	couldn##:ARG1##cause-1
+AGGRESSIVEVOICEDAILY_20041101_1144##18##0.1.1.0.2.0.0 :: Start-Position :: replace-1 :: replace-1##:instance##replace-1	since##:op1##replace-1
+fsh_29774##174##0.0.2.0.1.2.0.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	coordinate-1##:source##injure-1	injure-1##:mod##head-1	problem##:mod##coordinate-1
+CNN_ENG_20030505_090022_1##22##0 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	hurt-1##:ARG1##dozen
+APW_ENG_20030510_0228##19##0.1.1.0.0.0.0.3.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	outstanding##:ARG2##convict-1	outstanding##:time##year
+APW_ENG_20030519_0548##9##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG2##publish-1	publish-1##:ARG1##and
+CNN_CF_20030304_1900_04##98##0 :: Start-Position :: put-3 :: put-3##:instance##put-3	put-3##:ARG1##person	put-3##:ARG0##you	put-3##:ARG2##power	person##:name##name
+APW_ENG_20030610_0010##17##0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	convict-1##:ARG1##receive-1	receive-1##:ARG1##set-5	and##:op2##sentence-1	receive-1##:ARG2##family
+APW_ENG_20030416_0581##6##0.0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	file-1##:ARG1##appeal-2	file-1##:ARG0##lawyer	file-1##:purpose##overturn-1	file-1##:time##date-entity	report-1##:ARG1##file-1
+MARKBACKER_20041117_1107##16##0.1.1.0.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	she##:mod##fine-1
+APW_ENG_20030603_0303##10##0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	base-1##:ARG1##appeal-2	base-1##:ARG2##refuse-1
+CNN_ENG_20030416_160804_4##6##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##hijack-1	convict-1##:ARG1##board-1	hijack-1##:time##date-entity	hijack-1##:ARG1##lauro
+AGGRESSIVEVOICEDAILY_20041201_2313##19##0.0.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	look-1##:ARG1##convict-1	and##:op1##look-1	look-1##:mod##forward
+APW_ENG_20030419_0358##6##0.1 :: Be-Born :: birth :: birth##:instance##birth
+BACONSREBELLION_20050226_1317##21##0.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##raise-1	raise-1##:ARG1##attract-1	raise-1##:ARG1##wages	raise-1##:mod##instead
+AGGRESSIVEVOICEDAILY_20050213_2123##7##0.1.2.1 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op1##wound-1	and##:op1##assault-1	and##:op2##subdue-1
+APW_ENG_20030510_0228##14##0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	arise-1##:ARG0##charge-5	arise-1##:ARG2##letter
+CNN_ENG_20030605_085831_13##38##0 :: Trial-Hearing :: prosecute-1 :: prosecute-1##:instance##prosecute-1	prosecute-1##:ARG1##recommend-1	recommend-1##:ARG1##do-2
+AFP_ENG_20030323_0020##28##0.4 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	picket##:time##protest-1	protest-1##:purpose##bias-1	bias-1##:ARG1##country	picket##:ARG1##and	picket##:location##organization	picket##:ARG1##studio
+AFP_ENG_20030327_0022##7##0.0.0.0 :: Execute :: execute-2 :: execute-2##:instance##execute-2
+AFP_ENG_20030519_0049##8##0.0.1.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	amount##:ARG1##fine-1
+CNN_ENG_20030509_090025_5##5##0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	late##:ARG0##charge-5	late##:ARG1##and
+APW_ENG_20030610_0010##18##0.0.2 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	file-1##:ARG1##appeal-2	file-1##:mod##also	say-1##:ARG1##file-1	sentence-1##:ARG1##file-1
+alt_support_divorce_20050113_2451##10##0 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:time##before	divorce##:ARG1##remarry	divorce##:manner##off	before##:quant##temporal-quantity	remarry##:ARG0##m
+CNN_ENG_20030403_060032_0##7##0.1.1.1 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	name##:time##talk-1	eat-1##:ARG1##name	name##:op1##"t"
+AFP_ENG_20030418_0556##14##0.4.0.0 :: Marry :: marriage :: marriage##:instance##marriage
+AFP_ENG_20030323_0020##9##0.1.1 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	attend-1##:ARG1##rally-1	rally-1##:purpose##create-1	claim-1##:ARG1##attend-1	create-1##:ARG1##column
+fsh_29187##34##0.0.2.0.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	and##:op1##appoint-1	appoint-1##:ARG1##know-1	know-1##:ARG1##head-1	and##:op2##create-1
+AFP_ENG_20030323_0020##48##0.1.0.0 :: Demonstrate :: campaign-1 :: campaign-1##:instance##campaign-1	begin-1##:ARG1##campaign-1	begin-1##:time##week	since##:op1##begin-1
+MARKBACKER_20041220_0919##23##0.1.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	or##:op2##injure-1
+CNN_CF_20030303_1900_06-2##22##0.3.1 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	start-1##:ARG1##protest-1	go-1##:ARG1##start-1
+AFP_ENG_20030504_0248##7##0.0.1.1.0.0 :: Start-Org :: found-1 :: found-1##:instance##found-1	and##:op1##found-1	and##:op2##backer
+XIN_ENG_20030610_0299##12##0.4 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	involve-1##:ARG0##charge-5	plead##:ARG2##charge-5	involve-1##:ARG1##effort	plead##:ARG1##guilty-1	plead##:ARG1##and	plead##:ARG0##person	plead##:time##date-entity
+APW_ENG_20030407_0030##28##0.2.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG1##diplomat	diplomat##:mod##country
+MARKBACKER_20041117_1107##18##0.0.1.0.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	levy##:ARG1##fine-1	include-1##:ARG1##fine-1
+CNNHL_ENG_20030609_133335_37##5##0.1 :: End-Org :: bust :: bust##:instance##bust
+APW_ENG_20030519_0367##16##0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:time##twenty	wound-1##:ARG1##several	several##:ARG2##condition
+CNN_ENG_20030622_173306_9##18##0.3.1 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	re##:ARG1##talk-1	re##:ARG1##mar
+AFP_ENG_20030508_0357##14##0.1.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	case##:mod##appeal-2
+CNN_ENG_20030618_193127_17##17##0 :: Start-Position :: go-1 :: go-1##:instance##go-1	go-1##:ARG1##ready-1	ready-1##:ARG2##breed-1
+AFP_ENG_20030327_0022##19##0.1.1.1.1.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##murder-1	convict-1##:ARG1##man	murder-1##:time##date-entity	man##:quant##2
+alt_support_divorce_20050113_2451##31##0.2.3 :: Divorce :: divorce :: divorce##:instance##divorce
+CNN_CF_20030304_1900_01##9##0.2.0.1.2 :: Fine :: damage :: damage##:instance##damage	damage##:source##victim	victim##:ARG1##malpractice
+XIN_ENG_20030609_0118##6##0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG2##replace-1	replace-1##:ARG1##person
+CNN_ENG_20030618_193127_17##48##0.0 :: Start-Org :: turn-2 :: turn-2##:instance##turn-2	contrast-1##:ARG1##turn-2	contrast-1##:ARG2##empire
+APW_ENG_20030418_0084##18##0.1 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	lead-2##:ARG1##protest-1	lead-2##:time##before	lead-2##:ARG0##person
+fsh_29191##102##0 :: Start-Position :: go-1 :: go-1##:instance##go-1	go-1##:name##name	go-1##:ARG4##commerce	name##:op1##"s"
+AFP_ENG_20030430_0075##18##0.3.3 :: Start-Org :: create-1 :: create-1##:instance##create-1	find-1##:purpose##create-1	find-1##:ARG0##we	want-1##:ARG1##find-1	find-1##:ARG1##premise	find-1##:location##location
+fsh_29139##20##0.0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	merge-1##:ARG0##constant
+misc_legal_moderated_20041202_1648##7##0.0.0 :: Extradite :: extradite-1 :: extradite-1##:instance##extradite-1	waiver##:ARG1##extradite-1
+APW_ENG_20030408_0090##18##0 :: Start-Org :: found-1 :: found-1##:instance##found-1	found-1##:ARG0##person	found-1##:ARG1##transform	found-1##:time##date-entity	found-1##:ARG1##automaker	date-entity##:year##1937	person##:name##name	transform##:ARG2##automaker	transform##:ARG1##manufacture-1
+AFP_ENG_20030427_0118##9##0.1.2 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	tear-1##:time##demonstrate-1	tear-1##:ARG0##person	accuse-1##:ARG2##tear-1	tear-1##:location##country	tear-1##:ARG1##billboard
+AFP_ENG_20030430_0075##17##0.0.1.1 :: Start-Org :: build-1 :: build-1##:instance##build-1	go-1##:ARG1##build-1	go-1##:ARG0##we	and##:op2##go-1
+AFP_ENG_20030330_0211##6##0.2 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	form-1##:purpose##protest-1	form-1##:time##date-entity	form-1##:ARG0##person	form-1##:ARG1##chain
+APW_ENG_20030418_0084##15##0.3 :: Convict :: convict-1 :: convict-1##:instance##convict-1	complete-1##:ARG2##convict-1	convict-1##:ARG1##charge-5	charge-5##:mod##corrupt-1	complete-1##:time##monday	complete-1##:time##after	complete-1##:ARG1##sentence-1	complete-1##:ARG0##person
+APW_ENG_20030319_0545##21##0.1.0.1.0 :: Start-Org :: launch-1 :: launch-1##:instance##launch-1	help-1##:ARG1##launch-1	help-1##:ARG0##organization
+fsh_29272##154##0.0 :: Phone-Write :: call-1 :: call-1##:instance##call-1	call-1##:ARG0##somebody	call-1##:ARG1##news
+AFP_ENG_20030509_0345##9##0.0.2 :: Start-Org :: set-5 :: set-5##:instance##set-5	set-5##:ARG0##organization	organization##:mod##found-1	organization##:name##name
+APW_ENG_20030331_0410##13##0.1 :: Start-Position :: return-1 :: return-1##:instance##return-1	clear-1##:ARG1##return-1
+CNN_CF_20030304_1900_01##66##0.1 :: Start-Org :: found-1 :: found-1##:instance##found-1	name##:time##found-1	name##:op1##"s"
+AGGRESSIVEVOICEDAILY_20041218_1004##18##0.1.0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	possible##:domain##charge-5	charge-5##:purpose##kill-1	kill-1##:ARG1##abortion	kill-1##:duration##temporal-quantity	kill-1##:ARG0##you	kill-1##:ARG1##fetus
+CNN_ENG_20030604_102828_6##8##0.0.0 :: Charge-Indict :: prosecute-1 :: prosecute-1##:instance##prosecute-1	rare##:domain##prosecute-1
+APW_ENG_20030610_0010##6##0.0.2 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	request-1##:ARG1##appeal-2	request-1##:ARG2##official	convict-1##:ARG1##request-1	say-1##:ARG1##request-1
+APW_ENG_20030416_0581##13##0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	lodge-3##:ARG0##appeal-2	say-1##:ARG1##appeal-2	lodge-3##:ARG2##organization	lodge-3##:ARG1##temporal-quantity	say-1##:ARG0##person
+misc_legal_moderated_20041202_1648##20##0.1.0 :: Extradite :: extradite-1 :: extradite-1##:instance##extradite-1	waiver##:ARG1##extradite-1
+CNN_IP_20030407_1600_05##52##0.0 :: Phone-Write :: tell-1 :: tell-1##:instance##tell-1	tell-1##:ARG1##worry-2	and##:op1##tell-1	and##:op2##continue-1	worry-2##:ARG2##give-1	worry-2##:ARG0##this
+APW_ENG_20030325_0786##19##0.2.0.0.0.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:mod##previous	marriage##:poss##welches
+APW_ENG_20030510_0228##7##0.0.0.1.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	pay-1##:ARG1##fine-1	pay-1##:ARG0##monitor	and##:op2##pay-1
+CNN_IP_20030408_1600_03##21##0 :: Injure :: torture-1 :: torture-1##:instance##torture-1	torture-1##:domain##prisoner
+AFP_ENG_20030617_0846##12##0.0.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:time##date-entity	marriage##:ARG2##person	marriage##:name##name	marriage##:ARG0##person	person##:name##name	person##:name##name	date-entity##:year##1979	name##:op1##"s"
+fsh_29226##72##0.0.2.0.0.1.1.0.0.1 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	find-1##:ARG1##remember	find-1##:ARG1##oj	find-1##:ARG1##guilty-1
+AGGRESSIVEVOICEDAILY_20050106_1310##13##0.0.2 :: Convict :: convict-1 :: convict-1##:instance##convict-1	overturn-1##:ARG1##convict-1	overturn-1##:time##today	and##:op1##overturn-1	overturn-1##:ARG0##court
+AGGRESSIVEVOICEDAILY_20050213_2123##15##0.0.0.1.1.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	and##:op1##take-1
+alt_collecting_autographs_20050224_2438##11##0.0 :: Phone-Write :: contact-1 :: contact-1##:instance##contact-1	and##:op1##contact-1	and##:op2##tell-1
+APW_ENG_20030418_0084##6##0.1.1.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	and##:op2##sentence-1
+soc_culture_indian_20041104_2348##15##0.0 :: End-Org :: cease-1 :: cease-1##:instance##cease-1	cease-1##:ARG1##exist-1	sue-1##:ARG1##cease-1	exist-1##:ARG0##company	sue-1##:ARG2##monetary-quantity	sue-1##:ARG1##government-organization	sue-1##:ARG0##and
+APW_ENG_20030513_0139##8##0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op1##injure-1	and##:op2##damage-1
+alt_sys_pc-clone_dell_20050226_2350##7##0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG0##company	sue-1##:ARG1##and	and##:op2##switch	company##:name##name	and##:op2##and
+CNN_CF_20030304_1900_01##12##0.2.1.3 :: Start-Position :: elect-1 :: elect-1##:instance##elect-1	elect-1##:ARG0##person	dr##:ARG0##person	person##:name##name	president##:ARG0##person
+AFP_ENG_20030427_0118##8##0.0.4.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	pay-1##:ARG1##fine-1	order-1##:ARG2##pay-1
+CNN_ENG_20030625_220123_3##18##0.2 :: Be-Born :: give-1 :: give-1##:instance##give-1	give-1##:ARG2##recommend-1	base-1##:ARG2##give-1	base-1##:time##since	have-org-role-91##:ARG0##base-1	base-1##:ARG1##decide-1
+APW_ENG_20030418_0084##6##0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	reject-1##:ARG1##appeal-2	reject-1##:ARG0##court
+XIN_ENG_20030327_0202##9##0 :: Start-Org :: found-1 :: found-1##:instance##found-1	found-1##:manner##success	found-1##:time##date-entity	found-1##:ARG1##consolidate	found-1##:ARG1##government-organization	government-organization##:name##name	consolidate##:duration##over	date-entity##:year##1997	consolidate##:ARG1##thing	consolidate##:ARG1##advance
+APW_ENG_20030510_0228##21##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##defame-1	defame-1##:purpose##publish-1	defame-1##:ARG1##government-organization
+CNN_IP_20030405_1600_00-3##40##0.1 :: Execute :: execute-1 :: execute-1##:instance##execute-1	point##:ARG2##execute-1	point##:domain##evidence-1
+CNN_ENG_20030424_113549_11##23##0 :: Phone-Write :: write-1 :: write-1##:instance##write-1	write-1##:ARG1##continue-1	continue-1##:ARG1##write-1	continue-1##:ARG1##please
+XIN_ENG_20030423_0011##9##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##have-3	have-3##:ARG1##citizenship	have-3##:time##since
+alt_support_divorce_20050113_2451##71##0.1.0.1 :: Marry :: marriage :: marriage##:instance##marriage
+APW_ENG_20030306_0191##13##0.2.0.0 :: Start-Position :: become-1 :: become-1##:instance##become-1	fail-1##:ARG1##become-1	after##:op1##fail-1
+CNN_ENG_20030418_130831_5##8##0.6 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	and##:op1##demonstrate-1	and##:op2##say-1	and##:op1##m	and##:quant##2	and##:op1##country	and##:mod##east	and##:quant##21	and##:op1##6
+AFP_ENG_20030323_0020##32##0.1.4 :: Demonstrate :: turn-2 :: turn-2##:instance##turn-2	turn-2##:location##country	country##:name##name
+CNN_ENG_20030411_193701_3##7##0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##transport-1	transport-1##:ARG1##minor	transport-1##:mod##interstate
+APW_ENG_20030520_0081##13##0.1.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG1##person
+CNNHL_ENG_20030526_221156_39##12##0.0.0 :: Execute :: execute-1 :: execute-1##:instance##execute-1	execute-1##:name##eyewitness
+fsh_29187##7##0.1.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	see-1##:ARG1##appoint-1	like-2##:ARG1##see-1
+CNN_ENG_20030306_070606_18##12##0.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	have-3##:ARG1##convict-1	idea##:time##have-3
+alt_support_divorce_20050113_2451##39##0.1.0.0.0 :: Marry :: married :: married##:instance##married	married##:domain##impress	married##:mod##happily	impress##:ARG0##group	impress##:ARG0##she
+AFP_ENG_20030320_0722##29##0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	demonstrate-1##:location##city	demonstrate-1##:mod##also	city##:mod##country-region	city##:example##and	city##:mod##country
+misc_legal_moderated_20050129_2225##35##0.0.3.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	verify-1##:ARG1##injure-1	report-1##:ARG1##verify-1
+fsh_29505##100##0.1.1.1.0.2.0 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	and##:op1##bear-2	and##:op2##come-1
+APW_ENG_20030306_0191##8##0.1.1.0.3.0.0.0 :: Charge-Indict :: charge :: charge##:instance##charge	carry-1##:ARG0##charge	charge##:ARG1##use-1	use-1##:mod##inappropriate	carry-1##:ARG1##sentence-1	use-1##:ARG1##era	use-1##:ARG1##property
+APW_ENG_20030416_0581##14##0.1.1.1 :: Appeal :: appeal-1 :: appeal-1##:instance##appeal-1	launch-1##:ARG1##appeal-1	refuse-1##:ARG1##launch-1	launch-1##:ARG1##proceedings
+AFP_ENG_20030427_0118##14##0.1 :: Execute :: execute-1 :: execute-1##:instance##execute-1	execute-1##:time##ever	execute-1##:ARG1##blasphemy	execute-1##:location##country	execute-1##:time##however
+XIN_ENG_20030609_0118##12##0.0.1 :: Start-Position :: take-1 :: take-1##:instance##take-1	take-1##:ARG0##person	person##:name##name
+fsh_29226##77##0.0.2.0.0 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	find-1##:ARG1##guilty-1
+CNN_ENG_20030515_193533_6##10##0 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##sleep	bear-2##:time##late	late##:op1##temporal-quantity	sleep##:ARG2##jfk
+AFP_ENG_20030522_0878##6##0.2.2.0 :: Start-Position :: become-1 :: become-1##:instance##become-1	become-1##:ARG2##visit-1	since##:op1##become-1	visit-1##:ARG1##seal-1
+CNN_IP_20030403_1600_00-2##61##0.1.2.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	cause-1##:ARG1##injure-1	know-1##:ARG1##cause-1
+CNN_ENG_20030617_105836_4##14##0.2 :: Charge-Indict :: prosecute-1 :: prosecute-1##:instance##prosecute-1	and##:op2##prosecute-1	and##:op1##have-3	and##:op1##officer
+AFP_ENG_20030323_0020##43##0.0.0 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	take-1##:ARG1##protest-1	take-1##:location##around	oppose-1##:ARG1##take-1	take-1##:time##after
+CNN_IP_20030414_1600_04##36##0.5.0 :: Phone-Write :: reach-1 :: reach-1##:instance##reach-1	try-1##:ARG1##reach-1	try-1##:ARG0##thing
+AGGRESSIVEVOICEDAILY_20050106_1310##12##0 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	try-1##:ARG2##death
+NYT_ENG_20030602_0074##13##0 :: Start-Position :: take-1 :: take-1##:instance##take-1	take-1##:ARG1##team	take-1##:ARG0##brown	win-1##:ARG0##team
+CNN_IP_20030329_1600_01-3##44##0 :: Demonstrate :: march-1 :: march-1##:instance##march-1	march-1##:time##return-1
+APW_ENG_20030417_0555##29##0.1.0 :: Demonstrate :: riot-1 :: riot-1##:instance##riot-1	break-8##:ARG1##riot-1	and##:op2##break-8	break-8##:ARG0##person
+CNN_IP_20030414_1600_04##50##0 :: Be-Born :: deliver-1 :: deliver-1##:instance##deliver-1	deliver-1##:time##yet	deliver-1##:name##name	name##:poss##hasn	name##:op1##"t"
+APW_ENG_20030519_0548##8##0.0.0.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	cause-1##:ARG0##convict-1	cause-1##:ARG0##excuse	cause-1##:ARG1##invalid
+APW_ENG_20030407_0030##47##0.1.1 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	and##:op2##hurt-1	and##:op1##catch-4
+AFP_ENG_20030616_0715##9##0.0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	and##:op1##charge-5	include-1##:ARG1##charge-5	and##:op1##monetary-quantity	and##:op2##hide-1	and##:op2##homicide
+fsh_29326##6##0.0.1 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	and##:op1##find-1	find-1##:ARG1##guilty-1	find-1##:ARG1##person	guilty-1##:ARG2##murder-1	murder-1##:ARG1##and
+CNN_ENG_20030528_172957_18##17##0.1.1.0.4 :: Release-Parole :: release-1 :: release-1##:instance##release-1	call-3##:ARG2##release-1	call-3##:ARG1##and	call-3##:ARG0##judge-1	note-1##:ARG1##call-3	call-3##:ARG1##decide-1	call-3##:ARG1##institution
+alt_support_divorce_20050113_2451##8##0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+APW_ENG_20030311_0775##24##0.0.1.5 :: Demonstrate :: fight-1 :: fight-1##:instance##fight-1	fight-1##:ARG0##name	name##:op1##"s"	name##:op2##"rebel"	rebel-1##:ARG0##name	name##:op3##"Kurds"	name##:poss##country
+FLOPPINGACES_20041117_2002_024##17##0.0.0.0.1 :: Execute :: shoot-2 :: shoot-2##:instance##shoot-2	and##:op2##shoot-2	and##:op1##line-2
+fsh_29187##6##0.1.1 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	start-1##:ARG1##appoint-1	start-1##:time##already	and##:op2##start-1
+APW_ENG_20030519_0367##57##0.0 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	know-1##:ARG1##hurt-1
+CNN_CF_20030305_1900_06-1##42##0.0 :: Phone-Write :: write-1 :: write-1##:instance##write-1	and##:op1##write-1	and##:op1##country	and##:op2##country	and##:op2##country	and##:op2##multi-faceted
+CNNHL_ENG_20030611_133445_24##6##0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##supply-1	name-1##:ARG2##charge-5	supply-1##:ARG1##beer	name-1##:ARG1##mother	supply-1##:ARG2##teenager	name-1##:mod##also
+CNNHL_ENG_20030513_183907_5##7##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG1##nearly	nearly##:op1##200
+fsh_29395##151##0 :: Convict :: get-1 :: get-1##:instance##get-1	get-1##:ARG1##murder-1	murder-1##:mod##both	murder-1##:mod##degree
+CNN_IP_20030329_1600_01-3##54##0.2.0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	stem-2##:ARG1##demonstrate-1	contrast-1##:ARG2##stem-2
+rec_games_chess_politics_20041217_2111##33##0.1 :: Start-Position :: designate-1 :: designate-1##:instance##designate-1	ask-2##:ARG1##designate-1	ask-2##:ARG1##ed
+XIN_ENG_20030509_0137##8##0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	include-1##:ARG2##charge-5	say-1##:ARG1##charge-5	say-1##:ARG0##report-1
+fsh_29192##6##0.1.1 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	start-1##:ARG1##appoint-1	and##:op2##start-1	start-1##:time##already
+MARKBACKER_20041220_0919##27##0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	go-1##:ARG0##injure-1	happen-1##:ARG0##injure-1	happen-1##:manner##accidentally	go-1##:ARG1##happen-1	happen-1##:ARG1##all	happen-1##:ARG0##and	go-1##:ARG4##and
+APW_ENG_20030410_0906##47##0.0 :: Execute :: execute-1 :: execute-1##:instance##execute-1	and##:op1##execute-1	and##:op2##serve-1
+CNN_ENG_20030526_183538_3##17##0.0.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	or##:op1##injure-1	or##:op2##hurt-1
+AFP_ENG_20030427_0118##11##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:time##date-entity	charge-5##:ARG1##person	charge-5##:ARG2##blasphemy	person##:name##name	date-entity##:year##1996	blasphemy##:purpose##defend-1
+CNNHL_ENG_20030604_230238_5##10##0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	include-1##:ARG2##charge-5	include-1##:ARG1##and
+APW_ENG_20030519_0548##11##0.0 :: Pardon :: pardon :: pardon##:instance##pardon	pardon##:ARG1##legislate-1	legislate-1##:mod##former	know-1##:ARG1##legislate-1
+AGGRESSIVEVOICEDAILY_20050213_2123##19##0.0.2.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	begin-1##:ARG1##injure-1	before##:op1##begin-1	begin-1##:ARG0##suspect-1
+AFP_ENG_20030320_0722##26##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:location##clash-1
+FLOPPINGACES_20041116_0833_027##26##0.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	and##:op1##release-1	release-1##:ARG2##give-1	give-1##:ARG1##break-1	and##:op2##bring-1
+AFP_ENG_20030504_0248##10##0 :: Start-Org :: found-1 :: found-1##:instance##found-1	found-1##:ARG1##become-1	become-1##:ARG2##country	become-1##:ARG2##quick
+CNN_IP_20030328_1600_07##51##0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:ARG1##sergeant	wound-1##:manner##serious	wound-1##:location##country	wound-1##:manner##twice	country##:name##name	sergeant##:ARG1##person
+APW_ENG_20030331_0410##14##0.1.0.1.2.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	drop##:ARG1##appeal-2
+FLOPPINGACES_20041115_1613_032##7##0.2 :: Start-Position :: choose-1 :: choose-1##:instance##choose-1	report-1##:ARG1##choose-1	choose-1##:ARG1##become-1	become-1##:ARG2##secretary	report-1##:ARG2##organization	become-1##:ARG0##person	report-1##:manner##just
+APW_ENG_20030610_0010##13##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##crime	murder-1##:name##crime	crime##:quant##7
+APW_ENG_20030424_0698##18##0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+fsh_29138##122##0 :: Start-Position :: start-1 :: start-1##:instance##start-1	start-1##:ARG1##say-1	say-1##:time##date-entity	say-1##:mod##like-2	say-1##:ARG1##d	say-1##:ARG0##think-1
+AFP_ENG_20030323_0020##16##0 :: Demonstrate :: march-1 :: march-1##:instance##march-1	march-1##:ARG1##refer-1	refer-1##:ARG2##campaign-1
+APW_ENG_20030407_0030##44##0.0.1 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1	and##:op1##kill-1
+CNN_ENG_20030509_123601_13##4##0.0.1.1.0 :: Start-Position :: run-1 :: run-1##:instance##run-1	possible##:domain##run-1
+APW_ENG_20030610_0010##14##0.1.1.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	plan-1##:ARG1##appeal-2	say-1##:ARG1##plan-1	plan-1##:mod##also
+fsh_29226##53##0.2.0.1.0.1.1.0 :: Marry :: marriage :: marriage##:instance##marriage
+AGGRESSIVEVOICEDAILY_20041201_2313##10##0.0.1.0 :: Charge-Indict :: accuse-1 :: accuse-1##:instance##accuse-1	accuse-1##:ARG2##kill-1	accuse-1##:ARG1##man	man##:name##name	kill-1##:mod##brutal
+APW_ENG_20030603_0303##8##0 :: Charge-Indict :: accuse-1 :: accuse-1##:instance##accuse-1	accuse-1##:ARG2##direct-1	direct-1##:ARG1##effort	direct-1##:ARG1##regime	direct-1##:ARG0##person
+CNN_ENG_20030426_160621_0##22##0 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##anderson	bear-2##:ARG1##person	person##:name##name	anderson##:day##temporal-quantity
+fsh_29139##34##0.3 :: Declare-Bankruptcy :: run-1 :: run-1##:instance##run-1	have-3##:ARG1##run-1	have-3##:ARG0##ceo	have-3##:ARG0##we	have-3##:time##before
+CNN_CF_20030304_1900_01##99##0.4 :: Sue :: sue-1 :: sue-1##:instance##sue-1	show-1##:ARG1##sue-1	show-1##:ARG0##poll-1	show-1##:location##organization	show-1##:location##organization	show-1##:time##now
+CNN_ENG_20030509_090025_5##19##0.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##person	hire##:ARG0##organization	person##:name##name	organization##:name##name
+APW_ENG_20030424_0698##27##0 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:ARG1##person	divorce##:time##date-entity	divorce##:ARG0##person	divorce##:ARG1##salesman	salesman##:ARG1##wallpaper	person##:name##name	person##:name##name	date-entity##:year##1992
+AGGRESSIVEVOICEDAILY_20050106_1310##7##0.1.1.0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	court##:mod##appeal-2
+fsh_29395##150##0.0.1.0 :: Convict :: get-1 :: get-1##:instance##get-1	get-1##:ARG1##murder-1	and##:op1##get-1	murder-1##:mod##degree
+CNNHL_ENG_20030312_150218_13##7##0.1 :: Execute :: put-3 :: put-3##:instance##put-3	put-3##:ARG2##die-1
+fsh_29395##146##0.0 :: Convict :: find-2 :: find-2##:instance##find-2	find-2##:ARG1##charge-5	find-2##:ARG1##try-1	and##:op1##find-2	find-2##:ARG1##guilty-1	try-1##:ARG1##enforce-1	try-1##:ARG1##fact	charge-5##:mod##both
+rec_games_chess_politics_20041217_2111##23##0.0.0.1.1.1 :: Start-Position :: draft-1 :: draft-1##:instance##draft-1	and##:op2##draft-1	and##:op1##get-1
+CNN_ENG_20030525_160525_13##12##0.1.0.0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	and##:op1##sue-1	lead-2##:ARG0##sue-1	lead-2##:ARG2##governor	and##:op2##consider-1
+CNN_ENG_20030515_073019_7##9##0.1.1.1 :: Marry :: married :: married##:instance##married
+CNN_IP_20030329_1600_01-3##92##0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	demonstrate-1##:ARG0##this	demonstrate-1##:mod##peaceful
+CNN_ENG_20030605_223004_4##7##0.0.0.0.2 :: Trial-Hearing :: come-1 :: come-1##:instance##come-1	win-1##:ARG1##come-1	only##:op1##win-1	win-1##:name##name	win-1##:duration##temporal-quantity
+APW_ENG_20030520_0757##17##0.0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op1##wound-1
+AFP_ENG_20030320_0722##28##0 :: Demonstrate :: gather-1 :: gather-1##:instance##gather-1	gather-1##:mod##also	gather-1##:name##name	gather-1##:ARG1##more-than	name##:poss##country	name##:location##organization	name##:op5##"Islamic"	name##:location##and	more-than##:op1##000	name##:op4##"Azhar"	name##:op6##"University"	name##:op2##"Al"	name##:op3##"-"	name##:op1##"s"
+CNN_IP_20030407_1600_05##47##0.1 :: Phone-Write :: tell-1 :: tell-1##:instance##tell-1	tell-1##:ARG2##detail-1	detail-1##:mod##full	detail-1##:ARG1##mission
+CNNHL_ENG_20030416_193742_7##7##0.0.1 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1	and##:op2##kill-1
+MARKETVIEW_20041213_0722##16##0.0.2.0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	work-1##:ARG1##merge-1	make-1##:ARG1##work-1
+AGGRESSIVEVOICEDAILY_20041101_1806##12##0.1.1.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	or##:op2##injure-1	or##:op1##kill-1
+CNN_ENG_20030617_193116_10##30##0.0.0 :: Be-Born :: birth :: birth##:instance##birth
+APW_ENG_20030603_0303##9##0.0.1.0.0 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	and##:op1##try-1	and##:op2##stand-2
+AGGRESSIVEVOICEDAILY_20041218_1004##15##0.1 :: Phone-Write :: call-11 :: call-11##:instance##call-11	receive-1##:ARG1##say-1	receive-1##:ARG0##husband	receive-1##:ARG1##call-1
+AGGRESSIVEVOICEDAILY_20041218_1004##22##0.1.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	possible##:domain##charge-5	charge-5##:ARG2##kidnap-1	charge-5##:ARG1##kill-1
+AGGRESSIVEVOICEDAILY_20050224_2252##10##0.0.1.3.0 :: Acquit :: walk-1 :: walk-1##:instance##walk-1	allow-1##:ARG1##walk-1
+AFP_ENG_20030320_0722##30##0.2.0.1 :: Demonstrate :: sit-2 :: sit-2##:instance##sit-2	stage-1##:ARG1##sit-2	stage-1##:ARG0##lawyer	stage-1##:time##after	after##:op1##stage-1	stage-1##:location##house
+AFP_ENG_20030427_0118##6##0.0.3 :: Convict :: convict-1 :: convict-1##:instance##convict-1	sentence-1##:purpose##convict-1	sentence-1##:ARG0##court	sentence-1##:ARG2##imprison-1	sentence-1##:ARG1##man	say-1##:ARG1##sentence-1
+TTRACY_20050223_1049##8##0.2 :: Phone-Write :: call-11 :: call-11##:instance##call-11	get-1##:ARG2##wife	get-1##:time##after	get-1##:ARG0##i	get-1##:ARG1##call-1
+APW_ENG_20030306_0191##8##0.1 :: Trial-Hearing :: try-1 :: try-1##:instance##try-1	say-1##:ARG1##try-1	say-1##:ARG0##court
+FLOPPINGACES_20041116_0833_027##15##0.0.2.2.2 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##person	person##:mod##terrorist	person##:name##name
+rec_parks_theme_20050217_2019##31##0.3 :: Start-Org :: form-2 :: form-2##:instance##form-2	band##:ARG1##form-2	band##:time##meanwhile	band##:ARG0##collector	band##:manner##together
+fsh_29505##91##0.0.1 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##native	native##:name##name
+fsh_29395##6##0.0 :: Convict :: find-1 :: find-1##:instance##find-1	and##:op1##find-1	find-1##:ARG1##guilty-1	guilty-1##:ARG2##murder-1	and##:op2##face-1
+rec_music_phish_20041215_1554##12##0.0.1 :: End-Org :: destroy-1 :: destroy-1##:instance##destroy-1	decide-1##:ARG1##destroy-1	decide-1##:ARG1##leave-4	decide-1##:ARG0##person	and##:op1##decide-1
+CNNHL_ENG_20030604_230238_5##12##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##and	and##:op1##use-1	and##:op2##try-1
+APW_ENG_20030520_0757##13##0 :: Injure :: kill-1 :: kill-1##:instance##kill-1	kill-1##:ARG0##bomb-1
+fsh_29097##85##0.2 :: Nominate :: run-1 :: run-1##:instance##run-1	see-1##:ARG1##run-1	see-1##:ARG1##mean-1	see-1##:ARG0##i
+CNNHL_ENG_20030513_220910_11##8##0 :: Execute :: execute-1 :: execute-1##:instance##execute-1	execute-1##:time##before	execute-1##:ARG1##person	convict-1##:ARG1##person	person##:name##name	before##:quant##temporal-quantity
+APW_ENG_20030418_0084##10##0.3.1.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	quash##:ARG1##appeal-2	quash##:ARG0##government-organization
+CNN_ENG_20030605_223004_4##5##0.1.2.2.3.1.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##head-1	and##:op2##charge-5	head-1##:ARG1##group	head-1##:mod##country
+MARKETVIEW_20041209_1401##7##0.0.7.1 :: Release-Parole :: get-1 :: get-1##:instance##get-1	get-1##:ARG1##prison
+fsh_29505##80##0.0.0.2 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##person	person##:mod##native	person##:mod##only
+AFP_ENG_20030427_0118##10##0.4 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG0##judge-1	shoot-5##:time##convict-1	shoot-5##:ARG0##person	shoot-5##:ARG1##himself	shoot-5##:ARG1##court	shoot-5##:location##head-1
+CNNHL_ENG_20030624_230338_34##4##0.1 :: Charge-Indict :: charge :: charge##:instance##charge	attempt-1##:ARG1##charge	charge##:mod##murder-1
+AFP_ENG_20030519_0372##10##0.0 :: Demonstrate :: fill-1 :: fill-1##:instance##fill-1	and##:op1##fill-1	and##:op2##carry-3
+NYT_ENG_20030602_0074##16##0 :: Start-Position :: take-1 :: take-1##:instance##take-1	take-1##:ARG0##person	take-1##:ARG1##team	person##:name##name	team##:ARG1##and
+APW_ENG_20030409_0013##17##0.2.1.1.0 :: Injure :: burn-1 :: burn-1##:instance##burn-1	and##:op1##burn-1	and##:op2##wound	and##:op2##injure-1
+APW_ENG_20030520_0757##6##0.1 :: End-Org :: open-1 :: open-1##:instance##open-1	keep-5##:ARG2##open-1	keep-5##:ARG1##embassy	keep-5##:ARG0##country
+AFP_ENG_20030427_0118##7##0.1.1.1 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	defile##:time##rally-1	rally-1##:ARG1##protest-1	defile##:ARG0##person	defile##:ARG1##verse
+CNN_ENG_20030428_173654_13##6##0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##set-5	join-1##:ARG1##charge-5	set-5##:ARG1##executive	set-5##:ARG0##organization	set-5##:ARG1##abe
+CNN_ENG_20030528_172957_18##5##0.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	release-1##:ARG1##become-1	and##:op1##release-1	become-1##:ARG2##reality	become-1##:ARG1##nightmare
+AFP_ENG_20030320_0722##8##0.0 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	hold-4##:ARG1##protest-1	hold-4##:location##city
+CNNHL_ENG_20030312_150218_13##6##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##and	convict-1##:ARG1##bank	and##:op1##shooting	and##:op2##kill-1	and##:op1##say-1
+rec_games_chess_politics_20041217_2111##20##0.1.0.2.1.0.2.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG2##reason-1	reason-1##:mod##good-1
+APW_ENG_20030331_0410##12##0.2.1.0.0.0 :: Appeal :: appeal-1 :: appeal-1##:instance##appeal-1	prepare-1##:purpose##appeal-1	possible##:domain##prepare-1
+CNN_ENG_20030605_065831_18##15##0.0.2 :: Charge-Indict :: prosecute-1 :: prosecute-1##:instance##prosecute-1	single##:ARG2##prosecute-1	single##:manner##unfairly	single##:ARG1##question
+CNN_ENG_20030617_193116_10##90##0.0.1 :: Phone-Write :: call-11 :: call-11##:instance##call-11	put-3##:ARG0##we	and##:op1##put-3	put-3##:location##call-1
+AFP_ENG_20030519_0049##9##0.2 :: Fine :: fine :: fine##:instance##fine	total-1##:ARG1##fine	total-1##:ARG1##monetary-quantity
+fsh_29302##99##0.0.0.0 :: Execute :: kill-1 :: kill-1##:instance##kill-1	kill-1##:mod##really	kill-1##:mod##actual
+CNNHL_ENG_20030610_230438_14##7##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##and	charge-5##:ARG2##name	name##:op1##"s"	and##:op2##assault-1	and##:op1##kidnap-1	and##:op2##assault-1
+CNN_ENG_20030403_080032_9##19##0.1 :: Be-Born :: birth :: birth##:instance##birth	birth##:ARG1##alexi
+fsh_29302##6##0.0.1 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	find-1##:ARG1##guilty-1	find-1##:ARG1##person	murder-1##:ARG1##and	and##:op1##find-1	guilty-1##:ARG2##murder-1
+AGGRESSIVEVOICEDAILY_20041218_1004##12##0.1.0 :: Phone-Write :: contact-1 :: contact-1##:instance##contact-1	contact-1##:ARG1##board-1	and##:op1##contact-1	board-1##:mod##message	and##:op2##zero
+CNN_ENG_20030415_173752_0##9##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	expire-1##:ARG1##charge-5	expire-1##:ARG1##restart-1
+AFP_ENG_20030429_0007##8##0.0.2.2 :: Start-Org :: create-1 :: create-1##:instance##create-1	dissolve-1##:ARG1##create-1	dissolve-1##:ARG1##party	demand-1##:ARG1##dissolve-1	dissolve-1##:manner##constructively
+APW_ENG_20030418_0084##18##0.2.0.2 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op2##convict-1	and##:op1##arrest-1	and##:op2##charge-5
+alt_support_divorce_20050113_2451##39##0.0.0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+APW_ENG_20030408_0090##6##0.1.0.1.1.1.0.0.3 :: Start-Position :: head-1 :: head-1##:instance##head-1	head-1##:ARG0##name	name##:duration##temporal-quantity	name##:quant##some	name##:poss##country	name##:op1##"s"
+fsh_29786##114##0.0 :: Start-Org :: set-8 :: set-8##:instance##set-8	know-1##:ARG1##set-8
+AFP_ENG_20030519_0049##9##0.2.0.0.1.0 :: Charge-Indict :: charge :: charge##:instance##charge	charge##:ARG1##conflict-1	conflict-1##:topic##brokerage	conflict-1##:example##and
+APW_ENG_20030411_0304##6##0.2.1.0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	appear-2##:ARG1##charge-5	appear-2##:location##court
+APW_ENG_20030403_0862##31##0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	and##:op1##kill-1
+CNNHL_ENG_20030312_150218_13##4##0.1.1.1 :: Execute :: execute-1 :: execute-1##:instance##execute-1	execute-1##:ARG1##person	person##:mod##300th
+fsh_29521##198##0.0.2 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG0##lawyer	lawyer##:name##name	lawyer##:mod##trial
+CNN_ENG_20030424_173553_8##8##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##count	charge-5##:ARG0##executive	count##:ARG1##fraud	executive##:mod##south	count##:quant##2
+fsh_29226##72##0.0.2.0.0.1.1.0.0 :: Convict :: find-1 :: find-1##:instance##find-1	find-1##:ARG1##remember	find-1##:ARG1##guilty-1
+CNNHL_ENG_20030604_230238_5##14##0.3.1.1 :: Fine :: fine :: fine##:instance##fine
+APW_ENG_20030610_0010##22##0.2.2 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	temporal-quantity##:purpose##appeal-2	temporal-quantity##:quant##15
+AFP_ENG_20030323_0020##45##0.2 :: Demonstrate :: turn-2 :: turn-2##:instance##turn-2	turn-2##:time##refuse-1	say-1##:ARG1##turn-2	say-1##:location##city	refuse-1##:ARG0##police	say-1##:ARG1##stop-1	refuse-1##:ARG1##give-1
+APW_ENG_20030418_0084##28##0.2 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	dismiss-1##:ARG1##appeal-2	dismiss-1##:ARG1##brother	dismiss-1##:ARG0##court	dismiss-1##:mod##also
+CNNHL_ENG_20030624_133331_33##11##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##murder-1	attempt-1##:ARG1##murder-1
+soc_culture_indian_20041104_2348##15##0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG1##cease-1	cease-1##:ARG0##company	cease-1##:ARG1##exist-1	cease-1##:time##now
+APW_ENG_20030325_0786##6##0.1.0.1.1.2 :: Divorce :: divorce :: divorce##:instance##divorce
+fsh_29139##34##0.2.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	before##:op1##merge-1
+AGGRESSIVEVOICEDAILY_20050208_1142##12##0.1.2.1.0 :: Be-Born :: birth :: birth##:instance##birth
+CNNHL_ENG_20030513_220910_11##4##0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	stand-7##:ARG2##charge-5	charge-5##:mod##murder-1	stand-7##:ARG1##trial	stand-7##:ARG0##person	murder-1##:mod##state
+CNN_IP_20030403_1600_00-3##64##0.1 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1	and##:op1##kill-1
+CNN_IP_20030414_1600_04##25##0.0.2.0 :: Be-Born :: deliver-1 :: deliver-1##:instance##deliver-1	see-1##:ARG1##deliver-1	call-1##:purpose##see-1
+CNN_ENG_20030411_193701_3##5##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##steal-1	steal-1##:ARG2##home	steal-1##:ARG1##firearm
+CNN_ENG_20030617_173115_14##4##0.3.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:mod##gay
+CNN_ENG_20030429_143706_14##5##0.0.2 :: Injure :: lose-6 :: lose-6##:instance##lose-6	lose-6##:ARG0##person	person##:quant##many	person##:name##name
+CNN_ENG_20030610_123040_9##13##0.3.0.0.1.0 :: Fine :: fine :: fine##:instance##fine
+AFP_ENG_20030417_0764##8##0.2.0.0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	reject-1##:ARG1##appeal-2	and##:op1##reject-1	reject-1##:ARG1##remember
+AGGRESSIVEVOICEDAILY_20050224_1207##15##0.1.0.1.0.0 :: Phone-Write :: write-1 :: write-1##:instance##write-1	write-1##:ARG2##support-1	say-1##:ARG1##write-1	support-1##:ARG1##bill	say-1##:ARG1##mail
+MARKETVIEW_20041211_1845##14##0.3 :: End-Org :: fail-1 :: fail-1##:instance##fail-1	contrast-1##:ARG2##fail-1	contrast-1##:ARG2##course	contrast-1##:ARG1##company	contrast-1##:ARG2##mimic
+CNN_LE_20030504_1200_01##15##0.0 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	and##:op1##talk-1	and##:op2##think-1
+rec_games_chess_politics_20041217_2111##8##0.1.2.0.2.4.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG0##organization	hire##:ARG1##someone	organization##:name##name
+XIN_ENG_20030509_0137##6##0.1.0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:location##connect-1	appear-2##:ARG2##charge-5	appear-2##:ARG1##court	appear-2##:time##friday	after##:op1##appear-2	connect-1##:ARG1##blast-5
+AFP_ENG_20030323_0020##6##0.2.0.2.0 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	end-2##:ARG1##rally-1	clash-1##:ARG2##end-2
+MARKETVIEW_20041215_2128##14##0.0.3.0.1 :: End-Org :: collapse-1 :: collapse-1##:instance##collapse-1	name##:mod##collapse-1	name##:op1##"s"
+CNN_ENG_20030610_085833_10##7##0.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	possible##:domain##fine-1
+CNN_CF_20030303_1900_06-1##10##0.0.1 :: Phone-Write :: talk-1 :: talk-1##:instance##talk-1	and##:op2##talk-1	talk-1##:ARG1##write-1	write-1##:ARG1##note	and##:op1##chew
+CNN_ENG_20030527_215946_12##9##0.2 :: Phone-Write :: call-11 :: call-11##:instance##call-11	receive-1##:ARG1##call-1	receive-1##:time##evening	receive-1##:purpose##say-1	receive-1##:ARG1##m	receive-1##:ARG0##person
+CNN_ENG_20030424_173553_8##9##0.0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##anybody	anybody##:ARG1##execute-2	anybody##:ARG0##officer
+CNNHL_ENG_20030425_183518_12##6##0.1.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	demand-1##:ARG1##release-1	say-1##:ARG1##demand-1
+BACONSREBELLION_20050214_0944##22##0.2.1.1.2 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##murder-1	convict-1##:ARG1##girl	girl##:quant##17	girl##:mod##old
+CNN_ENG_20030306_083604_6##6##0.1 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	coor##:ARG0##demonstrate-1	coor##:ARG0##and	coor##:ARG0##book	coor##:ARG1##naed
+APW_ENG_20030418_0084##18##0.2.0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	and##:op2##charge-5	and##:op1##arrest-1	and##:op2##convict-1
+CNN_ENG_20030602_105829_2##44##0 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	bear-2##:ARG1##tell-1	tell-1##:ARG1##you	tell-1##:ARG1##boy
+APW_ENG_20030311_0775##18##0.1.1 :: Phone-Write :: discuss-1 :: discuss-1##:instance##discuss-1	hold-1##:ARG1##discuss-1	hold-1##:ARG1##use-1	and##:op2##hold-1	hold-1##:ARG1##military
+CNN_ENG_20030525_160525_13##22##0.1.0.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:mod##commuter	marriage##:mod##perhaps
+APW_ENG_20030603_0303##7##0 :: Acquit :: acquit-1 :: acquit-1##:instance##acquit-1	acquit-1##:ARG1##range-1	acquit-1##:ARG2##charge-5	range-1##:ARG2##traffic-0	charge-5##:quant##46
+rec_travel_cruises_20050216_1636##27##0 :: Marry :: wonder-1 :: wonder-1##:instance##wonder-1	wonder-1##:time##renew-1	renew-1##:ARG0##easier	renew-1##:ARG1##you	renew-1##:ARG1##wife	renew-1##:manner##just
+APW_ENG_20030416_0581##15##0.0.1.0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	address-1##:ARG1##appeal-2	and##:op1##address-1	address-1##:manner##direct	address-1##:ARG2##government-organization
+APW_ENG_20030610_0010##20##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##contrast-1	contrast-1##:quant##5	contrast-1##:quant##all
+AFP_ENG_20030429_0007##8##0.0.2 :: End-Org :: dissolve-1 :: dissolve-1##:instance##dissolve-1	demand-1##:ARG1##dissolve-1	dissolve-1##:ARG1##create-1	say-1##:ARG1##demand-1	create-1##:ARG1##grouping	demand-1##:time##date-entity	demand-1##:ARG0##group
+APW_ENG_20030412_0531##24##0.1.0.0 :: Start-Position :: seize-1 :: seize-1##:instance##seize-1	after##:op1##seize-1	seize-1##:ARG0##counter-1	counter-1##:ARG1##gen
+misc_kids_pregnancy_20050120_0404##9##0.1.3.0.1.0.1 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	and##:op1##bear-2	and##:op1##4kg
+APW_ENG_20030419_0358##7##0.0.1 :: Be-Born :: birth :: birth##:instance##birth
+alt_gossip_celebrities_20041118_2331##10##0.1.2 :: Be-Born :: bear-2 :: bear-2##:instance##bear-2	find-1##:ARG1##bear-2	find-1##:time##accidentally	and##:op2##find-1	find-1##:manner##thus
+AFP_ENG_20030528_0561##6##0.0.0.1.0.0 :: Declare-Bankruptcy :: bankrupt-1 :: bankrupt-1##:instance##bankrupt-1	energy##:mod##bankrupt-1
+AFP_ENG_20030327_0022##10##0.1.0 :: Execute :: execute-1 :: execute-1##:instance##execute-1	ask-2##:ARG2##execute-1	and##:op2##ask-2
+CNN_ENG_20030422_213527_4##18##0.1 :: End-Org :: fall-5 :: fall-5##:instance##fall-5	and##:time##fall-5	and##:op2##want-1	and##:op1##take-1
+rec_games_chess_politics_20041216_1047##10##0.0.0 :: Start-Position :: take-1 :: take-1##:instance##take-1	after##:op1##take-1
+APW_ENG_20030419_0358##6##0.4.0.1.2.1 :: Be-Born :: birth :: birth##:instance##birth
+CNN_CF_20030304_1900_01##36##0.1.1.0 :: Trial-Hearing :: have-3 :: have-3##:instance##have-3	possible##:domain##have-3
+AFP_ENG_20030617_0846##7##0.1 :: Divorce :: divorce :: divorce##:instance##divorce
+CNN_ENG_20030602_102826_13##7##0.1.0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	include-1##:ARG2##charge-5	and##:op2##include-1
+FLOPPINGACES_20041116_0833_027##8##0.4 :: Release-Parole :: release-1 :: release-1##:instance##release-1	ask-2##:ARG1##release-1	ask-2##:ARG1##government-organization	ask-2##:time##apparent	ask-2##:ARG0##person	ask-2##:ARG2##and
+fsh_29191##194##0.1 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	y##:ARG1##appoint-1
+AFP_ENG_20030327_0022##17##0.2.0.0.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##offender	offender##:ARG1##drug
+BACONSREBELLION_20050226_1317##26##0.0.0.0.1 :: Start-Position :: hire :: hire##:instance##hire	hire##:purpose##work-1	work-1##:ARG3##we	work-1##:ARG1##re
+AFP_ENG_20030430_0075##6##0.1.1 :: Start-Org :: open-1 :: open-1##:instance##open-1	follow-2##:ARG2##open-1	follow-2##:ARG1##launch-1	plan-1##:ARG1##follow-2
+AFP_ENG_20030304_0250##14##0.1.1.1.0.0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:ARG1##victim
+CNN_IP_20030408_1600_03##62##0.0.1 :: Injure :: torture-1 :: torture-1##:instance##torture-1	contrast-1##:ARG2##torture-1	possible##:domain##contrast-1	contrast-1##:ARG1##look-1
+OIADVANTAGE_20050204_1155##49##0 :: Start-Org :: take-1 :: take-1##:instance##take-1	take-1##:domain##interesting	take-1##:manner##aside	take-1##:ARG0##company	take-1##:ARG1##location	abandon-1##:ARG1##location	company##:name##name	location##:location##town
+APW_ENG_20030510_0228##10##0.1.1 :: Fine :: fine-1 :: fine-1##:instance##fine-1	pay-1##:ARG1##fine-1	pay-1##:ARG0##paper	say-1##:ARG1##pay-1	pay-1##:purpose##appeal-2
+AFP_ENG_20030519_0372##8##0 :: Demonstrate :: march-1 :: march-1##:instance##march-1	march-1##:purpose##mark-1	mark-1##:ARG1##birthday
+CNN_ENG_20030618_150128_5##7##0.3 :: Trial-Hearing :: prosecute-1 :: prosecute-1##:instance##prosecute-1	escape-1##:ARG1##prosecute-1	escape-1##:manner##narrowly	escape-1##:ARG0##brien	escape-1##:time##month	escape-1##:ARG1##handle-1
+APW_ENG_20030417_0555##37##0.0.0.0.0.0 :: End-Org :: collapse-1 :: collapse-1##:instance##collapse-1	after##:op1##collapse-1
+APW_ENG_20030610_0010##15##0.1.3.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	secure-2##:ARG1##release-1	receive-1##:purpose##secure-2	secure-2##:time##date-entity	secure-2##:ARG0##country
+APW_ENG_20030403_0862##17##0 :: Start-Org :: put-6 :: put-6##:instance##put-6	put-6##:ARG2##begin-1	put-6##:ARG1##administrate-1	begin-1##:ARG1##work-1	begin-1##:ARG1##government-organization	administrate-1##:mod##interim
+fsh_29272##163##0.2 :: Phone-Write :: call-1 :: call-1##:instance##call-1	have-3##:ARG1##call-1	have-3##:ARG0##somebody	cause-1##:ARG1##have-3
+APW_ENG_20030325_0786##16##0.1.0.0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+CNNHL_ENG_20030410_193626_13##6##0.1.1 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	hold-1##:ARG1##demonstrate-1	hold-1##:ARG0##group	say-1##:ARG1##hold-1	hold-1##:purpose##denounce	hold-1##:location##country
+CNN_ENG_20030618_193127_17##52##0.0.0.1 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG2##do-2	do-2##:ARG1##business
+AFP_ENG_20030323_0020##27##0.2.0.0.1.2 :: Demonstrate :: campaign-1 :: campaign-1##:instance##campaign-1	arrest-1##:purpose##campaign-1	arrest-1##:ARG1##people	arrest-1##:time##past	arrest-1##:ARG1##organization
+AFP_ENG_20030429_0007##6##0.0.1.2 :: End-Org :: dissolve-1 :: dissolve-1##:instance##dissolve-1	call-1##:purpose##dissolve-1	call-1##:domain##create-1	call-1##:mod##reformist	call-1##:mod##internal	face-1##:ARG1##call-1
+CNNHL_ENG_20030604_230238_5##14##0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	face-1##:ARG1##convict-1	face-1##:ARG0##stewart	face-1##:ARG1##prison	face-1##:ARG1##and
+CNNHL_ENG_20030610_133347_6##8##0.1 :: Release-Parole :: release-1 :: release-1##:instance##release-1	name##:ARG1##release-1	name##:op1##"s"
+APW_ENG_20030417_0555##31##0.0 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	_##:ARG1##protest-1	involve-1##:ARG1##protest-1	involve-1##:ARG2##robbery
+AFP_ENG_20030519_0049##7##0.0.3.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	pay-1##:ARG1##fine-1	impose-1##:ARG1##fine-1	impose-1##:mod##far	impose-1##:ARG0##organization	impose-1##:ARG2##company	agree-1##:ARG1##pay-1
+CNNHL_ENG_20030610_133347_6##10##0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	lead-2##:ARG2##charge-5	lead-2##:ARG0##scandal	lead-2##:ARG2##stock	lead-2##:time##week
+CNN_IP_20030403_1600_00-2##30##0.0.3 :: Injure :: injure-1 :: injure-1##:instance##injure-1	look-1##:ARG1##injure-1	look-1##:ARG2##knife	look-1##:ARG0##he	look-1##:ARG1##wound	and##:op1##look-1
+APW_ENG_20030519_0548##6##0.2.1.2.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	follow-1##:ARG2##convict-1	follow-1##:ARG1##run-1
+AGGRESSIVEVOICEDAILY_20041218_1004##15##0.2.0.1.0 :: Be-Born :: birth :: birth##:instance##birth
+CNN_ENG_20030528_172957_18##15##0.1.0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG2##murder-1	charge-5##:ARG1##man
+CNN_CF_20030303_1900_06-1##35##0.0.0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG1##become-1	have-3##:ARG1##sue-1	and##:op1##have-3	become-1##:ARG2##president
+AFP_ENG_20030617_0846##6##0.2 :: Divorce :: divorce :: divorce##:instance##divorce
+XIN_ENG_20030523_0202##11##0.2.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	organization##:location##charge-5	organization##:name##name	organization##:location##country-region
+HEALINGIRAQ_20041108_1942_05##28##0 :: Start-Position :: return-1 :: return-1##:instance##return-1	return-1##:ARG2##position-1	position-1##:mod##former
+CNN_ENG_20030607_170312_6##42##0.1.1.0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	name##:ARG1##charge-5
+CNNHL_ENG_20030625_230351_4##15##0 :: Phone-Write :: deliver-1 :: deliver-1##:instance##deliver-1	deliver-1##:ARG0##courier	deliver-1##:ARG1##letter	deliver-1##:ARG1##location	include-1##:ARG2##location
+CNN_IP_20030329_1600_01-3##49##0.2.2 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	today##:purpose##rally-1	aim-1##:ARG1##rally-1	aim-1##:ARG2##boost-1	today##:mod##setting	today##:ARG0##organization
+CNN_ENG_20030605_065831_18##6##0.0.0.0.0.0.1 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	bring-1##:ARG1##charge-5	charge-5##:consist##list-1	bring-1##:ARG0##and	guilty-1##:ARG2##list-1	list-1##:mod##laundry	bring-1##:purpose##hide-1
+CNN_IP_20030406_1600_03##15##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG1##more-than	more-than##:op1##40
+AFP_ENG_20030509_0345##6##0.0.0.2 :: Start-Org :: launch-1 :: launch-1##:instance##launch-1	launch-1##:ARG1##chain	chain##:mod##cinema	budget-1##:ARG1##chain	chain##:mod##just
+rec_parks_theme_20050217_2019##45##0.3.2 :: End-Org :: cease-1 :: cease-1##:instance##cease-1	and##:op2##cease-1	cease-1##:ARG1##exist-1	and##:op1##continue-1	and##:op1##have-3
+CNN_ENG_20030304_173120_16##9##0.1.0.1.0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	case##:purpose##appeal-2	case##:mod##initial
+rec_parks_theme_20050217_2019##11##0 :: Start-Org :: found-1 :: found-1##:instance##found-1	found-1##:time##early	found-1##:ARG1##organization	found-1##:ARG0##group	organization##:name##name	group##:example##person	and##:consist##group
+APW_ENG_20030519_0367##7##0.2.0.1.2.1 :: Start-Org :: set-5 :: set-5##:instance##set-5	and##:op2##set-5	and##:op1##end-1
+CNN_ENG_20030528_172957_18##13##0.0.1.0 :: Release-Parole :: release-1 :: release-1##:instance##release-1	after##:op1##release-1
+CNN_ENG_20030528_172957_18##20##0.0.2.1.0 :: Release-Parole :: sentence-1 :: sentence-1##:instance##sentence-1	reduce-1##:ARG1##sentence-1	persuade-1##:ARG2##reduce-1
+CNNHL_ENG_20030616_230155_28##14##0.1.1 :: Release-Parole :: release-1 :: release-1##:instance##release-1	clear-2##:ARG2##release-1	take-1##:purpose##clear-2	clear-2##:ARG1##way
+fsh_29303##6##0.0 :: Convict :: find-1 :: find-1##:instance##find-1	find-1##:ARG1##guilty-1	and##:op1##find-1	guilty-1##:ARG2##murder-1	and##:op2##face-1
+AFP_ENG_20030305_0918##7##0.1.1 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1	and##:op2##kill-1
+CNN_ENG_20030530_130025_12##12##0.1.0 :: Charge-Indict :: charge :: charge##:instance##charge	use-1##:ARG0##charge	use-1##:time##after	use-1##:ARG1##power
+CNN_IP_20030402_1600_00-2##10##0.1.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	and##:op2##kill-1
+CNN_ENG_20030424_173553_8##10##0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:ARG1##executive	charge-5##:mod##also	executive##:mod##enron	executive##:quant##7
+fsh_29187##9##0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG1##figure	appoint-1##:ARG0##you	appoint-1##:ARG2##president	appoint-1##:ARG1##and	figure##:mod##nation	and##:op1##cabinet
+CNN_ENG_20030506_053020_14##17##0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	believe-1##:location##merge-1	believe-1##:time##thing
+rec_travel_cruises_20050216_1636##16##0.1 :: Phone-Write :: meet-1 :: meet-1##:instance##meet-1	meet-1##:ARG1##folk	folk##:ARG0##guest
+AFP_ENG_20030323_0020##17##0.3.0 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	attend-1##:ARG1##rally-1	attend-1##:location##country	drive-2##:purpose##attend-1	attend-1##:ARG2##parent
+APW_ENG_20030325_0786##13##0.1.2.0.0 :: Start-Position :: become-1 :: become-1##:instance##become-1	relate-1##:ARG2##become-1	become-1##:ARG2##partner-1	relate-1##:ARG1##document
+CNN_IP_20030408_1600_03##67##0 :: Execute :: hang-1 :: hang-1##:instance##hang-1	hang-1##:ARG1##hang-1
+AFP_ENG_20030415_0734##12##0.0 :: Marry :: married :: married##:instance##married	married##:ARG3##time
+CNN_CF_20030304_1900_01##96##0.2.1 :: Sue :: claim-1 :: claim-1##:instance##claim-1	count##:ARG1##claim-1	count##:name##name
+APW_ENG_20030418_0084##9##0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	expect-1##:ARG1##appeal-2
+CNN_ENG_20030502_093018_6##27##0.0 :: Be-Born :: have-3 :: have-3##:instance##have-3	and##:op1##have-3	have-3##:ARG1##include-1	and##:op2##time
+soc_culture_iraq_20050211_0445##46##0.1 :: End-Org :: close-3 :: close-3##:instance##close-3	have-3##:ARG1##close-3	close-3##:ARG1##have-3	relate-1##:ARG1##close-3	have-3##:ARG1##etc	have-3##:ARG1##dress	have-3##:ARG0##business	relate-1##:ARG2##alcohol	have-3##:ARG0##woman
+AFP_ENG_20030320_0722##6##0.3.0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	and##:op1##demonstrate-1	and##:op2##call-3
+XIN_ENG_20030324_0191##12##0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	injure-1##:ARG1##hit-1	hit-1##:ARG1##bus	and##:op1##kill-1	hit-1##:ARG1##missile
+APW_ENG_20030416_0581##7##0.0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	file-1##:ARG1##appeal-2	file-1##:ARG0##person	report-1##:ARG1##file-1	file-1##:ARG0##organization
+misc_legal_moderated_20041202_1648##13##0.2.0.2.2.0.1 :: Charge-Indict :: charge :: charge##:instance##charge	fail-1##:ARG1##charge	fail-1##:manner##miserably	fail-1##:location##probation	open-1##:ARG0##fail-1
+CNN_ENG_20030607_170312_6##24##0.1.0.2 :: Charge-Indict :: charge :: charge##:instance##charge	charge##:ARG1##obstruction	obstruction##:ARG1##and
+AFP_ENG_20030311_0491##13##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##enter-1	enter-1##:ARG1##thing	enter-1##:ARG1##fix-2
+AFP_ENG_20030417_0764##7##0.0.2.3 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	charge-5##:mod##corrupt-1	complete-1##:ARG2##charge-5	complete-1##:ARG1##person	complete-1##:ARG2##prison	complete-1##:ARG2##temporal-quantity	complete-1##:time##week
+AFP_ENG_20030327_0022##6##0.0.2.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG1##include-1	appeal-2##:ARG1##review-1	after##:op1##appeal-2	include-1##:quant##5	review-1##:duration##temporal-quantity
+fsh_29192##7##0.1.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	see-1##:ARG1##appoint-1	like-2##:ARG1##see-1
+CNN_CF_20030304_1900_01##83##0.1 :: Fine :: pay-1 :: pay-1##:instance##pay-1	and##:op2##pay-1	and##:op1##bring-1
+fsh_29195##9##0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG0##you	appoint-1##:ARG1##figure	appoint-1##:ARG1##and	appoint-1##:ARG2##president	and##:op1##cabinet	figure##:mod##nation
+CNN_ENG_20030525_160525_13##9##0 :: Start-Position :: take-1 :: take-1##:instance##take-1	take-1##:ARG1##job	job##:ARG1##mystery
+CNN_LE_20030504_1200_02-1##49##0.2 :: Charge-Indict :: bring-1 :: bring-1##:instance##bring-1	know-1##:ARG1##bring-1	know-1##:ARG1##apprehend-1	know-1##:manner##certainly
+CNN_IP_20030330_1600_06##7##0.0.1.2.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:manner##bomb-1	tell-1##:ARG1##injure-1	bomb-1##:location##country	bomb-1##:mod##suicide	tell-1##:ARG1##you	go-1##:ARG1##tell-1
+AFP_ENG_20030323_0020##44##0 :: Demonstrate :: take-1 :: take-1##:instance##take-1	take-1##:ARG2##street	take-1##:ARG1##hundreds	approve-1##:ARG1##street	street##:location##and
+CNN_IP_20030403_1600_00-3##69##0.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	say-1##:ARG1##injure-1	and##:op1##say-1
+AGGRESSIVEVOICEDAILY_20041218_1004##16##0.3.1 :: Be-Born :: remove-1 :: remove-1##:instance##remove-1	and##:op2##remove-1	and##:op1##strangle-1	and##:op2##cut-2
+marcellapr_20050211_2013##26##0.1.1.0.0.0.1 :: Phone-Write :: call-3 :: call-3##:instance##call-3	sure##:ARG1##call-3
+rec_parks_theme_20050217_2019##43##0.0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	talk-1##:ARG1##merge-1	contrast-1##:ARG1##talk-1
+AFP_ENG_20030508_0357##7##0.0.1.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	court##:mod##appeal-2
+BACONSREBELLION_20050205_1919##12##0.0.1 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	recommend-1##:ARG1##merge-1	recommend-1##:ARG0##person	believe-1##:ARG1##recommend-1
+rec_games_chess_politics_20041217_2111##52##0.0.2 :: Sue :: sue-1 :: sue-1##:instance##sue-1	and##:op1##sue-1	and##:op2##sue-1	and##:op1##get-1	and##:op1##force-1	and##:op3##irritating	and##:op1##irritating	and##:op1##get-1	and##:op2##imagine	and##:op2##person
+APW_ENG_20030411_0304##12##0 :: Charge-Indict :: face-1 :: face-1##:instance##face-1	face-1##:ARG0##person	face-1##:ARG1##count	count##:ARG1##theft	count##:quant##65	person##:name##name	count##:mod##cash	include-1##:ARG2##count
+MARKETVIEW_20041213_0722##14##0.0.0.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	condemn-1##:ARG1##merge-1	stick-1##:ARG2##condemn-1	condemn-1##:ARG1##deal-1
+APW_ENG_20030610_0010##21##0 :: Acquit :: acquit-1 :: acquit-1##:instance##acquit-1	acquit-1##:time##send-3	send-3##:ARG1##case	send-3##:ARG1##court
+CNN_ENG_20030614_173123_4##11##0 :: Start-Org :: found-1 :: found-1##:instance##found-1	found-1##:time##date-entity	found-1##:ARG1##hama	found-1##:ARG0##cleric	date-entity##:year##1988	influence-1##:ARG1##cleric	cleric##:mod##blind	cleric##:mod##paraplegic
+CNN_CF_20030304_1900_01##83##0.1.2.0 :: Fine :: pay-1 :: pay-1##:instance##pay-1	crosstalk##:ARG2##pay-1
+CNN_ENG_20030605_085831_13##35##0.0.2 :: Trial-Hearing :: prosecute-1 :: prosecute-1##:instance##prosecute-1	single##:ARG2##prosecute-1	single##:ARG1##get-3	single##:mod##unfairly	single##:ARG0##person
+APW_ENG_20030409_0013##17##0.2.1.1.2 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	cause-1##:ARG1##injure-1	and##:op2##wound	and##:op1##burn-1	cause-1##:ARG0##fight-1
+fsh_29303##7##0.1.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##crime
+CNN_CF_20030305_1900_06-1##10##0.0 :: Phone-Write :: write-1 :: write-1##:instance##write-1	keep-5##:ARG1##write-1	keep-5##:ARG0##you	keep-5##:ARG1##reference-1
+XIN_ENG_20030415_0379##9##0.1.0.1 :: Nominate :: name-1 :: name-1##:instance##name-1	name-1##:ARG1##secretary	secretary##:mod##affair
+CNN_ENG_20030306_070606_18##14##0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG2##behalf	appeal-2##:ARG2##organization	organization##:name##name	include-1##:ARG1##behalf
+AFP_ENG_20030616_0715##7##0.2.0 :: Be-Born :: birth :: birth##:instance##birth
+AFP_ENG_20030327_0022##7##0.0.0.4.0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG1##review-1	grant-1##:ARG1##appeal-2	recommend-1##:ARG1##grant-1
+APW_ENG_20030603_0303##7##0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	acquit-1##:ARG2##charge-5	acquit-1##:ARG1##range-1	acquit-1##:time##date-entity	acquit-1##:ARG1##person
+AFP_ENG_20030418_0556##14##0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:time##9	sue-1##:ARG0##person	sue-1##:ARG2##divorce	sue-1##:time##after	sue-1##:ARG1##person	person##:name##name	after##:op1##break-8	person##:name##name
+CNNHL_ENG_20030616_230155_28##15##0.1.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##criminal	criminal##:mod##still
+CNN_ENG_20030621_115841_16##12##0.3.0.2.1 :: End-Org :: dismantle-1 :: dismantle-1##:instance##dismantle-1	and##:op2##dismantle-1	and##:op1##disarm-1
+CNN_IP_20030329_1600_01-3##72##0.1.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG1##civilian	injure-1##:manner##bomb-1	civilian##:quant##picture
+CNN_ENG_20030617_173115_14##6##0.1.2.0.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:mod##gay
+AFP_ENG_20030323_0020##7##0.0.1 :: Demonstrate :: march-1 :: march-1##:instance##march-1	contrast-1##:ARG2##march-1	contrast-1##:ARG2##peace	contrast-1##:ARG2##arrest-1	say-1##:ARG1##contrast-1	contrast-1##:ARG2##part
+APW_ENG_20030520_0081##6##0.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op2##injure-1	and##:op1##kill-1
+rec_travel_cruises_20050216_1636##14##0.1.0 :: Marry :: marriage :: marriage##:instance##marriage
+CNN_CF_20030304_1900_04##113##0.0.2.1 :: Start-Position :: put-3 :: put-3##:instance##put-3	attack-1##:purpose##put-3	attack-1##:ARG1##government-organization	mean-1##:ARG1##attack-1
+AFP_ENG_20030311_0491##10##0.2.0 :: Sue :: pursue-1 :: pursue-1##:instance##pursue-1	agree-1##:ARG1##pursue-1	have-3##:ARG2##agree-1	agree-1##:ARG0##and
+AFP_ENG_20030304_0250##11##0.0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	report-1##:ARG1##injure-1	blast-5##:ARG0##report-1
+APW_ENG_20030416_0581##6##0.0.0.0.2 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##journalist	journalist##:mod##military	journalist##:mod##country
+CNN_ENG_20030618_150128_6##7##0.0 :: Start-Position :: transfer-1 :: transfer-1##:instance##transfer-1	possible##:domain##transfer-1
+CNN_ENG_20030630_075848_7##7##0.3 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	step-1##:ARG2##charge-5	charge-5##:ARG1##abuse-1	abuse-1##:mod##sexual	step-1##:ARG0##law	abuse-1##:ARG1##church	abuse-1##:ARG1##child	abuse-1##:mod##widespread	step-1##:time##date-entity
+APW_ENG_20030527_0232##20##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:mod##any	injure-1##:ARG0##army
+AFP_ENG_20030327_0022##19##0.1.1.0 :: Execute :: execute-1 :: execute-1##:instance##execute-1	carry-3##:ARG1##execute-1	carry-3##:time##date-entity	carry-3##:ARG1##country
+CNN_IP_20030417_1600_06##11##0.1 :: Injure :: injure-1 :: injure-1##:instance##injure-1	die-1##:ARG1##injure-1	die-1##:ARG0##he	die-1##:ARG2##attack-1
+APW_ENG_20030411_0304##7##0.2.0.0.0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	file-1##:ARG1##appeal-2	file-1##:ARG0##person	cause-1##:ARG0##file-1
+APW_ENG_20030527_0232##21##0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	say-1##:ARG1##injure-1	say-1##:ARG0##person
+CNN_ENG_20030424_113549_11##4##0.1.0 :: Phone-Write :: call-1 :: call-1##:instance##call-1	chance##:ARG1##call-1
+AFP_ENG_20030418_0556##14##0.2 :: Divorce :: divorce :: divorce##:instance##divorce
+AFP_ENG_20030320_0722##26##0.2.0 :: Demonstrate :: take-1 :: take-1##:instance##take-1	after##:op1##take-1
+AFP_ENG_20030320_0722##31##0 :: Demonstrate :: gather-1 :: gather-1##:instance##gather-1	gather-1##:ARG1##call-3	call-3##:ARG2##assassinate-1
+APW_ENG_20030527_0232##15##0.0.0.3.0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1
+AGGRESSIVEVOICEDAILY_20041201_2313##18##0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	face-1##:ARG1##convict-1	convict-1##:ARG1##kill-1	face-1##:ARG0##person	face-1##:ARG1##life	face-1##:ARG1##honor-1	face-1##:location##prison
+CNNHL_ENG_20030604_230238_5##11##0.2 :: Charge-Indict :: charge :: charge##:instance##charge	charge##:mod##civil
+AGGRESSIVEVOICEDAILY_20050224_1207##10##0.2.0.0.1 :: Injure :: harm-1 :: harm-1##:instance##harm-1	or##:op2##harm-1	or##:op1##die-1
+AFP_ENG_20030617_0846##11##0.1.0.0 :: Marry :: marriage :: marriage##:instance##marriage	fail-1##:ARG1##marriage
+CNN_CF_20030304_1900_02##86##0.0.1.2 :: Injure :: harm-1 :: harm-1##:instance##harm-1	harm-1##:ARG1##propose-1	propose-1##:ARG1##look-1	propose-1##:ARG0##president	propose-1##:mod##actual
+APW_ENG_20030424_0698##25##0.0 :: Marry :: marriage :: marriage##:instance##marriage	marriage##:ARG2##cousin	marriage##:ARG0##person	marriage##:name##name	cousin##:name##name	person##:name##name	name##:op1##"s"
+CNN_ENG_20030610_123040_9##7##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:ARG0##person	injure-1##:ARG1##person	person##:ARG1##hama	leader##:ARG0##person	person##:name##name
+AFP_ENG_20030327_0022##13##0.0.0.2 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	or##:op2##appeal-2	or##:op2##convict-1	or##:op1##review-1
+AFP_ENG_20030323_0020##21##0.1.0.1.1 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	patriotic##:ARG1##protest-1
+APW_ENG_20030519_0367##6##0.3.1 :: Injure :: wound-1 :: wound-1##:instance##wound-1	and##:op2##wound-1	wound-1##:ARG1##attack-1	and##:op1##kill-1	attack-1##:mod##such
+AFP_ENG_20030528_0561##9##0.0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG2##help-1	and##:op1##sue-1	help-1##:ARG1##hide-1	and##:op2##face-1	allege-1##:ARG1##help-1
+APW_ENG_20030331_0410##16##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##person	convict-1##:time##before	person##:name##name
+AGGRESSIVEVOICEDAILY_20050106_1310##7##0.1.1.2 :: Convict :: convict-1 :: convict-1##:instance##convict-1	throw-6##:ARG1##convict-1	throw-6##:ARG0##rule-3	throw-6##:ARG1##court	throw-6##:mod##just
+CNN_ENG_20030618_150128_5##5##0.1.2.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	after##:op1##charge-5
+rec_games_chess_politics_20041217_2111##47##0.0.0.1.3.0.2.1 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG2##person	person##:mod##move-2	result-1##:ARG2##person	coordinator##:ARG0##person
+APW_ENG_20030527_0232##17##0.0.4 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:ARG0##open-1	open-1##:ARG1##fire-1	say-1##:ARG1##open-1	open-1##:prep-in##village	open-1##:ARG1##and	open-1##:ARG0##troop
+APW_ENG_20030603_0303##17##0 :: Charge-Indict :: accuse-1 :: accuse-1##:instance##accuse-1	accuse-1##:mod##also	accuse-1##:ARG2##siphon	siphon##:ARG1##multiple	siphon##:name##name	siphon##:purpose##finance-1
+CNN_ENG_20030620_085840_7##4##0.0.0.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##rapist
+AFP_ENG_20030417_0764##8##0.2.0.0.1.0.0.2.0 :: Appeal :: appeal-1 :: appeal-1##:instance##appeal-1	court##:ARG1##appeal-1
+AFP_ENG_20030514_0706##7##0.2.0.3.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG1##minister	minister##:mod##prime	minister##:name##name	minister##:mod##country
+AFP_ENG_20030429_0007##10##0.1.1.1 :: Start-Org :: forge-2 :: forge-2##:instance##forge-2	make-1##:ARG1##forge-2	make-1##:ARG1##progress-1	and##:op2##make-1
+MARKETVIEW_20041209_1401##8##0.0.1.2.0.1.0 :: Merge-Org :: merge-1 :: merge-1##:instance##merge-1	start-1##:ARG2##merge-1	start-1##:ARG1##government-organization
+fsh_29191##82##0.0.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	re##:ARG1##appoint-1
+CNN_ENG_20030602_102826_13##13##0.1.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	possible##:domain##charge-5
+APW_ENG_20030319_0545##23##0 :: Start-Position :: start-1 :: start-1##:instance##start-1	start-1##:location##company	start-1##:ARG1##career	start-1##:ARG0##he	credit-2##:ARG1##company	company##:name##name	career##:mod##entertain-1
+CNNHL_ENG_20030410_193626_13##9##0.1 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	stage-1##:ARG1##rally-1	stage-1##:purpose##support-1	stage-1##:time##date-entity	stage-1##:ARG0##person
+fsh_29191##7##0.1.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	see-1##:ARG1##appoint-1	like-2##:ARG1##see-1
+CNN_IP_20030329_1600_00-3##27##0.3.0.1.0 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	possible##:domain##hurt-1
+CNN_ENG_20030621_160254_25##17##0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce	divorce##:mod##ugly	divorce##:ARG1##anna	divorce##:poss##charle	charle##:mod##prince	anna##:mod##princess	anna##:mod##di
+fsh_29187##8##0.1.0.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	recommend-1##:ARG1##appoint-1	think-1##:ARG1##recommend-1
+APW_ENG_20030410_0906##46##0.1.2.0.1 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##person	convict-1##:ARG1##bomb-1	person##:name##name
+alt_support_divorce_20050113_2451##104##0.0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+AFP_ENG_20030320_0722##9##0.0.1 :: Demonstrate :: protest-1 :: protest-1##:instance##protest-1	report-1##:ARG1##protest-1	however##:ARG0##report-1
+CNN_ENG_20030304_173120_16##11##0.2.0 :: Appeal :: rule-3 :: rule-3##:instance##rule-3	follow-2##:ARG1##rule-3	continue-1##:ARG1##follow-2
+APW_ENG_20030527_0232##18##0.0.1 :: Injure :: hurt-1 :: hurt-1##:instance##hurt-1	contrast-1##:ARG2##hurt-1	contrast-1##:ARG1##person	say-1##:ARG1##contrast-1
+APW_ENG_20030502_0686##8##0.0.1.2 :: Start-Org :: create-1 :: create-1##:instance##create-1	contribute-1##:purpose##create-1	contribute-1##:ARG1##troop	contribute-1##:ARG2##sector	agree-1##:ARG1##contribute-1
+CNN_ENG_20030614_173123_4##11##0.2.2.1 :: Start-Org :: set-5 :: set-5##:instance##set-5	set-5##:location##strip-1	influence-1##:time##set-5	set-5##:purpose##back-1	back-1##:ARG2##country	strip-1##:mod##improverished	influence-1##:ARG1##cleric	influence-1##:ARG0##brotherhood
+APW_ENG_20030306_0191##6##0.0.3 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	go-1##:ARG4##charge-5	say-1##:ARG1##go-1	go-1##:time##week	go-1##:ARG4##trial	go-1##:ARG0##wife
+Austin-Grad-Community_20050212_2454##26##0.0.1.0 :: Phone-Write :: call-11 :: call-11##:instance##call-11	give-1##:ARG1##call-1	or##:op2##give-1
+CNN_ENG_20030403_080032_9##15##0.1 :: Be-Born :: birth :: birth##:instance##birth
+CNN_ENG_20030604_102828_6##6##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:time##march-1	convict-1##:ARG2##have-3	have-3##:ARG1##marriage	have-3##:ARG1##sex
+MARKETVIEW_20050206_2009##7##0.1.2.1.5.1.1 :: Merge-Org :: create-1 :: create-1##:instance##create-1	company##:purpose##create-1	company##:mod##bankrupt-1
+fsh_29336##138##0 :: Nominate :: select-1 :: select-1##:instance##select-1	select-1##:ARG0##person	select-1##:ARG1##member	select-1##:ARG1##m	select-1##:ARG1##and	member##:mod##cabinet	have-org-role-91##:ARG0##person	member##:mod##new	m##:purpose##know-1
+AFP_ENG_20030319_0879##7##0.0.0 :: Start-Position :: take-1 :: take-1##:instance##take-1	take-1##:ARG1##state-1	remain-1##:ARG3##state-1
+APW_ENG_20030408_0090##18##0.3.0.1 :: Start-Org :: start-1 :: start-1##:instance##start-1	start-1##:ARG1##manufacture-1	transform##:ARG1##manufacture-1	loom-1##:ARG0##manufacture-1
+APW_ENG_20030510_0228##13##0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:ARG1##violate-1	violate-1##:ARG1##article
+BACONSREBELLION_20050226_1317##18##0.1 :: Start-Position :: employ-2 :: employ-2##:instance##employ-2	employ-2##:ARG0##person	employ-2##:ARG1##immigrant	person##:name##name	immigrant##:mod##law
+AFP_ENG_20030429_0007##7##0.0.0.2 :: Start-Org :: found-1 :: found-1##:instance##found-1	found-1##:ARG1##political-party	rule-3##:ARG0##political-party	political-party##:name##name
+CNN_ENG_20030621_160254_25##12##0.2.0.0.1.0 :: Start-Position :: precede-1 :: precede-1##:instance##precede-1	likely##:domain##precede-1
+APW_ENG_20030527_0232##28##0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	injure-1##:source##incident
+fsh_29191##9##0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	appoint-1##:ARG1##and	appoint-1##:ARG1##figure	appoint-1##:ARG2##president	appoint-1##:ARG0##you	figure##:mod##nation	and##:op1##cabinet
+XIN_ENG_20030423_0011##6##0.2.0.1.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	since##:op1##charge-5	since##:op1##date-entity	since##:op1##custody
+fsh_29326##118##0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG1##penalize-1	appeal-2##:ARG1##sentence-1	cause-1##:ARG1##appeal-2	cause-1##:ARG0##and	penalize-1##:mod##die-1
+misc_legal_moderated_20050129_2225##37##0.0.0 :: Injure :: assault-1 :: assault-1##:instance##assault-1	and##:op1##assault-1	and##:op2##battery
+MARKETVIEW_20041213_0722##15##0.0.0.0.1.0.2.0 :: Start-Org :: start-1 :: start-1##:instance##start-1	and##:op2##start-1
+CNNHL_ENG_20030616_230155_7##7##0.0.0.0 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	and##:op2##demonstrate-1	and##:op2##have-3
+fsh_29348##92##0 :: Start-Position :: become-1 :: become-1##:instance##become-1	become-1##:ARG1##and	become-1##:ARG2##ev	ev##:ARG1##everything	and##:op2##all	and##:op1##president
+AFP_ENG_20030304_0250##9##0.2.0.0.0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	list-1##:mod##injure-1	spread-3##:ARG0##list-1
+AFP_ENG_20030327_0022##8##0.1 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG1##review-1	reject-1##:ARG1##appeal-2	include-1##:ARG1##review-1	review-1##:ARG1##case	reject-1##:ARG0##government-organization
+APW_ENG_20030418_0084##28##0.3.2.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	and##:op1##convict-1	and##:op2##sentence-1
+AFP_ENG_20030304_0250##8##0.2 :: Injure :: wound-1 :: wound-1##:instance##wound-1	record-1##:ARG1##wound-1	record-1##:ARG1##death	record-1##:ARG1##hospital
+CNN_IP_20030329_1600_01-3##53##0.4.2 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	see-1##:ARG1##rally-1	see-1##:mod##really	see-1##:ARG2##support-1	see-1##:ARG1##group	see-1##:time##week
+CNNHL_ENG_20030618_230303_6##4##0.0 :: Injure :: injure-1 :: injure-1##:instance##injure-1	and##:op1##injure-1	and##:op2##burn-1
+fsh_29774##121##0.0.1.1 :: Marry :: married :: married##:instance##married
+AFP_ENG_20030327_0022##9##0 :: Appeal :: appeal-2 :: appeal-2##:instance##appeal-2	appeal-2##:ARG1##review-1
+APW_ENG_20030510_0228##8##0.0.0.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	pay-1##:ARG1##fine-1	fail-1##:purpose##pay-1
+fsh_29388##6##0.0.1 :: Convict :: guilty-41 :: guilty-41##:instance##guilty-41	find-1##:ARG1##guilty-1	murder-1##:ARG1##and	guilty-1##:ARG2##murder-1	find-1##:ARG1##criminal	and##:op1##find-1
+fsh_29226##62##0.2.1.0 :: Divorce :: divorce :: divorce##:instance##divorce
+MARKETVIEW_20050226_1307##12##0.0.0.0.0.0.0.0.2.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG0##company	hire##:ARG1##bunch	hire##:ARG1##money	bunch##:ARG1##lawyer	money##:name##name
+AFP_ENG_20030504_0248##9##0.1 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	consider-1##:ARG1##appoint-1	appoint-1##:ARG1##person	consider-1##:ARG1##inevitable	person##:name##name	consider-1##:ARG1##change-1
+APW_ENG_20030510_0228##6##0.0.3.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	after##:op1##convict-1	convict-1##:ARG1##publish-1	publish-1##:ARG1##material
+AFP_ENG_20030323_0020##7##0.0.3.2.0.0.1.0 :: Demonstrate :: rally-1 :: rally-1##:instance##rally-1	end-2##:ARG1##rally-1	go-1##:ARG2##end-2
+rec_boats_20050130_1006##17##0 :: Sue :: sue-1 :: sue-1##:instance##sue-1	sue-1##:ARG1##overthrow-1	cause-1##:ARG1##sue-1	cause-1##:ARG0##error	overthrow-1##:ARG1##result	cause-1##:location##process
+CNN_CF_20030304_1900_01##96##0.0.1 :: Sue :: claim-1 :: claim-1##:instance##claim-1	list-1##:ARG1##claim-1	list-1##:ARG1##claim-1	and##:op1##list-1
+fsh_29191##8##0.1.0.0 :: Start-Position :: appoint-1 :: appoint-1##:instance##appoint-1	recommend-1##:ARG1##appoint-1	think-1##:ARG1##recommend-1
+APW_ENG_20030331_0410##6##0.0.0.1.0 :: Convict :: convict-1 :: convict-1##:instance##convict-1	convict-1##:mod##assault-1	appeal-2##:ARG1##convict-1	drop##:ARG1##appeal-2
+CNN_IP_20030412_1600_05##14##0.0.2 :: Injure :: injure-1 :: injure-1##:instance##injure-1	see-1##:location##injure-1	see-1##:mod##other	see-1##:ARG1##story	possible##:domain##see-1
+HEALINGIRAQ_20041108_1942_05##37##0 :: Start-Position :: become-1 :: become-1##:instance##become-1	become-1##:ARG1##he	become-1##:ARG1##and	and##:op1##criminal-organization	and##:op2##kill-1
+fsh_29171##56##0.1.1.1.0.0.0.0 :: Start-Position :: hire :: hire##:instance##hire	hire##:ARG1##somebody
+MARKBACKER_20041202_0711##17##0.1.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	know-1##:ARG1##charge-5	want-1##:ARG1##know-1	know-1##:ARG0##i
+CNN_ENG_20030428_173654_13##4##0.0 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	possible##:domain##charge-5
+AFP_ENG_20030417_0764##7##0.2.2 :: Release-Parole :: release-1 :: release-1##:instance##release-1	date##:mod##release-1	date##:mod##possible	date##:time##date-entity	date##:mod##earliest
+CNN_ENG_20030502_080020_7##18##0.2 :: Charge-Indict :: charge-5 :: charge-5##:instance##charge-5	file-1##:ARG1##charge-5	file-1##:ARG1##move-2	file-1##:ARG2##die-1	file-1##:location##exchange-1
+MARKETVIEW_20050204_1736##13##0.1.2.0.0 :: End-Org :: replace-1 :: replace-1##:instance##replace-1	before##:op1##replace-1
+CNN_ENG_20030605_193002_8##5##0.1.1.2.0.0 :: Fine :: pay-1 :: pay-1##:instance##pay-1	have-3##:ARG2##pay-1	say-1##:ARG1##have-3
+CNN_IP_20030329_1600_01-3##45##0.2 :: Demonstrate :: demonstrate-1 :: demonstrate-1##:instance##demonstrate-1	check-7##:ARG1##demonstrate-1	check-7##:mod##ll	check-7##:domain##we
+CNN_IP_20030329_1600_01-1##29##0.0 :: Phone-Write :: call-3 :: call-3##:instance##call-3	and##:op1##call-3	and##:op2##want-1
+alt_support_divorce_20050113_2451##30##0.0 :: Divorce :: divorce :: divorce##:instance##divorce
+CNN_ENG_20030418_083040_11##5##0.1 :: Release-Parole :: release-1 :: release-1##:instance##release-1	and##:op2##release-1	and##:op1##know-1
+CNN_IP_20030408_1600_03##62##0.0.1.1.0.1 :: Execute :: execute-1 :: execute-1##:instance##execute-1	execute-1##:ARG1##brother	brother##:quant##2
+CNN_ENG_20030527_215946_12##15##0.3.3 :: Extradite :: extradite-1 :: extradite-1##:instance##extradite-1	headquarters##:location##extradite-1	headquarters##:mod##department	headquarters##:poss##police	headquarters##:location##country
+fsh_29272##89##0.1 :: Convict :: find-1 :: find-1##:instance##find-1	and##:op2##find-1	find-1##:ARG1##guilty-1	and##:op2##have-3	and##:op2##know-1	and##:op1##know-1
+APW_ENG_20030510_0228##19##0.1.1.0.0.0 :: Fine :: fine-1 :: fine-1##:instance##fine-1	pay-1##:ARG1##fine-1	until##:op1##pay-1
+CNN_ENG_20030617_173115_14##12##0 :: Injure :: wound-1 :: wound-1##:instance##wound-1	wound-1##:ARG1##other	wound-1##:ARG1##incident	other##:example##and	incident##:mod##this	other##:quant##2
+AFP_ENG_20030418_0556##6##0.0.1.2.0 :: Divorce :: divorce :: divorce##:instance##divorce
+CNNHL_ENG_20030616_230155_28##16##0.1 :: Pardon :: clear-2 :: clear-2##:instance##clear-2	and##:op2##clear-2	and##:op1##name
+APW_ENG_20030419_0358##11##0.0.2 :: Be-Born :: deliver-1 :: deliver-1##:instance##deliver-1	happy##:ARG2##deliver-1	happy##:mod##really	happy##:domain##we
