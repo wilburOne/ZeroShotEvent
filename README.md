@@ -33,6 +33,7 @@ Apply zero shot trigger extraction model
 ```
 python zero_shot_final_test.py --test [trigger_structure_file] --test_result [trigger_prediction_file]
 ```
+> To retrain the model, you can update the arguments in zero_shot_final.py file. The ACE training data can be generated from the data/sample/aceEventStructure.train.format.pos_neg.txt
 
 ### Step 5
 Extract candidate arguments
