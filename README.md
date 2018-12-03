@@ -9,6 +9,13 @@ pip install -r requirements.txt
 
 ### Step 1
 Preprocess Data: remove XML tags from ACE/ERE articles, sentence merging, sentence segmantation and tokenization.
+
+ > [source_path]: the path for input files (ACE source corpus)
+ > [source_without_tag_path]: output path after merging sentences and removing xml tags from ACE source articles
+ > [ltf_path]: output path after sentence segmentation and tokenization
+ > [sent_path] [sent_id_path]: output paths for sentences and sentence ids  
+
+
 ```
 java -jar removeXmlTag.jar [source_path] [source_without_tag_path]
 ```
