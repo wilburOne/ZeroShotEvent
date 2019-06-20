@@ -37,7 +37,7 @@ Apply AMR parser (https://github.com/c-amr/camr, or https://github.com/jflanigan
 Extract event mention structures from AMR parsing outputs
  
 ```
-java -jar amrPostProcessing.jar [amr_parsing_path] [sent_id_path] [resource/amrRelationsAnnotated.txt] [trigger_structure_file]
+java -jar amrPostProcessing.jar [amr_parsing_path] [sent_id_path] [resource/amrRelationsAnnotated.txt] [resource/frameNetVN.txt] [trigger_structure_file]
 ```
 
  > [amr_parsing_path]: path of AMR parsing files generated from Step2
@@ -45,6 +45,8 @@ java -jar amrPostProcessing.jar [amr_parsing_path] [sent_id_path] [resource/amrR
  > [sent_id_path]: path of sentence ids generated from Step1
  
  > [resource/amrRelationsAnnotated.txt]: path for resource/amrRelationsAnnotated.txt file
+ 
+ > [resource/frameNetVN.txt]: path for resource/frameNetVN.txt file
  
  > [trigger_structure_file]: output file containing all event structures extracted from all the input files
  
