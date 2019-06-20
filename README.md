@@ -20,7 +20,7 @@ python rsd2ltf.py [source_without_tag_path] [ltf_path] --extension .txt --seg_op
 java -jar sentenceExtractor.jar [ltf_path] [sent_path] [sent_id_path]
 ```
 
- > [source_path]: the path for input files (ACE source corpus)
+ > [source_path]: the path for input files (all .sgm files from ACE source corpus)
  
  > [source_without_tag_path]: output path after merging sentences and removing xml tags from ACE source articles
  
