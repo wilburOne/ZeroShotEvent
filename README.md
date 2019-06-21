@@ -54,13 +54,23 @@ java -jar amrPostProcessing.jar [amr_parsing_path] [sent_id_path] [resource/amrR
 ### Step 4
 Apply zero shot trigger extraction model
 ```
-python zero_shot_final_test.py --test [trigger_structure_file] --test_result [trigger_prediction_file]
+python zero_shot_final_test.py --test [trigger_structure_file] --test_result [trigger_prediction_file] --model_path [model_file] --embedding_path [embedding_file] --ontology_path [ontology_file] --norm_ontology_path [normalized_ontology_file] --seen_types [seen_type_file] --relation_path [file_of_amr_relations]
 ```
 > To retrain the model, you can update the arguments in zero_shot_final.py file. The ACE training data can be generated from the data/sample/aceEventStructure.train.format.pos_neg.txt
 
 > [trigger_structure_file]: input file containing all event structures generated from Step3
 
 > [trigger_prediction_file]: output file containing all event structures and predicted types
+
+> [embedding_file]: e.g., data/embedding/wsd.model.ace.filter.txt
+
+> [ontology_file]: file with the whole target event ontology, e.g., if you use Framenet+ACE as the target ontology, it should be data/frame-ontology/event.ontology.new.txt
+
+> [normalized_ontology_file]: e.g., data/frame-ontology/event.ontology.normalize.new.txt
+
+> [seen_type_file]: file with all seen/training types, e.g., data/flags/train.10
+
+> [file_of_amr_relations]: file with all meaningful AMR relations, e.g., data/resource/amrRelations.txt
 
 
 ### Step 5
@@ -83,11 +93,19 @@ java -jar prepareArgPrediction.jar [amr_parsing_path] [trigger_structure_file] [
 ### Step 6
 Apply zero shot argument extraction model
 ```
-python zero_shot_arg_final_test.py --test [arg_structure_file] --test_result [arg_prediction_file]
+python zero_shot_arg_final_test.py --test [arg_structure_file] --test_result [arg_prediction_file] --model_path [model_file] --embedding_path [embedding_file] --ontology_path [ontology_file] --norm_ontology_path [normalized_ontology_file] --arg_path_file [argument_paths_file] --arg_path_file_universal [universal_argument_paths_file] --trigger_role_matrix [trigger_role_masks] --seen_argss [seen_argument_roles_file] --relation_path [file_of_amr_relations]
 ```
 
 > [arg_structure_file]: argument structure file generated from Step5
 
 > [arg_prediction_file]: output file containing all argument structures and argument role predictions
+
+> [argument_paths_file]: list of all event types and argument roles, e.g., data/frame-ontology/event.ontology.args.merge.all.txt
+
+> [universal_argument_paths_file]: list of all argument roles shared by all event types, e.g., data/frame-ontology/event.ontology.args.universal.txt
+
+> [trigger_role_masks]: matrix to show each event types (index) with all predefined argument roles (index), e.g., data/frame-ontology/event.ontology.trigger.arg.matrix.new.txt
+
+> [seen_argument_roles_file]: all seens/training argument roles, e.g., data/flags/train.arg.10
 
 
