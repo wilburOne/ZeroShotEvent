@@ -109,3 +109,5 @@ python zero_shot_arg_final_test.py --test [arg_structure_file] --test_result [ar
 > [seen_argument_roles_file]: all seens/training argument roles, e.g., data/flags/train.arg.10
 
 
+## Citation
+[1] Lifu Huang, Heng Ji, Kyunghyun Cho, Clare R Voss. Zero-shot transfer learning for event extraction, Proc. ACL, 2018
